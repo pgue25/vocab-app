@@ -45,9 +45,10 @@ h2 { font-size: 17px; margin-bottom: 8px; }
 
 /* Word of the day */
 .word-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.icon { display: block; }
 .speak {
   flex: none; width: 44px; height: 44px; border-radius: 50%; border: 0; cursor: pointer;
-  background: var(--accent-soft); color: var(--accent); font-size: 20px; line-height: 44px; padding: 0;
+  background: var(--accent-soft); color: var(--accent); padding: 0; display: grid; place-items: center;
 }
 .speak:active { transform: scale(.94); }
 .word { font: 600 44px/1.1 var(--serif); margin: 4px 0 6px; overflow-wrap: break-word; min-width: 0; }
@@ -60,7 +61,9 @@ h2 { font-size: 17px; margin-bottom: 8px; }
 .examples li { padding: 4px 0 4px 14px; border-left: 3px solid var(--accent); margin: 12px 0; font-family: var(--serif); }
 .pill { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
 .top { display: flex; justify-content: space-between; align-items: center; }
-.streak { color: var(--muted); font-size: 15px; }
+.streak { color: var(--muted); font-size: 15px; display: flex; align-items: center; gap: 6px; }
+.streak .icon { color: var(--accent); }
+.done-ic { margin: 0 0 8px; display: flex; justify-content: center; color: var(--good); }
 
 /* Quiz */
 .options { display: grid; gap: 10px; margin-top: 12px; }
@@ -103,7 +106,7 @@ button.primary, .btn {
   background: var(--surface); border: 1.5px solid var(--line);
 }
 .mode:active { transform: scale(.98); }
-.mode-ic { font-size: 26px; }
+.mode-ic { color: var(--accent); margin-bottom: 6px; }
 .mode b { font-size: 18px; }
 .mode .muted { font-size: 13px; }
 .progress { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; margin: 10px 0 4px; }
@@ -131,5 +134,5 @@ button.primary, .btn {
   border-top: 1px solid var(--line); padding: 8px 0 calc(env(safe-area-inset-bottom) + 6px);
 }
 .tabs a { flex: 1; text-align: center; font-size: 11px; color: var(--muted); text-decoration: none; display: grid; gap: 2px; }
-.tabs a .ic { font-size: 20px; line-height: 1.2; }
+.tabs a .ic { display: flex; justify-content: center; }
 .tabs a.on { color: var(--accent); font-weight: 600; }

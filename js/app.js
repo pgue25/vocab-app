@@ -27,11 +27,22 @@ function applyTheme() {
 
 // ---------- Pronunciation (built-in text-to-speech, works offline) ----------
 const canSpeak = 'speechSynthesis' in window;
+// Line icons (inline SVG, inherit text color).
+const ICONS = {
+  speaker: '<path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/>',
+  cards: '<rect x="3" y="7" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/>',
+  quiz: '<path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/>',
+  flame: '<path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.07-2.14-.22-4.05 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.15.43-2.29 1-3a2.5 2.5 0 0 0 2.5 2.5z"/>',
+  check: '<circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/>',
+};
+const icon = (name, size = 20) =>
+  `<svg class="icon" width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name]}</svg>`;
+
 // Shrink long words so they never break mid-word next to the speaker button.
 const wordH1 = (word, extra = '') =>
   `<h1 class="word ${word.length > 12 ? 'xlong' : word.length > 9 ? 'long' : ''} ${extra}">${esc(word)}</h1>`;
 const speakBtn = (word) => canSpeak
-  ? `<button class="speak" data-say="${esc(word)}" aria-label="Hear ${esc(word)} pronounced">🔊</button>` : '';
+  ? `<button class="speak" data-say="${esc(word)}" aria-label="Hear ${esc(word)} pronounced">${icon('speaker')}</button>` : '';
 
 function speak(text) {
   speechSynthesis.cancel();
@@ -76,7 +87,7 @@ function renderToday() {
       <span class="pill">Level ${level}</span>
     </div>
     ${wordCard(word)}
-    <p class="streak">🔥 ${current}-day streak · ${plural(Object.keys(state.learned).length, 'word')} studied</p>
+    <p class="streak">${icon('flame', 16)} ${current}-day streak · ${plural(Object.keys(state.learned).length, 'word')} studied</p>
     <a class="btn full" href="#learn">Study today's 25 words</a>`;
 }
 
@@ -162,11 +173,11 @@ function renderLearn() {
     <p class="eyebrow">${weekday} · Today's ${total} words</p>
     <div class="modes">
       <a class="mode" href="#learn/cards">
-        <span class="mode-ic">🃏</span><b>Flashcards</b>
+        <span class="mode-ic">${icon('cards', 26)}</span><b>Flashcards</b>
         <span class="muted">${s.cards.known.length ? `${s.cards.known.length}/${total} known` : 'Flip through definitions'}</span>
       </a>
       <a class="mode" href="#learn/quiz">
-        <span class="mode-ic">✎</span><b>Quiz</b>
+        <span class="mode-ic">${icon('quiz', 26)}</span><b>Quiz</b>
         <span class="muted">${quizDone ? `Done · ${s.quiz.correct}/${s.quiz.order.length}` : s.quiz.i ? `${s.quiz.i}/${s.quiz.order.length} answered` : 'Pick the right sentence'}</span>
       </a>
     </div>
@@ -188,7 +199,7 @@ function renderCards() {
     view.innerHTML = `
       <div class="top"><a class="eyebrow" href="#learn">‹ Learn</a></div>
       <div class="card center">
-        <p style="font-size:44px;margin:0">🎉</p>
+        <p class="done-ic">${icon('check', 44)}</p>
         <h2>All ${set.length} cards known</h2>
         <p class="muted">Ready to use them in context?</p>
         <a class="btn full" href="#learn/quiz">Take the quiz</a>
