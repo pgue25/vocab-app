@@ -1,0 +1,222 @@
+{
+  "empirical": {
+    "examples": [
+      "There is little empirical evidence that the diet works.",
+      "The study took an empirical approach, testing each claim in the field."
+    ],
+    "quizCorrect": [
+      "Economists want empirical data, not just elegant theories.",
+      "Her conclusions rest on years of empirical research in rural clinics.",
+      "The claim sounds plausible, but it has never been tested empirically."
+    ],
+    "quizWrong": [
+      "The Roman legions marched across the empirical lands of the east.",
+      "His argument was purely empirical, based on logic alone with no observation.",
+      "The emperor gave an empirical order to raise taxes.",
+      "She decorated the room in a grand empirical style with gold trim.",
+      "The theory is empirical, so no experiment could ever test it.",
+      "The empirical army conquered three kingdoms in a decade.",
+      "He made an empirical guess without looking at any data.",
+      "The palace was built during the empirical age of the dynasty.",
+      "Philosophers argued about it empirically, from pure reason alone."
+    ]
+  },
+  "ambiguous": {
+    "examples": [
+      "The contract's wording was ambiguous, and both sides claimed victory.",
+      "Her answer was deliberately ambiguous to avoid upsetting anyone."
+    ],
+    "quizCorrect": [
+      "The ending of the film is ambiguous; viewers still argue about it.",
+      "The law is ambiguous on whether drones count as aircraft.",
+      "He sent an ambiguous text that could have been a joke or an insult."
+    ],
+    "quizWrong": [
+      "She is ambiguous and can write equally well with either hand.",
+      "The instructions were so ambiguous that everyone understood them instantly.",
+      "He is an ambiguous young lawyer who wants to be a judge by forty.",
+      "The ambiguous ballerina practiced eight hours a day to reach the top.",
+      "His meaning was ambiguous: clear, simple, and impossible to misread.",
+      "The frog is an ambiguous creature that lives on land and in water.",
+      "She has ambiguous plans to start her own company next year.",
+      "The ambiguous athlete trained hard to make the Olympic team.",
+      "Being ambiguous, he can play guitar left- or right-handed."
+    ]
+  },
+  "mitigate": {
+    "examples": [
+      "The city planted trees to mitigate the effects of summer heat.",
+      "Diversifying your investments can help mitigate risk."
+    ],
+    "quizCorrect": [
+      "New levees were built to mitigate flood damage.",
+      "Nothing he said could mitigate the harm the scandal caused.",
+      "The company hedged its fuel costs to mitigate the impact of rising oil prices."
+    ],
+    "quizWrong": [
+      "Birds mitigate south every winter in search of warmer weather.",
+      "He mitigated against the new rule at every meeting.",
+      "The lawyers agreed to mitigate the dispute rather than go to court.",
+      "Thousands of families mitigate to the city each year for work.",
+      "The new policy will mitigate the problem, making it twice as bad.",
+      "She plans to mitigate her parents into buying her a car.",
+      "Geese mitigate across the continent every fall.",
+      "The two companies hired a judge to mitigate their contract fight.",
+      "Spilling fuel on the fire will mitigate the blaze."
+    ]
+  },
+  "benign": {
+    "examples": [
+      "Doctors were relieved to find the tumor was benign.",
+      "Most of the apps on the list are benign, but a few collect user data."
+    ],
+    "quizCorrect": [
+      "The rash looked alarming but turned out to be benign.",
+      "Officials insist the chemical is benign at these low levels.",
+      "What seemed like a benign software update actually slowed every phone down."
+    ],
+    "quizWrong": [
+      "The new restaurant is benign to open next week.",
+      "The virus was benign, killing thousands in a single month.",
+      "She gave a benign wave as the train began to benign its journey.",
+      "The tumor was benign, so it spread quickly and needed emergency surgery.",
+      "Let the meeting benign; we have a lot to cover.",
+      "The benign storm destroyed every house on the coast.",
+      "He was benign to worry when she didn't call back.",
+      "The poison is benign and will kill anyone who drinks it.",
+      "The concert will benign at eight o'clock sharp."
+    ]
+  },
+  "resilient": {
+    "examples": [
+      "The local economy proved resilient despite the factory closing.",
+      "Children are often more resilient than adults expect."
+    ],
+    "quizCorrect": [
+      "The supply chain needs to be more resilient to future shocks.",
+      "After losing her job, she was resilient and found new work within weeks.",
+      "Resilient communities rebuild faster after natural disasters."
+    ],
+    "quizWrong": [
+      "He is a resilient of Chicago and has lived there all his life.",
+      "The fragile vase was resilient and shattered at the slightest bump.",
+      "She was resilient to try the dish and pushed the plate away.",
+      "Every resilient of the building must attend the meeting.",
+      "The resilient team gave up after the first loss and never recovered.",
+      "He was resilient to accept the offer, so he turned it down.",
+      "The town's resilients voted to build a new park.",
+      "The economy was resilient, collapsing at the first sign of trouble.",
+      "She seemed resilient to talk about the past, so we changed the subject."
+    ]
+  },
+  "concede": {
+    "examples": [
+      "The senator conceded the race shortly after midnight.",
+      "Even his critics concede that the plan has some merit."
+    ],
+    "quizCorrect": [
+      "She conceded that she had underestimated the cost.",
+      "The CEO conceded the company had moved too slowly.",
+      "I'll concede the point, but I still think we should wait."
+    ],
+    "quizWrong": [
+      "The general conceded his troops behind the hill so the enemy couldn't see them.",
+      "He conceded his anger behind a polite smile.",
+      "The magician conceded the coin in his sleeve.",
+      "Don't be so conceded; other people are talented too.",
+      "She conceded the gift under the bed until his birthday.",
+      "The winner conceded victory with a loud celebration.",
+      "He is so conceded that he talks only about himself.",
+      "They conceded the treasure in a cave near the shore.",
+      "The champion refused to concede and proudly conceded the trophy."
+    ]
+  },
+  "candid": {
+    "examples": [
+      "In a candid interview, the director admitted the film was a mistake.",
+      "Thank you for being candid about the problems with the plan."
+    ],
+    "quizCorrect": [
+      "She was candid with her doctor about how much she drinks.",
+      "His candid review of the product went viral.",
+      "To be candid, I don't think the project will finish on time."
+    ],
+    "quizWrong": [
+      "The candid for mayor gave a speech in the town square.",
+      "Each candid must submit a resume and two references.",
+      "He was so candid that he hid the truth from everyone.",
+      "She lit a candid on the dinner table.",
+      "The candid hid his real opinions behind careful talking points.",
+      "The job has three candids, and interviews start Monday.",
+      "Her candid, secretive answers revealed nothing.",
+      "The room was lit only by a single candid.",
+      "The party chose a young candid to run for the open seat."
+    ]
+  },
+  "tentative": {
+    "examples": [
+      "The two sides reached a tentative agreement late Friday night.",
+      "He took a few tentative steps on the ice."
+    ],
+    "quizCorrect": [
+      "The wedding date is tentative until we confirm the venue.",
+      "Investors gave a tentative welcome to the new policy.",
+      "She offered a tentative smile, unsure how he would react."
+    ],
+    "quizWrong": [
+      "The campers set up their tentative near the lake.",
+      "He listened tentatively, hanging on every single word.",
+      "The deal is tentative, so it is final and cannot change.",
+      "She is a tentative student who never misses a detail in class.",
+      "We packed the tentative and sleeping bags into the car.",
+      "His bold, tentative charge into the room surprised everyone.",
+      "The plans are tentative and completely locked in.",
+      "Be tentative to the speaker so you don't miss anything.",
+      "The tentative stakes kept blowing out of the ground."
+    ]
+  },
+  "stringent": {
+    "examples": [
+      "The country has some of the most stringent gun laws in the world.",
+      "New drugs must pass stringent safety tests before approval."
+    ],
+    "quizCorrect": [
+      "Banks now face more stringent rules on how much they can lend.",
+      "The school's dress code is stringent, with no exceptions.",
+      "Stringent quality checks caught the defect before shipping."
+    ],
+    "quizWrong": [
+      "The lemon had a stringent, sour smell.",
+      "The rules were so stringent that anyone could ignore them.",
+      "She tied the package with a stringent piece of twine.",
+      "The cleaning spray has a stringent odor that burns your nose.",
+      "The relaxed, stringent rules let everyone do as they pleased.",
+      "He wiped the cut with a stringent to stop the bleeding.",
+      "The guitar's stringent sound filled the room.",
+      "The stringent vinegar made her eyes water.",
+      "Loose and stringent, the policy had no real requirements."
+    ]
+  },
+  "ubiquitous": {
+    "examples": [
+      "Smartphones have become ubiquitous in just fifteen years.",
+      "Coffee shops are ubiquitous in the downtown area."
+    ],
+    "quizCorrect": [
+      "Plastic waste is now ubiquitous, even in the deep ocean.",
+      "The brand's ads were ubiquitous during the Olympics.",
+      "Once rare, electric scooters are now ubiquitous in big cities."
+    ],
+    "quizWrong": [
+      "The rare bird is ubiquitous, seen only once every few years.",
+      "His ubiquitous jokes made everyone uncomfortable at dinner.",
+      "The ubiquitous handwriting was impossible to read.",
+      "She lives in a ubiquitous village that no one has heard of.",
+      "The ubiquitous stamp is one of only two left in the world.",
+      "He gave a ubiquitous answer that could mean anything.",
+      "The ubiquitous diamond was locked away in a private vault.",
+      "Her ubiquitous behavior at the funeral shocked the family.",
+      "The plant is ubiquitous, growing on just one mountain in Peru."
+    ]
+  }
+}

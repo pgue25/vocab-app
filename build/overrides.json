@@ -1,0 +1,137 @@
+{
+  "consensus": {
+    "sense": 0,
+    "defIndex": 1,
+    "pronunciation": "/kənˈsɛnsəs/"
+  },
+  "viable": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "partisan": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "incumbent": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "catalyst": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "coherent": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "benign": {
+    "sense": 0,
+    "defIndex": 3
+  },
+  "resilient": {
+    "sense": 0,
+    "defIndex": 1,
+    "pronunciation": "/ɹɪˈzɪl.jənt/"
+  },
+  "concede": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "candid": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "tentative": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "ubiquitous": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "prudent": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "egregious": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "volatile": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "fervent": {
+    "sense": 0,
+    "defIndex": 4
+  },
+  "mercurial": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "expedient": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "malleable": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "apocryphal": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "nuance": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "anachronism": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "venal": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "quixotic": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "obfuscate": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "diffident": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "officious": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "unctuous": {
+    "sense": 0,
+    "defIndex": 6
+  },
+  "vacillate": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "torpid": {
+    "sense": 0,
+    "defIndex": 2,
+    "pronunciation": "/ˈtɔɹpɪd/"
+  },
+  "jejune": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "pellucid": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "prevaricate": {
+    "sense": 0,
+    "defIndex": 1
+  }
+}

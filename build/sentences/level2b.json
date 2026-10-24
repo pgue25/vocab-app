@@ -1,0 +1,222 @@
+{
+  "propensity": {
+    "examples": [
+      "Consumers have a propensity to spend more when interest rates are low.",
+      "He has a propensity for exaggeration."
+    ],
+    "quizCorrect": [
+      "Some breeds have a propensity to bark at strangers.",
+      "Her propensity for risk made her a natural entrepreneur.",
+      "The model predicts each customer's propensity to cancel their subscription."
+    ],
+    "quizWrong": [
+      "The family owns a large propensity on the edge of town.",
+      "He inherited his grandfather's propensity, including the farmhouse.",
+      "Please keep off the propensity; trespassers will be prosecuted.",
+      "The landlord raised the rent on every propensity he owns.",
+      "Copper has the propensity of conducting electricity well.",
+      "The propensity tax bill arrived in the mail.",
+      "She showed a strong propensity against sweets and never ate them.",
+      "The real estate agent showed us three propensities downtown.",
+      "Lost propensity can be claimed at the front desk."
+    ]
+  },
+  "salient": {
+    "examples": [
+      "The memo summarizes the salient points of the agreement.",
+      "The most salient feature of the design is its simplicity."
+    ],
+    "quizCorrect": [
+      "Let me highlight the salient facts before we vote.",
+      "Rising rents became the most salient issue in the election.",
+      "The report skips the details and focuses on the salient risks."
+    ],
+    "quizWrong": [
+      "The doctor gave her a salient drip to treat the dehydration.",
+      "The salient sea air made the windows cloudy.",
+      "The point was so salient that nobody noticed it.",
+      "Rinse the wound with a salient solution.",
+      "The minor, salient detail was buried in a footnote no one read.",
+      "The nurse hung a bag of salient fluid by the bed.",
+      "The soup was too salient, so we added water.",
+      "She buried the salient facts so they would go unnoticed.",
+      "Salient water from the ocean isn't safe to drink."
+    ]
+  },
+  "egregious": {
+    "examples": [
+      "The referee made an egregious error in the final minute.",
+      "The report documents egregious abuses of power."
+    ],
+    "quizCorrect": [
+      "Charging $50 for a bottle of water is an egregious markup.",
+      "It was one of the most egregious cases of fraud the judge had seen.",
+      "The typo was egregious: the headline misspelled the president's name."
+    ],
+    "quizWrong": [
+      "He is so egregious that he makes friends everywhere he goes.",
+      "The egregious host welcomed every guest with a warm hug.",
+      "It was a tiny, egregious mistake that didn't matter at all.",
+      "She is an egregious person who loves parties and crowds.",
+      "His egregious personality makes him the life of the party.",
+      "The egregious puppy greeted every visitor with joy.",
+      "Forgetting a comma is an egregious error that nobody will notice.",
+      "Our egregious neighbors invited the whole street to dinner.",
+      "The egregious lion lived in a large pride."
+    ]
+  },
+  "nuance": {
+    "examples": [
+      "The debate format leaves little room for nuance.",
+      "A good translator captures every nuance of the original."
+    ],
+    "quizCorrect": [
+      "The article misses the nuance of the court's decision.",
+      "She played the role with real nuance, not just anger.",
+      "Wine experts can detect subtle nuances of flavor."
+    ],
+    "quizWrong": [
+      "The barking dog next door is a real nuance.",
+      "Stop being such a nuance and let me finish my work.",
+      "The mosquitoes were a constant nuance on the camping trip.",
+      "Her nuance argument used a sledgehammer where a scalpel was needed.",
+      "The loud music became a nuance to the whole building.",
+      "Paperwork is a nuance, but it has to be done.",
+      "His crude, nuance-free speech was full of nuance.",
+      "Traffic on the way to work is a daily nuance.",
+      "The leaky faucet is a nuance that keeps me up at night."
+    ]
+  },
+  "fervent": {
+    "examples": [
+      "She is a fervent supporter of public libraries.",
+      "It is my fervent hope that the two sides will make peace."
+    ],
+    "quizCorrect": [
+      "The candidate's fervent speech brought the crowd to its feet.",
+      "He was a fervent believer in free markets.",
+      "Fans offered fervent prayers in the final seconds of the game."
+    ],
+    "quizWrong": [
+      "The fervent in the oven made the whole kitchen hot.",
+      "Open the fervent so the steam can escape.",
+      "His fervent, lukewarm interest faded within a day.",
+      "She cleaned the dust out of the fervent above the stove.",
+      "The fervent supporter didn't really care either way.",
+      "The baby had a fervent and needed to see a doctor.",
+      "Install a fervent in the bathroom to stop mold.",
+      "He gave a fervent shrug, as if it didn't matter.",
+      "The fervent fumes from the car were dangerous."
+    ]
+  },
+  "ambivalent": {
+    "examples": [
+      "Many voters are ambivalent about both candidates.",
+      "She felt ambivalent about leaving her hometown."
+    ],
+    "quizCorrect": [
+      "He was ambivalent about the job offer: great pay, long hours.",
+      "Investors remain ambivalent toward the new strategy.",
+      "I'm ambivalent about the sequel; it had great moments and awful ones."
+    ],
+    "quizWrong": [
+      "She is ambivalent and can use both hands equally well.",
+      "He was totally ambivalent, firmly decided and sure of his choice.",
+      "The ambivalent rushed her to the hospital.",
+      "The ambivalent athlete threw left-handed and batted right-handed.",
+      "Call an ambivalent; he's not breathing.",
+      "Ambivalent about nothing, he had strong feelings on every issue.",
+      "She was ambivalent to go, so she grabbed her coat right away.",
+      "The ambivalent siren woke up the whole street.",
+      "Being ambivalent, the pianist plays equally well with each hand."
+    ]
+  },
+  "nefarious": {
+    "examples": [
+      "The hackers used the stolen data for nefarious purposes.",
+      "The villain's nefarious plan was foiled at the last minute."
+    ],
+    "quizCorrect": [
+      "Officials suspect a nefarious motive behind the fires.",
+      "The app was harvesting contacts for nefarious ends.",
+      "He was involved in a nefarious scheme to rig the auction."
+    ],
+    "quizWrong": [
+      "The nefarious charity fed thousands of homeless families.",
+      "She is nefarious about the exam and can't stop shaking.",
+      "The nefarious puppy wagged its tail at everyone.",
+      "His nefarious donation built a new children's hospital.",
+      "He gets nefarious before speaking in public.",
+      "The nefarious saint spent his life helping the poor.",
+      "She felt nefarious on the first day of school.",
+      "The kind, nefarious nurse comforted every patient.",
+      "Don't be nefarious; the interview will go fine."
+    ]
+  },
+  "superfluous": {
+    "examples": [
+      "Cut any superfluous words from your essay.",
+      "With the new software, many manual steps are now superfluous."
+    ],
+    "quizCorrect": [
+      "The extra security guard seemed superfluous at such a small event.",
+      "Her explanation made the rest of the meeting superfluous.",
+      "The redesign removed superfluous buttons from the dashboard."
+    ],
+    "quizWrong": [
+      "The superfluous athlete won gold in three different events.",
+      "His superfluous performance earned a standing ovation.",
+      "The engine is superfluous; without it the car won't run.",
+      "That was a superfluous meal, the best I've had all year.",
+      "Water is superfluous to life; we can't survive without it.",
+      "The superfluous hero saved the city from disaster.",
+      "Her superfluous grades got her into every top school.",
+      "Oxygen is superfluous for breathing.",
+      "The view from the mountain was absolutely superfluous."
+    ]
+  },
+  "zealous": {
+    "examples": [
+      "The zealous prosecutor pursued the case for a decade.",
+      "Fans were zealous in defending their team online."
+    ],
+    "quizCorrect": [
+      "He was zealous about recycling, sorting every scrap of trash.",
+      "Overly zealous security guards searched every bag twice.",
+      "She is a zealous advocate for animal rights."
+    ],
+    "quizWrong": [
+      "He was zealous of his brother's new car and wanted one too.",
+      "She felt zealous when her friend got the promotion she wanted.",
+      "The zealous volunteer showed no interest and left early.",
+      "Don't be zealous of other people's success.",
+      "His zealous girlfriend checked his phone every night.",
+      "The bored, zealous worker barely lifted a finger.",
+      "She was zealous of her sister's long hair.",
+      "The zealous husband didn't like his wife talking to other men.",
+      "Apathetic and zealous, he couldn't care less about the cause."
+    ]
+  },
+  "arbiter": {
+    "examples": [
+      "The Supreme Court is the final arbiter of the Constitution.",
+      "For decades, the magazine was the arbiter of fashion."
+    ],
+    "quizCorrect": [
+      "The two companies agreed to let a neutral arbiter settle the dispute.",
+      "Critics are no longer the sole arbiters of what counts as good art.",
+      "The referee is the arbiter of what counts as a foul."
+    ],
+    "quizWrong": [
+      "The rules seemed completely arbiter, with no reason behind them.",
+      "He planted an arbiter of oak trees behind the house.",
+      "She made an arbiter choice by flipping a coin.",
+      "We walked through the arbiter to see the rare trees.",
+      "The arbiter, clearly biased toward one side, refused to listen to the other.",
+      "The decision was arbiter and made on a whim.",
+      "The city's arbiter has trees from every continent.",
+      "His arbiter punishments made no sense to the students.",
+      "Roses climbed over the garden arbiter."
+    ]
+  }
+}

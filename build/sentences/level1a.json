@@ -1,0 +1,222 @@
+{
+  "consensus": {
+    "examples": [
+      "After weeks of debate, the committee finally reached a consensus on the new budget.",
+      "The consensus among economists is that rates will stay high through the spring."
+    ],
+    "quizCorrect": [
+      "There is broad consensus among scientists that the climate is warming.",
+      "The board could not reach a consensus, so the vote was postponed.",
+      "Her proposal won consensus only after she agreed to cut the timeline in half."
+    ],
+    "quizWrong": [
+      "The government conducts a consensus every ten years to count the population.",
+      "He gave his consensus to the surgery by signing the form.",
+      "The two friends had a loud consensus about who should pay for dinner.",
+      "Every resident must fill out the consensus form by April 1.",
+      "She nodded her consensus when the waiter asked if she wanted more coffee.",
+      "The consensus between the rival gangs ended in a street fight.",
+      "Census takers recorded the consensus of each household on the island.",
+      "The doctor needs your written consensus before giving the vaccine.",
+      "A bitter consensus broke out when the referee made the call."
+    ]
+  },
+  "inevitable": {
+    "examples": [
+      "With the deadline moved up, some delays were inevitable.",
+      "Critics called the merger an inevitable result of falling profits."
+    ],
+    "quizCorrect": [
+      "Once the dam cracked, flooding downstream was inevitable.",
+      "Change is inevitable, but how we respond to it is a choice.",
+      "The team's loss seemed inevitable after their star player was injured."
+    ],
+    "quizWrong": [
+      "The rain was so light that it was inevitable to anyone walking outside.",
+      "She was inevitable to attend the meeting because of a family emergency.",
+      "Grandma's soup recipe is inevitable; nothing else tastes quite like it.",
+      "The thief was inevitable in the dark, so no one saw him leave.",
+      "He gave an inevitable performance that the audience will never forget.",
+      "The tickets were inevitable to buy, so we watched the game at home.",
+      "Her kindness is inevitable, so everyone in the office loves her.",
+      "The store was inevitable on Sundays, so we shopped on Saturday instead.",
+      "His handwriting was so messy that the note was inevitable."
+    ]
+  },
+  "viable": {
+    "examples": [
+      "Investors want to know whether the startup has a viable business model.",
+      "Solar power has become a viable alternative to coal in many regions."
+    ],
+    "quizCorrect": [
+      "The plan looked good on paper but was not financially viable.",
+      "Remote work proved a viable option for most of the staff.",
+      "Without new funding, the newspaper will not remain viable for long."
+    ],
+    "quizWrong": [
+      "The museum's viable display of ancient coins drew huge crowds.",
+      "He spoke in a viable voice that carried across the room.",
+      "The painting's viable colors made it the brightest in the gallery.",
+      "She keeps a viable diary of everything she eats.",
+      "The movie was so viable that I cried at the ending.",
+      "His viable laugh could be heard from down the hall.",
+      "The view from the cliff was viable for miles.",
+      "The singer's viable personality made her a fan favorite.",
+      "Please write in viable letters so the clerk can read your address."
+    ]
+  },
+  "partisan": {
+    "examples": [
+      "The bill passed on a partisan vote, with no support from the opposition.",
+      "Voters say they are tired of partisan bickering in Congress."
+    ],
+    "quizCorrect": [
+      "The commission was designed to draw district lines without partisan influence.",
+      "His column is so partisan that readers from the other party ignore it.",
+      "Even routine funding bills have become partisan battles."
+    ],
+    "quizWrong": [
+      "The chef sprinkled partisan cheese over the pasta.",
+      "She was partisan to the plan, so she agreed to everything without question.",
+      "The judge's ruling was entirely partisan, weighing both sides equally.",
+      "We ordered a partisan pizza with extra basil.",
+      "The new mayor promised a partisan approach that would favor no group.",
+      "He bought a partisan wheel of cheese from the Italian market.",
+      "As a neutral observer, the reporter stayed carefully partisan.",
+      "The partisan referee called the game fairly for both teams.",
+      "The salad was topped with shaved partisan and olive oil."
+    ]
+  },
+  "incumbent": {
+    "examples": [
+      "The incumbent won reelection by a narrow margin.",
+      "Startups often struggle to compete with well-funded incumbents."
+    ],
+    "quizCorrect": [
+      "The challenger attacked the incumbent's record on housing.",
+      "Incumbents usually enjoy a large fundraising advantage.",
+      "The incumbent chose not to run again after twelve years in office."
+    ],
+    "quizWrong": [
+      "The incumbent weather forced us to cancel the picnic.",
+      "He was incumbent from the race after failing to file his paperwork.",
+      "The incumbent of the meeting was to review the budget.",
+      "Rising rents are incumbent in nearly every big city.",
+      "The ship was incumbent by a sudden storm.",
+      "The incumbent candidate had never held any office before.",
+      "The patient was incumbent in bed for three weeks after surgery.",
+      "The new hire, an incumbent, started work on Monday.",
+      "The museum's incumbent exhibit opens next month for the first time."
+    ]
+  },
+  "catalyst": {
+    "examples": [
+      "The protests became a catalyst for sweeping reform.",
+      "Analysts expect the earnings report to be a catalyst for the stock."
+    ],
+    "quizCorrect": [
+      "Her viral video was the catalyst that launched her career.",
+      "The financial crisis served as a catalyst for new banking rules.",
+      "A single conversation was the catalyst for his move to Paris."
+    ],
+    "quizWrong": [
+      "The library added the new books to its catalyst.",
+      "She flipped through the furniture catalyst looking for a new couch.",
+      "The catalyst slowed the project down until it stopped completely.",
+      "The museum's catalyst lists every painting in the collection.",
+      "He ordered the boots from a mail-order catalyst.",
+      "The noise was a catalyst that made everyone fall asleep.",
+      "Check the catalyst to find which aisle has the batteries.",
+      "The catalyst prevented any change from happening at all.",
+      "She circled three dresses in the holiday catalyst."
+    ]
+  },
+  "feasible": {
+    "examples": [
+      "Engineers are studying whether a bridge across the bay is feasible.",
+      "The most feasible option is to delay the launch by a month."
+    ],
+    "quizCorrect": [
+      "With the current budget, a full renovation isn't feasible.",
+      "It may be feasible to finish the project early if we hire two more people.",
+      "The report found that high-speed rail between the cities is technically feasible."
+    ],
+    "quizWrong": [
+      "After the long hike, we were feasible and ready for dinner.",
+      "The feasible crowd cheered as the band took the stage.",
+      "She felt feasible after skipping lunch and dinner.",
+      "The holiday feasible included turkey, pie, and stuffing.",
+      "The weather was feasible, with dark clouds and heavy rain.",
+      "He was feasible about the news and jumped for joy.",
+      "The town held a feasible to celebrate the harvest.",
+      "The sick puppy looked feasible and tired.",
+      "The fabric is feasible, so it stretches easily."
+    ]
+  },
+  "volatile": {
+    "examples": [
+      "Oil prices have been volatile since the conflict began.",
+      "The situation at the border remains volatile."
+    ],
+    "quizCorrect": [
+      "Cryptocurrency is known for being extremely volatile.",
+      "He has a volatile temper and can explode over small things.",
+      "Investors fled the volatile market for the safety of bonds."
+    ],
+    "quizWrong": [
+      "The volatile soup simmered gently all afternoon without changing.",
+      "She turned up the volatile on the radio so we could hear the song.",
+      "His mood is always volatile; he never changes his opinion.",
+      "The library is a volatile place where everyone stays quiet and calm.",
+      "Please lower the volatile, the baby is sleeping.",
+      "The volatile rock had not moved in a thousand years.",
+      "Prices were completely volatile, staying flat for ten years.",
+      "The speaker's volatile was too loud for the small room.",
+      "He is a volatile, steady presence who never loses his cool."
+    ]
+  },
+  "skeptical": {
+    "examples": [
+      "Many experts remain skeptical of the company's growth claims.",
+      "I was skeptical at first, but the results convinced me."
+    ],
+    "quizCorrect": [
+      "Voters are skeptical that the new tax will actually lower costs.",
+      "The editor was skeptical of the anonymous source.",
+      "She gave him a skeptical look when he said he'd be on time."
+    ],
+    "quizWrong": [
+      "The doctor cleaned the cut to keep it from getting skeptical.",
+      "He believed every rumor he heard; he was very skeptical.",
+      "The wound turned skeptical and needed antibiotics.",
+      "Her skeptical tank needs to be pumped every few years.",
+      "She was so skeptical that she trusted the stranger with her keys.",
+      "Use a skeptical wipe to clean the countertop.",
+      "The skeptical fans believed their team would win easily.",
+      "The old farmhouse uses a skeptical system instead of a sewer.",
+      "He was skeptical about the plan and supported it completely."
+    ]
+  },
+  "coherent": {
+    "examples": [
+      "The company still lacks a coherent strategy for the Asian market.",
+      "After the accident, he was too shaken to give a coherent account."
+    ],
+    "quizCorrect": [
+      "Her essay made a coherent argument from start to finish.",
+      "The new policy brings the scattered rules into a coherent system.",
+      "He was exhausted but still managed to give a coherent answer."
+    ],
+    "quizWrong": [
+      "Some risk is coherent in every investment.",
+      "She was coherent to attend the party but stayed home.",
+      "His speech was so coherent that no one could follow it.",
+      "The two magnets were coherent to each other's pull.",
+      "The coherent rambling went on for hours without a point.",
+      "She is a loyal coherent of the old school of painting.",
+      "He was coherent of the risks but took them anyway.",
+      "The jumbled, coherent notes made no sense.",
+      "Strong glue keeps the pages coherent to the spine."
+    ]
+  }
+}

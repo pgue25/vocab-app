@@ -1,0 +1,200 @@
+{
+  "didactic": {
+    "examples": [
+      "The novel is entertaining but sometimes too didactic.",
+      "Early children's books were openly didactic, full of moral lessons."
+    ],
+    "quizCorrect": [
+      "The documentary takes a didactic tone, lecturing viewers about diet.",
+      "Her poems avoid being didactic; they show rather than preach.",
+      "The museum's didactic panels explain each painting's history."
+    ],
+    "quizWrong": [
+      "The didactic ruler controlled every part of the nation's life.",
+      "He is so didactic that he never offers anyone advice or lessons.",
+      "The general seized power and ruled as a didactic leader.",
+      "Her poem was didactic, with no message or lesson at all.",
+      "The didactic regime jailed anyone who criticized it.",
+      "The free-flowing, didactic jazz solo had no structure.",
+      "Citizens rose up against the didactic government.",
+      "The playful, didactic cartoon had no moral whatsoever.",
+      "He governed as a didactic strongman for thirty years."
+    ]
+  },
+  "deleterious": {
+    "examples": [
+      "Smoking has deleterious effects on almost every organ.",
+      "The tariffs had a deleterious impact on small manufacturers."
+    ],
+    "quizCorrect": [
+      "Lack of sleep can be deleterious to memory.",
+      "Researchers studied the deleterious effects of social media on teens.",
+      "The flood had a deleterious effect on the town's economy."
+    ],
+    "quizWrong": [
+      "The cake was absolutely deleterious; I had three slices.",
+      "Exercise has deleterious effects, like stronger muscles and a healthier heart.",
+      "What a deleterious meal, the chef outdid herself.",
+      "Fresh vegetables are deleterious to good health, so eat plenty.",
+      "The dessert menu looks deleterious tonight.",
+      "Clean air has a deleterious effect, helping people live longer.",
+      "This soup is deleterious; can I have the recipe?",
+      "She deleteriously erased the old files from her computer.",
+      "The strawberries were ripe and deleterious."
+    ]
+  },
+  "cogent": {
+    "examples": [
+      "She made a cogent case for raising the minimum wage.",
+      "The judge found the defense's argument cogent and persuasive."
+    ],
+    "quizCorrect": [
+      "The report offers a cogent analysis of the housing crisis.",
+      "He gave a cogent explanation of why the project failed.",
+      "Critics have yet to offer a cogent alternative."
+    ],
+    "quizWrong": [
+      "The secret agent worked cogent under a false name.",
+      "His rambling, cogent speech made no sense to anyone.",
+      "The spy traveled cogent through Europe.",
+      "The cogent smell of garlic filled the kitchen.",
+      "Her muddled, cogent answer confused the panel.",
+      "The cheese had a strong, cogent odor.",
+      "The celebrity checked into the hotel cogent.",
+      "His cogent argument was full of holes and contradictions.",
+      "The cogent perfume lingered in the room for hours."
+    ]
+  },
+  "gregarious": {
+    "examples": [
+      "He's gregarious and loves hosting big dinner parties.",
+      "Sheep are gregarious animals that stay in flocks."
+    ],
+    "quizCorrect": [
+      "Her gregarious personality made her a natural salesperson.",
+      "The gregarious host chatted with every guest.",
+      "Unlike his gregarious sister, he preferred quiet evenings at home."
+    ],
+    "quizWrong": [
+      "The shy, gregarious boy ate lunch alone every day.",
+      "The crime was so gregarious that the whole city was shocked.",
+      "Cats are gregarious; they prefer to live completely alone.",
+      "It was a gregarious error that cost the company millions.",
+      "The gregarious hermit hadn't spoken to anyone in years.",
+      "Charging that much is a gregarious overcharge.",
+      "Being gregarious, he avoids parties and crowds.",
+      "The referee made a gregarious mistake in the final seconds.",
+      "The gregarious loner never joined any clubs."
+    ]
+  },
+  "apocryphal": {
+    "examples": [
+      "The story about the founder's garage is probably apocryphal.",
+      "Many quotes attributed to Einstein are apocryphal."
+    ],
+    "quizCorrect": [
+      "The tale of George Washington and the cherry tree is apocryphal.",
+      "An apocryphal legend says the bridge was built in a single night.",
+      "Historians dismissed the letter as apocryphal."
+    ],
+    "quizWrong": [
+      "The movie depicts an apocryphal future where cities lie in ruins.",
+      "The verified, apocryphal account was confirmed by documents.",
+      "Survivors of the apocryphal war struggled to find food.",
+      "The novel takes place after an apocryphal disaster ends civilization.",
+      "The photo proved the story was apocryphal and completely true.",
+      "The preacher warned of the apocryphal end of the world.",
+      "Zombie films often have an apocryphal setting.",
+      "Her apocryphal diary is the most reliable source we have.",
+      "The meteor caused an apocryphal extinction."
+    ]
+  },
+  "pedantic": {
+    "examples": [
+      "It may sound pedantic, but the comma changes the meaning of the law.",
+      "His pedantic corrections annoyed everyone at the table."
+    ],
+    "quizCorrect": [
+      "I don't mean to be pedantic, but tomatoes are technically fruit.",
+      "The professor's pedantic lectures focused on trivial details.",
+      "Fans got pedantic about the movie's historical errors."
+    ],
+    "quizWrong": [
+      "She got a pedantic at the salon before the wedding.",
+      "He was so pedantic that he never cared about small details.",
+      "The pedantic polished her toenails bright red.",
+      "Her relaxed, pedantic style ignored all the rules.",
+      "The spa offers a pedantic with every massage.",
+      "The pedantic bridge connects the two halves of the park for walkers.",
+      "His pedantic, easygoing nature made him fun to work with.",
+      "The pedantic crossing has a signal for walkers.",
+      "The new mall is fully pedantic, with no cars allowed."
+    ]
+  },
+  "prescient": {
+    "examples": [
+      "Her prescient warnings about the housing bubble were ignored.",
+      "The novel now seems eerily prescient."
+    ],
+    "quizCorrect": [
+      "The investor made a prescient bet against the airline.",
+      "His 1990s essay on the internet proved remarkably prescient.",
+      "Looking back, the memo was prescient about the risks."
+    ],
+    "quizWrong": [
+      "The prescient of the company called an emergency meeting.",
+      "Her prescient forecast turned out to be completely wrong.",
+      "The prescient gave a speech at the White House.",
+      "He signed the prescient prescription and handed it to the patient.",
+      "The prescient was elected to a second four-year term.",
+      "His prescient prediction missed every major event of the decade.",
+      "Each student was prescient at the morning roll call.",
+      "The prescient of the club welcomed new members.",
+      "Grandma gave me a prescient for my birthday."
+    ]
+  },
+  "reticent": {
+    "examples": [
+      "The usually reticent actor opened up about his childhood.",
+      "Officials were reticent about the details of the investigation."
+    ],
+    "quizCorrect": [
+      "She was reticent about her salary, so I didn't press her.",
+      "The company has been reticent about its plans for the new site.",
+      "He is reticent in meetings but brilliant in writing."
+    ],
+    "quizWrong": [
+      "The dog was reticent to go outside in the rain, so he stayed in.",
+      "He's a reticent talker who shares every detail of his life.",
+      "The reticent of the town gathered at the meeting.",
+      "Chatty and reticent, she told everyone her secrets.",
+      "The reticent of the ancient castle is now a museum.",
+      "He gave a long, reticent speech full of personal stories.",
+      "She is a reticent of Boston.",
+      "The reticent guest talked nonstop through dinner.",
+      "The reticent boxer kept fighting despite his injuries."
+    ]
+  },
+  "magnanimous": {
+    "examples": [
+      "The winner was magnanimous in victory, praising her opponent.",
+      "It was a magnanimous gesture to forgive the debt."
+    ],
+    "quizCorrect": [
+      "Despite the insults, he gave a magnanimous concession speech.",
+      "The magnanimous donor gave anonymously.",
+      "She was magnanimous enough to share credit with her rival."
+    ],
+    "quizWrong": [
+      "The vote was magnanimous, with every member in favor.",
+      "The petty, magnanimous boss held grudges for years.",
+      "The decision was magnanimous; nobody voted against it.",
+      "The magnanimous author wrote under a fake name.",
+      "He was magnanimous and refused to forgive anyone.",
+      "The jury reached a magnanimous verdict after an hour.",
+      "The letter was magnanimous, signed by no one.",
+      "The bitter, magnanimous loser stormed off without shaking hands.",
+      "The magnanimous tip came from a donor who didn't give a name."
+    ]
+  }
+}

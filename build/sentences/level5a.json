@@ -1,0 +1,222 @@
+{
+  "loquacious": {
+    "examples": [
+      "The loquacious taxi driver told us his life story.",
+      "Usually loquacious, she was strangely quiet at dinner."
+    ],
+    "quizCorrect": [
+      "The loquacious witness kept straying from the question.",
+      "After a glass of wine, he became loquacious.",
+      "Her loquacious emails could be cut in half without losing anything."
+    ],
+    "quizWrong": [
+      "The loquacious monk had taken a vow of silence.",
+      "The restaurant is in a loquacious spot right by the beach.",
+      "He is so loquacious that he rarely says a word.",
+      "The loquacious honey dripped slowly from the spoon.",
+      "The shy, loquacious boy answered only with nods.",
+      "Her loquacious, one-word replies frustrated the reporter.",
+      "The loquacious syrup was thick and sticky.",
+      "The hotel's loquacious location is close to everything.",
+      "The loquacious mime performed without a sound."
+    ]
+  },
+  "desultory": {
+    "examples": [
+      "They made desultory conversation while waiting for the bus.",
+      "After a desultory search, he gave up on finding his keys."
+    ],
+    "quizCorrect": [
+      "The team made only desultory efforts to fix the bug.",
+      "Her desultory reading jumped from poetry to physics to gardening.",
+      "The applause was desultory and faded quickly."
+    ],
+    "quizWrong": [
+      "The desultory heat of the Sahara can reach 120 degrees.",
+      "She studied with desultory focus, never once looking up from her book.",
+      "Without rain, the farm became a desultory wasteland.",
+      "His desultory, methodical search covered every inch of the room.",
+      "The desultory island had no trees or fresh water.",
+      "The desultory athlete trained with relentless discipline.",
+      "We rode camels across the desultory plains.",
+      "She made a desultory, carefully planned five-year strategy.",
+      "The desultory climate made farming impossible."
+    ]
+  },
+  "diffident": {
+    "examples": [
+      "The diffident new employee rarely spoke up in meetings.",
+      "He was diffident about his talent, despite winning several awards."
+    ],
+    "quizCorrect": [
+      "She gave a diffident smile and looked at the floor.",
+      "The diffident candidate struggled in the televised debate.",
+      "Once diffident, he became confident after joining the debate team."
+    ],
+    "quizWrong": [
+      "The twins are completely diffident; one is tall and the other is short.",
+      "The bold, diffident speaker commanded the room.",
+      "Try a diffident approach if the first one doesn't work.",
+      "Her diffident swagger impressed the investors.",
+      "The two plans are diffident in almost every way.",
+      "He's diffident and loves being the center of attention.",
+      "Each student got a diffident assignment.",
+      "The diffident boxer strutted into the ring taunting his opponent.",
+      "The new version is diffident from the old one."
+    ]
+  },
+  "officious": {
+    "examples": [
+      "An officious clerk insisted we fill out the form again.",
+      "The officious neighbor reported every parked car to the city."
+    ],
+    "quizCorrect": [
+      "The officious usher kept telling people to sit up straight.",
+      "She found her manager officious and controlling.",
+      "An officious security guard demanded to see everyone's ID twice."
+    ],
+    "quizWrong": [
+      "The president released an officious statement on the matter.",
+      "The officious results of the election were announced Tuesday.",
+      "The relaxed, officious guard let everyone through without checking.",
+      "Please wear officious attire to the ceremony.",
+      "The hands-off, officious boss never interfered with our work.",
+      "The officious language of the treaty was French.",
+      "The officious launch date is next month.",
+      "His officious title is Chief Financial Officer.",
+      "The easygoing, officious host left guests completely alone."
+    ]
+  },
+  "phlegmatic": {
+    "examples": [
+      "The phlegmatic captain stayed calm as the storm worsened.",
+      "Even in a crisis, the phlegmatic banker never raised his voice."
+    ],
+    "quizCorrect": [
+      "Her phlegmatic temperament made her an excellent emergency nurse.",
+      "He received the news in his usual phlegmatic way.",
+      "The phlegmatic goalkeeper never seemed rattled."
+    ],
+    "quizWrong": [
+      "The phlegmatic fan screamed and jumped through the whole game.",
+      "He is so phlegmatic that he loses his temper at the smallest thing.",
+      "Her phlegmatic outbursts frightened the staff.",
+      "The excitable, phlegmatic puppy ran in circles.",
+      "The phlegmatic coach threw a chair at the referee.",
+      "She was phlegmatic and burst into tears at every setback.",
+      "The phlegmatic crowd stormed the field in a frenzy.",
+      "His hot-headed, phlegmatic nature caused many fights.",
+      "The phlegmatic toddler threw a tantrum in the store."
+    ]
+  },
+  "inchoate": {
+    "examples": [
+      "The plan is still inchoate, more of an idea than a strategy.",
+      "Her inchoate anger finally found words."
+    ],
+    "quizCorrect": [
+      "The movement was inchoate, without leaders or clear goals.",
+      "He had an inchoate sense that something was wrong.",
+      "The startup's business model was still inchoate when it raised money."
+    ],
+    "quizWrong": [
+      "The inchoate ruler measured exactly twelve inches.",
+      "Her inchoate plan was fully developed down to the last detail.",
+      "The cat was inchoate, calm and sitting perfectly still.",
+      "The finished, inchoate building opened to the public last year.",
+      "He gave an inchoate speech, polished after months of rehearsal.",
+      "The inchoate worm moved slowly across the leaf.",
+      "The mature, inchoate wine had aged for twenty years.",
+      "The inchoate painting was finished and framed.",
+      "The inchoate theory was complete and ready for publication."
+    ]
+  },
+  "unctuous": {
+    "examples": [
+      "The unctuous salesman complimented everything about us.",
+      "His unctuous tone made the apology sound fake."
+    ],
+    "quizCorrect": [
+      "The host's unctuous flattery of his guests grew tiresome.",
+      "She was put off by the realtor's unctuous charm.",
+      "The unctuous butler bowed a little too deeply."
+    ],
+    "quizWrong": [
+      "Her blunt, unctuous criticism hurt everyone's feelings.",
+      "The unctuous uncle visited every Thanksgiving.",
+      "He was unctuous and rude, refusing even to say hello.",
+      "Her unctuous refusal to flatter anyone earned her real respect.",
+      "The plain-spoken, unctuous farmer never flattered anyone.",
+      "His gruff, unctuous greeting was little more than a grunt.",
+      "The unctuous guard bluntly told us to leave and slammed the door.",
+      "The unctuous critic tore the novel apart with harsh honesty.",
+      "She gave an honest, unctuous assessment with no sugarcoating."
+    ]
+  },
+  "lugubrious": {
+    "examples": [
+      "The movie's lugubrious ending left audiences in tears.",
+      "He spoke in a lugubrious voice about the state of the economy."
+    ],
+    "quizCorrect": [
+      "The bloodhound's lugubrious face made everyone laugh.",
+      "The band's lugubrious ballads were perfect for a rainy day.",
+      "She found the funeral music almost comically lugubrious."
+    ],
+    "quizWrong": [
+      "The lugubrious party went on with laughter and dancing until dawn.",
+      "Use a lugubrious oil to keep the engine running smoothly.",
+      "The cheerful, lugubrious clown made the children giggle.",
+      "The mechanic added lugubrious grease to the hinges.",
+      "Her lugubrious smile brightened everyone's day.",
+      "The lugubrious lotion made her skin smooth.",
+      "The sunny, lugubrious song was an instant summer hit.",
+      "The lugubrious food was rich and luxurious.",
+      "The car needs a lugubrious oil change every 5,000 miles."
+    ]
+  },
+  "obdurate": {
+    "examples": [
+      "The obdurate senator refused to change his vote.",
+      "Despite the pleas of his family, he remained obdurate."
+    ],
+    "quizCorrect": [
+      "The judge was obdurate and denied every appeal.",
+      "Their obdurate refusal to negotiate prolonged the strike.",
+      "She faced an obdurate bureaucracy that ignored her complaints."
+    ],
+    "quizWrong": [
+      "The obdurate guest overstayed for a week.",
+      "He was obdurate and gave in at the first request.",
+      "The project took an obdurate amount of time.",
+      "The obdurate child was easily persuaded to eat her vegetables.",
+      "The obdurate meeting lasted six hours.",
+      "The flexible, obdurate manager changed course whenever asked.",
+      "The obdurate wait at the airport was exhausting.",
+      "She was obdurate and agreed to every compromise.",
+      "It was an obdurate journey of several days."
+    ]
+  },
+  "tendentious": {
+    "examples": [
+      "The documentary was criticized as tendentious and one-sided.",
+      "His tendentious reading of history ignores inconvenient facts."
+    ],
+    "quizCorrect": [
+      "The report's tendentious language revealed the author's bias.",
+      "Critics called the book a tendentious attack on the president.",
+      "The question was tendentious, framed to produce a particular answer."
+    ],
+    "quizWrong": [
+      "The tendentious atmosphere in the room made everyone nervous.",
+      "He pulled a tendentious muscle during the race.",
+      "Her balanced, tendentious report gave every side a fair hearing.",
+      "The tendentious negotiations went on all night.",
+      "She tore a tendentious ligament in her knee.",
+      "The neutral, tendentious mediator favored neither side.",
+      "The movie's tendentious final scene kept us on the edge of our seats.",
+      "The athlete strained a tendentious tissue in his heel.",
+      "The tendentious standoff lasted for hours."
+    ]
+  }
+}

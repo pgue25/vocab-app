@@ -1,0 +1,244 @@
+{
+  "spurious": {
+    "examples": [
+      "The lawsuit was dismissed as spurious.",
+      "Be wary of spurious correlations in small data sets."
+    ],
+    "quizCorrect": [
+      "He made spurious claims about his military service.",
+      "The study found a spurious link between ice cream sales and drownings.",
+      "The website sold spurious designer bags at bargain prices."
+    ],
+    "quizWrong": [
+      "The spurious horse leapt over the fence at full speed.",
+      "She made a spurious decision without thinking it through.",
+      "The well-documented, spurious evidence convinced the jury of the truth.",
+      "The cowboy dug his spurious boots into the horse's sides.",
+      "On a spurious whim, they drove to the beach at midnight.",
+      "The genuine, spurious diamond was certified by three experts.",
+      "He bought a spurious pair of leather riding boots.",
+      "The trip was spurious; we planned it in five minutes.",
+      "The rodeo rider's spurious heels jingled as he walked."
+    ]
+  },
+  "audacious": {
+    "examples": [
+      "The company unveiled an audacious plan to reach Mars by 2030.",
+      "It was an audacious heist carried out in broad daylight."
+    ],
+    "quizCorrect": [
+      "Her audacious bid for the presidency surprised party leaders.",
+      "The rookie made an audacious shot from half court.",
+      "Critics called the merger audacious, if not reckless."
+    ],
+    "quizWrong": [
+      "The audacious music was so loud it hurt our ears.",
+      "The timid, audacious mouse hid under the floorboards.",
+      "The audacious hall was packed for the concert.",
+      "Turn down that audacious stereo before the neighbors complain.",
+      "Her audacious plan was cautious and modest in every way.",
+      "The audacious crowd's cheering could be heard for blocks.",
+      "The shy, audacious boy never raised his hand in class.",
+      "The audacious alarm clock woke the whole house.",
+      "He made the safe, audacious choice of staying home."
+    ]
+  },
+  "hubris": {
+    "examples": [
+      "The CEO's hubris led him to ignore every warning.",
+      "In Greek tragedy, hubris is usually punished by the gods."
+    ],
+    "quizCorrect": [
+      "It was hubris to assume the election was already won.",
+      "The empire's collapse is often blamed on the hubris of its rulers.",
+      "His hubris cost him his job when he insulted the board."
+    ],
+    "quizWrong": [
+      "She showed great hubris by thanking everyone else for her success.",
+      "The modest athlete's hubris made her loved by everyone.",
+      "After the storm, the street was covered in hubris.",
+      "The humble scientist's hubris led him to credit his students.",
+      "Workers cleared the hubris from the collapsed building.",
+      "His quiet hubris and self-doubt kept him from bragging.",
+      "The hurricane left hubris scattered across the beach.",
+      "Out of hubris, she downplayed her own role in the project.",
+      "The yard was full of hubris after the tree fell."
+    ]
+  },
+  "exacerbate": {
+    "examples": [
+      "The drought will exacerbate food shortages in the region.",
+      "Raising tariffs could exacerbate inflation."
+    ],
+    "quizCorrect": [
+      "Scratching will only exacerbate the rash.",
+      "His angry tweet exacerbated tensions between the two countries.",
+      "Budget cuts exacerbated the shortage of nurses."
+    ],
+    "quizWrong": [
+      "The medicine exacerbated her pain, and she felt better within an hour.",
+      "The kids exacerbated all their energy at the playground.",
+      "The ice pack will exacerbate the swelling and make it go down.",
+      "Long meetings exacerbate me so much that I need a nap.",
+      "The peace talks exacerbated the conflict and brought calm to the region.",
+      "The marathon left her completely exacerbated.",
+      "Ice exacerbates the bruise, helping it heal faster.",
+      "The rescue team exacerbated the trapped miners from the tunnel.",
+      "Lowering prices exacerbated the crisis, ending it overnight."
+    ]
+  },
+  "acumen": {
+    "examples": [
+      "Her business acumen turned a small shop into a national chain.",
+      "The job requires political acumen as much as technical skill."
+    ],
+    "quizCorrect": [
+      "His financial acumen made him a sought-after adviser.",
+      "Investors praised the founder's acumen in spotting trends early.",
+      "She showed remarkable legal acumen for a first-year lawyer."
+    ],
+    "quizWrong": [
+      "The doctor used acumen needles to relieve her back pain.",
+      "The acumen of the mountain was covered in snow.",
+      "His total lack of acumen showed in his brilliant investments.",
+      "She tried acumen to treat her headaches.",
+      "They planted a flag on the acumen of the peak.",
+      "He has a great acumen for spicy food.",
+      "The acumen of his career came when he won the award.",
+      "The clumsy rookie's acumen led to a string of costly mistakes.",
+      "Acumen therapy uses pressure points on the body."
+    ]
+  },
+  "culpable": {
+    "examples": [
+      "The investigation found several executives culpable.",
+      "Is a driver culpable if the brakes fail?"
+    ],
+    "quizCorrect": [
+      "The court ruled that the landlord was partly culpable for the fire.",
+      "Those who stayed silent are also culpable.",
+      "He was found guilty of culpable negligence."
+    ],
+    "quizWrong": [
+      "She is a culpable leader who can handle any crisis.",
+      "The innocent bystander was clearly culpable for nothing.",
+      "The new hire is culpable of handling the account alone.",
+      "He's a culpable mechanic; your car is in good hands.",
+      "The culpable victim had done nothing wrong at all.",
+      "She is culpable of running a marathon in under three hours.",
+      "The jury found him completely blameless and culpable.",
+      "Our culpable team finished the job ahead of schedule.",
+      "He's culpable of great things if he works hard."
+    ]
+  },
+  "expedient": {
+    "examples": [
+      "It was politically expedient to delay the vote until after the election.",
+      "The government chose the expedient of borrowing rather than raising taxes."
+    ],
+    "quizCorrect": [
+      "Cutting corners may be expedient, but it isn't right.",
+      "The senator's sudden change of heart looked more expedient than principled.",
+      "Firing the manager was an expedient way to calm angry investors."
+    ],
+    "quizWrong": [
+      "The explorers led an expedient up the Amazon.",
+      "She joined an expedient to the North Pole.",
+      "The expedient set out to climb Everest in May.",
+      "The slow, expedient process took twelve years to complete.",
+      "The scientists' expedient to Antarctica lasted six months.",
+      "He acted on principle, even though it was expedient and easy.",
+      "The museum funded an expedient to find the lost city.",
+      "Please expedient my order so it arrives by Friday.",
+      "Their mountain expedient was cut short by a blizzard."
+    ]
+  },
+  "malleable": {
+    "examples": [
+      "The rules turned out to be more malleable than anyone expected.",
+      "Young children's opinions are highly malleable."
+    ],
+    "quizCorrect": [
+      "Public opinion on the issue proved surprisingly malleable.",
+      "Warm clay is malleable and easy to shape.",
+      "The founders kept the plan malleable so it could adapt to the market."
+    ],
+    "quizWrong": [
+      "The malleable dog bit the mail carrier.",
+      "He is malleable and stubborn, never changing his mind.",
+      "The malleable spirits haunted the old house.",
+      "Glass is malleable; it shatters when you hit it with a hammer.",
+      "The malleable witch cast a curse on the village.",
+      "His malleable opinions were fixed and impossible to change.",
+      "The villain's malleable laugh echoed through the castle.",
+      "Cast iron is malleable, so it breaks rather than bends.",
+      "The malleable gossip spread cruel rumors."
+    ]
+  },
+  "mercurial": {
+    "examples": [
+      "The mercurial coach could be charming one minute and furious the next.",
+      "Investors are wary of the founder's mercurial temperament."
+    ],
+    "quizCorrect": [
+      "The star's mercurial behavior made the film hard to finish.",
+      "Spring weather in the mountains is mercurial.",
+      "His mercurial moods kept the staff on edge."
+    ],
+    "quizWrong": [
+      "The mercurial merchant sold spices in the market.",
+      "He has a mercurial temperament: calm, steady, and predictable.",
+      "The thermometer was full of mercurial liquid.",
+      "She was so mercurial that her mood never changed.",
+      "The mercurial trader cared only about profit.",
+      "The steady, mercurial rhythm of the clock put me to sleep.",
+      "The mercurial planet is closest to the sun.",
+      "His mercurial loyalty never wavered in forty years.",
+      "The merchants' mercurial guild controlled the port."
+    ]
+  },
+  "lethargic": {
+    "examples": [
+      "The heat left everyone feeling lethargic.",
+      "The economy has been lethargic since the spring."
+    ],
+    "quizCorrect": [
+      "The medication made him lethargic for a few days.",
+      "After the big lunch, the team was lethargic all afternoon.",
+      "Investors worry about the company's lethargic sales growth."
+    ],
+    "quizWrong": [
+      "The snake's bite was lethargic and killed within minutes.",
+      "After three coffees, she felt lethargic and full of energy.",
+      "The lethargic dose of poison was enough to kill a horse.",
+      "The lethargic puppy bounced around the yard for hours.",
+      "The weapon was lethargic, designed to kill.",
+      "He was so lethargic that he ran ten miles before breakfast.",
+      "The spider is lethargic to humans; one bite can be fatal.",
+      "The lethargic crowd danced wildly until dawn.",
+      "The chemical is lethargic in large amounts."
+    ]
+  },
+  "placate": {
+    "examples": [
+      "The company offered refunds to placate angry customers.",
+      "Nothing the manager said could placate her."
+    ],
+    "quizCorrect": [
+      "The government raised wages to placate striking workers.",
+      "He brought flowers to placate his annoyed girlfriend.",
+      "The new rules were meant to placate critics, not to fix the problem."
+    ],
+    "quizWrong": [
+      "The dentist found placate on her back teeth.",
+      "They hung a bronze placate on the building's front wall.",
+      "His rude reply placated her, and she stormed out angrily.",
+      "Brush twice a day to remove placate.",
+      "The award came with an engraved placate.",
+      "Insulting the customer is a great way to placate him.",
+      "The placate by the door lists the building's history.",
+      "Raising prices again placated the furious shoppers.",
+      "Flossing helps keep placate off your teeth."
+    ]
+  }
+}

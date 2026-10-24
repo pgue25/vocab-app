@@ -1,0 +1,222 @@
+{
+  "quixotic": {
+    "examples": [
+      "His quixotic campaign for governor drew only a few hundred votes.",
+      "Trying to fix the entire tax code in a year is a quixotic goal."
+    ],
+    "quizCorrect": [
+      "She launched a quixotic quest to read every book in the library.",
+      "Critics called the plan to end traffic with a single app quixotic.",
+      "There is something admirable about his quixotic fight against the giant company."
+    ],
+    "quizWrong": [
+      "The quixotic runner finished the race in record time.",
+      "Her quixotic, realistic plan was grounded in hard numbers.",
+      "He made a quixotic trip to the store and was back in two minutes.",
+      "The quixotic chef cooked dinner in under ten minutes.",
+      "Practical and quixotic, she only pursued safe, achievable goals.",
+      "The quixotic delivery arrived an hour early.",
+      "He's a quixotic, cynical accountant who expects the worst.",
+      "We need a quixotic fix to get the website back up in five minutes.",
+      "The quixotic sprinter left everyone behind."
+    ]
+  },
+  "intransigent": {
+    "examples": [
+      "Talks stalled because both sides remained intransigent.",
+      "The intransigent landlord refused to repair the heating."
+    ],
+    "quizCorrect": [
+      "The intransigent senator blocked the bill for months.",
+      "Management's intransigent stance led to a strike.",
+      "Even after the evidence came out, he remained intransigent."
+    ],
+    "quizWrong": [
+      "The intransigent workers moved from farm to farm each season.",
+      "The flexible, intransigent negotiator gave in on every point.",
+      "Packages in intransigent may take a week to arrive.",
+      "The intransigent family never stayed in one town for long.",
+      "She was intransigent and happy to compromise on anything.",
+      "My order is still intransigent somewhere in Ohio.",
+      "The city built shelters for its intransigent population.",
+      "His intransigent attitude made him the easiest person to bargain with.",
+      "The shipment was delayed while intransigent through customs."
+    ]
+  },
+  "bellicose": {
+    "examples": [
+      "The dictator's bellicose speech alarmed neighboring countries.",
+      "Markets fell after bellicose statements from both governments."
+    ],
+    "quizCorrect": [
+      "His bellicose tone at the meeting made compromise impossible.",
+      "The general was known for his bellicose views on foreign policy.",
+      "After a few drinks, he became bellicose and picked fights."
+    ],
+    "quizWrong": [
+      "The bellicose baby giggled at the bubbles.",
+      "The bellicose singer filled the hall with her beautiful voice.",
+      "He patted his bellicose stomach after the huge dinner.",
+      "The peace-loving, bellicose monk never raised his voice.",
+      "The bellicose bells of the cathedral rang at noon.",
+      "Santa has a round, bellicose belly.",
+      "The gentle, bellicose diplomat calmed both sides.",
+      "Her bellicose laughter was warm and friendly.",
+      "The bellicose dancer moved gracefully across the stage."
+    ]
+  },
+  "obfuscate": {
+    "examples": [
+      "The company used jargon to obfuscate its losses.",
+      "Don't obfuscate the issue with irrelevant details."
+    ],
+    "quizCorrect": [
+      "The politician tried to obfuscate his role in the scandal.",
+      "The fine print seemed designed to obfuscate the real fees.",
+      "Her answer clarified nothing; it only obfuscated the question."
+    ],
+    "quizWrong": [
+      "The teacher obfuscated the lesson so clearly that everyone understood.",
+      "The witness obfuscated the facts so clearly that the jury finally understood.",
+      "The annual report obfuscates every detail with perfect transparency.",
+      "She obfuscated the room with a fresh coat of paint.",
+      "The diagram obfuscates the process, making it simple to follow.",
+      "His speech was obfuscated with applause.",
+      "The new manual obfuscates the steps in plain English.",
+      "The chef obfuscated the steak with a sharp knife.",
+      "The guide obfuscated the trail so hikers wouldn't get lost."
+    ]
+  },
+  "sycophant": {
+    "examples": [
+      "The CEO surrounded himself with sycophants who never challenged him.",
+      "He was dismissed as a sycophant who agreed with whoever was in charge."
+    ],
+    "quizCorrect": [
+      "Only a sycophant would praise such a terrible speech.",
+      "The king's court was full of sycophants seeking favors.",
+      "She refused to be a sycophant, even if it cost her the promotion."
+    ],
+    "quizWrong": [
+      "The sycophant in the zoo had a very long trunk.",
+      "As a sycophant, he openly criticized his boss at every meeting.",
+      "The doctor diagnosed him as a sycophant and prescribed medication.",
+      "The sycophant told the king exactly how bad his ideas were.",
+      "The killer was a sycophant with no conscience.",
+      "The honest sycophant refused to flatter anyone.",
+      "The movie's villain is a dangerous sycophant who enjoys hurting people.",
+      "The sycophant held a stubborn, independent view against the crowd.",
+      "Psychologists studied the sycophant's violent behavior."
+    ]
+  },
+  "parsimonious": {
+    "examples": [
+      "The parsimonious landlord refused to replace the broken heater.",
+      "Scientists prefer the most parsimonious explanation that fits the data."
+    ],
+    "quizCorrect": [
+      "He was so parsimonious that he reused tea bags three times.",
+      "The company's parsimonious budget left no room for raises.",
+      "Despite her wealth, she remained parsimonious in daily life."
+    ],
+    "quizWrong": [
+      "The parsimonious host spared no expense on the lavish banquet.",
+      "She chopped parsimonious leaves to garnish the soup.",
+      "He was parsimonious with compliments, praising everyone constantly.",
+      "The parsimonious billionaire bought a yacht on a whim.",
+      "Sprinkle some fresh parsimonious over the potatoes.",
+      "The parsimonious tipper left the waiter a hundred-dollar bill.",
+      "His parsimonious generosity was famous in the town.",
+      "The parsimonious garden grew herbs like basil and mint.",
+      "She spent parsimoniously, buying everything she saw."
+    ]
+  },
+  "ebullient": {
+    "examples": [
+      "The ebullient host greeted every guest with a hug.",
+      "Investors were ebullient after the strong earnings report."
+    ],
+    "quizCorrect": [
+      "Her ebullient personality filled the room.",
+      "The ebullient crowd sang all the way home from the stadium.",
+      "He was in an ebullient mood after the promotion."
+    ],
+    "quizWrong": [
+      "The ebullient mourners wept quietly at the funeral.",
+      "He felt ebullient and depressed after losing his job.",
+      "The ebullient prisoner was led away in chains, staring at the floor.",
+      "She gave an ebullient sigh of despair.",
+      "The ebullient, gloomy professor rarely smiled.",
+      "The tired, ebullient team trudged off the field after the loss.",
+      "His ebullient silence made everyone uneasy.",
+      "The ebullient puppy lay motionless in the corner all day.",
+      "She was ebullient and withdrawn, avoiding everyone at the party."
+    ]
+  },
+  "inimical": {
+    "examples": [
+      "High taxes, critics argue, are inimical to growth.",
+      "The policy is inimical to the interests of small farmers."
+    ],
+    "quizCorrect": [
+      "Secrecy is inimical to good government.",
+      "The desert's heat is inimical to most forms of life.",
+      "Such constant interruptions are inimical to deep work."
+    ],
+    "quizWrong": [
+      "Her inimical style of painting is instantly recognizable.",
+      "Clean water is inimical to good health; we need it to survive.",
+      "He has an inimical voice that no one can imitate.",
+      "The comedian's inimical timing made the crowd roar.",
+      "Sunlight is inimical to plants and helps them grow.",
+      "The chef has an inimical approach to French cooking.",
+      "Their inimical friendship lasted fifty years.",
+      "Exercise is inimical to fitness, so do it daily.",
+      "Her inimical handwriting is easy to spot."
+    ]
+  },
+  "obsequious": {
+    "examples": [
+      "The obsequious waiter refilled our water after every sip.",
+      "He was obsequious to his bosses and rude to everyone else."
+    ],
+    "quizCorrect": [
+      "The interviewer's obsequious questions made the celebrity look good.",
+      "Staff were obsequious when the owner visited the store.",
+      "Her obsequious praise of the CEO embarrassed the room."
+    ],
+    "quizWrong": [
+      "The meaning of the poem is obsequious and hard to figure out.",
+      "The obsequious waiter ignored us for an hour.",
+      "The rebel was obsequious, defying the king at every turn.",
+      "The obsequious instructions left everyone confused.",
+      "He was obsequious to his boss, insulting him in front of everyone.",
+      "The reason for the delay remains obsequious.",
+      "The proud, obsequious general bowed to no one.",
+      "The obsequious clues made the puzzle nearly impossible.",
+      "His motives were obsequious; no one could tell what he wanted."
+    ]
+  },
+  "abstruse": {
+    "examples": [
+      "The lecture was too abstruse for most of the audience.",
+      "He writes about abstruse topics in plain language."
+    ],
+    "quizCorrect": [
+      "The tax code is full of abstruse rules.",
+      "Her thesis dealt with an abstruse corner of number theory.",
+      "The professor's abstruse explanation left the students more confused."
+    ],
+    "quizWrong": [
+      "The abstruse painting was just colorful shapes with no clear subject.",
+      "The guide was so abstruse that a child could follow it.",
+      "His abstruse behavior at the party was rude and insulting.",
+      "She is an abstruse artist who paints only shapes and colors.",
+      "The simple, abstruse instructions took a minute to read.",
+      "The abstruse driver yelled at everyone in traffic.",
+      "The museum's abstruse wing features modern art.",
+      "Her abstruse remarks offended the guests.",
+      "The children's book was clear and abstruse."
+    ]
+  }
+}
