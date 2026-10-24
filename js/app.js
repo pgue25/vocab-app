@@ -1,4 +1,4 @@
-import { pickWordOfDay, nyDateKey } from './wordOfDay.js';
+import { pickWordOfDay, pickDailySet, nyDateKey } from './wordOfDay.js';
 import * as store from './store.js';
 
 const view = document.getElementById('view');
@@ -27,6 +27,9 @@ function applyTheme() {
 
 // ---------- Pronunciation (built-in text-to-speech, works offline) ----------
 const canSpeak = 'speechSynthesis' in window;
+// Shrink long words so they never break mid-word next to the speaker button.
+const wordH1 = (word, extra = '') =>
+  `<h1 class="word ${word.length > 12 ? 'xlong' : word.length > 9 ? 'long' : ''} ${extra}">${esc(word)}</h1>`;
 const speakBtn = (word) => canSpeak
   ? `<button class="speak" data-say="${esc(word)}" aria-label="Hear ${esc(word)} pronounced">🔊</button>` : '';
 
@@ -48,7 +51,7 @@ view.addEventListener('click', (e) => {
 function wordCard(w) {
   return `
     <div class="card">
-      <div class="word-row"><h1 class="word">${esc(w.word)}</h1>${speakBtn(w.word)}</div>
+      <div class="word-row">${wordH1(w.word)}${speakBtn(w.word)}</div>
       <div class="meta"><i>${esc(w.partOfSpeech)}</i>${w.pronunciation ? ` · ${esc(w.pronunciation)}` : ''}</div>
     </div>
     <div class="card">
@@ -73,17 +76,213 @@ function renderToday() {
       <span class="pill">Level ${level}</span>
     </div>
     ${wordCard(word)}
-    <p class="streak">🔥 ${current}-day streak · ${plural(Object.keys(state.learned).length, 'word')} learned</p>
-    <a class="btn full" href="#quiz">Test your knowledge</a>`;
+    <p class="streak">🔥 ${current}-day streak · ${plural(Object.keys(state.learned).length, 'word')} studied</p>
+    <a class="btn full" href="#learn">Study today's 25 words</a>`;
 }
 
-// ---------- Single word (from Stats) ----------
+// ---------- Single word (from Learn or Quiz stats) ----------
 function renderWord(name) {
   const w = byWord.get(name);
-  if (!w || !state.learned[name]) return (location.hash = '#stats');
+  if (!w) return (location.hash = '#learn');
   view.innerHTML = `
-    <div class="top"><a class="eyebrow" href="#stats">‹ Stats</a><span class="pill">Level ${w.level}</span></div>
+    <div class="top"><a class="eyebrow" href="javascript:history.back()">‹ Back</a><span class="pill">Level ${w.level}</span></div>
     ${wordCard(w)}`;
+}
+
+// ---------- Shared question UI (used by Quiz tab and Learn quiz) ----------
+// Each word has 3 sets of (1 correct + 3 wrong); rotate by attempts so repeats differ.
+function questionFor(w) {
+  const set = (state.quiz[w.word]?.attempts || 0) % w.quizCorrect.length;
+  const correct = w.quizCorrect[set];
+  return { correct, options: shuffle([correct, ...w.quizWrong.slice(set * 3, set * 3 + 3)]) };
+}
+
+function questionHTML(w, options, eyebrow) {
+  return `
+    <div class="top">
+      <p class="eyebrow">${eyebrow}</p>
+      <span class="pill">Level ${w.level}</span>
+    </div>
+    <div class="card"><div class="word-row">${wordH1(w.word)}${speakBtn(w.word)}</div>
+      <div class="meta"><i>${esc(w.partOfSpeech)}</i></div></div>
+    <p class="muted" style="margin:0 0 4px;font-size:14px">Which sentence uses it correctly?</p>
+    <div class="options">
+      ${options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}</button>`).join('')}
+    </div>
+    <div id="feedback"></div>`;
+}
+
+// Wires up answer buttons; calls onAnswered(ok) and shows the correct sentence + definition.
+function bindQuestion(w, { correct, options }, nextLabel, onNext, onAnswered) {
+  view.querySelectorAll('.opt').forEach((btn) => btn.addEventListener('click', () => {
+    const ok = options[+btn.dataset.i] === correct;
+    store.recordAnswer(state, w.word, ok);
+    store.markViewed(state, w, nyDateKey());
+    onAnswered?.(ok);
+    view.querySelectorAll('.opt').forEach((b) => {
+      b.disabled = true;
+      if (options[+b.dataset.i] === correct) b.classList.add('correct');
+    });
+    if (!ok) btn.classList.add('wrong');
+    document.getElementById('feedback').innerHTML = `
+      <div class="card feedback">
+        <p class="verdict ${ok ? 'ok' : 'no'}">${ok ? 'Correct' : 'Not quite'}</p>
+        <p class="def" style="font-size:17px">“${esc(correct)}”</p>
+        <p class="eyebrow" style="margin-top:14px">Definition</p>
+        <p style="margin:0">${esc(w.definition)}</p>
+      </div>
+      <button class="primary full" id="next">${nextLabel}</button>`;
+    document.getElementById('next').addEventListener('click', onNext);
+    document.getElementById('next').scrollIntoView({ behavior: 'smooth', block: 'end' });
+  }));
+}
+
+// ---------- Learn: today's 25 words ----------
+// Session progress is saved so closing the app mid-way doesn't lose your place.
+function learnSession() {
+  const { dateKey, words: set } = pickDailySet(words);
+  if (state.learn?.date !== dateKey) {
+    const names = set.map((w) => w.word);
+    state.learn = {
+      date: dateKey,
+      cards: { queue: shuffle(names), known: [], seen: 0 },
+      quiz: { order: shuffle(names), i: 0, correct: 0, missed: [] },
+    };
+    store.save(state);
+  }
+  return { dateKey, set, s: state.learn };
+}
+
+function renderLearn() {
+  const { dateKey, set, s } = learnSession();
+  const weekday = WEEKDAYS[new Date(dateKey + 'T00:00:00Z').getUTCDay()];
+  const total = set.length;
+  const quizDone = s.quiz.i >= s.quiz.order.length;
+  view.innerHTML = `
+    <p class="eyebrow">${weekday} · Today's ${total} words</p>
+    <div class="modes">
+      <a class="mode" href="#learn/cards">
+        <span class="mode-ic">🃏</span><b>Flashcards</b>
+        <span class="muted">${s.cards.known.length ? `${s.cards.known.length}/${total} known` : 'Flip through definitions'}</span>
+      </a>
+      <a class="mode" href="#learn/quiz">
+        <span class="mode-ic">✎</span><b>Quiz</b>
+        <span class="muted">${quizDone ? `Done · ${s.quiz.correct}/${s.quiz.order.length}` : s.quiz.i ? `${s.quiz.i}/${s.quiz.order.length} answered` : 'Pick the right sentence'}</span>
+      </a>
+    </div>
+    ${[1, 2, 3, 4, 5].map((l) => {
+      const lw = set.filter((w) => w.level === l);
+      return lw.length ? `<div class="card">
+        <h2>Level ${l}</h2>
+        <div class="wordlist">${lw.map((w) => `<button data-w="${esc(w.word)}">${esc(w.word)}</button>`).join('')}</div>
+      </div>` : '';
+    }).join('')}
+    <p class="muted" style="font-size:13px;text-align:center">A new set every day at midnight (New York time).</p>`;
+  bindWordlist();
+}
+
+function renderCards() {
+  const { set, s } = learnSession();
+  const c = s.cards;
+  if (!c.queue.length) {
+    view.innerHTML = `
+      <div class="top"><a class="eyebrow" href="#learn">‹ Learn</a></div>
+      <div class="card center">
+        <p style="font-size:44px;margin:0">🎉</p>
+        <h2>All ${set.length} cards known</h2>
+        <p class="muted">Ready to use them in context?</p>
+        <a class="btn full" href="#learn/quiz">Take the quiz</a>
+        <button class="btn secondary full" id="again">Go through the cards again</button>
+      </div>`;
+    document.getElementById('again').addEventListener('click', () => {
+      state.learn.cards = { queue: shuffle(set.map((w) => w.word)), known: [], seen: 0 };
+      store.save(state);
+      renderCards();
+    });
+    return;
+  }
+  const w = byWord.get(c.queue[0]);
+  view.innerHTML = `
+    <div class="top"><a class="eyebrow" href="#learn">‹ Learn</a>
+      <span class="muted" style="font-size:14px">${c.known.length}/${set.length} known · ${c.queue.length} left</span></div>
+    <div class="progress"><div style="width:${(100 * c.known.length) / set.length}%"></div></div>
+    <div class="card flash" id="flash" role="button" aria-label="Flip card">
+      <div class="top"><span class="pill">Level ${w.level}</span>${speakBtn(w.word)}</div>
+      ${wordH1(w.word, 'center-text')}
+      <div class="meta center-text"><i>${esc(w.partOfSpeech)}</i>${w.pronunciation ? ` · ${esc(w.pronunciation)}` : ''}</div>
+      <div class="back" hidden>
+        <p class="def">${esc(w.definition)}</p>
+        <p class="example">${esc(w.examples[0])}</p>
+      </div>
+      <p class="muted hint center-text">Tap to reveal</p>
+    </div>
+    <div class="row" id="grade" hidden>
+      <button class="btn secondary" id="learning">Still learning</button>
+      <button class="btn" id="know">Know it</button>
+    </div>`;
+  const flip = () => {
+    view.querySelector('.back').hidden = false;
+    view.querySelector('.hint').hidden = true;
+    document.getElementById('grade').hidden = false;
+    store.markViewed(state, w, nyDateKey());
+  };
+  document.getElementById('flash').addEventListener('click', (e) => { if (!e.target.closest('.speak')) flip(); });
+  const grade = (known) => {
+    c.queue.shift();
+    if (known) c.known.push(w.word);
+    else c.queue.splice(Math.min(c.queue.length, 3), 0, w.word); // see it again in a few cards
+    store.save(state);
+    renderCards();
+  };
+  document.getElementById('know').addEventListener('click', () => grade(true));
+  document.getElementById('learning').addEventListener('click', () => grade(false));
+}
+
+function renderLearnQuiz() {
+  const { set, s } = learnSession();
+  const q = s.quiz;
+  if (q.i >= q.order.length) {
+    const missed = [...new Set(q.missed)];
+    view.innerHTML = `
+      <div class="top"><a class="eyebrow" href="#learn">‹ Learn</a></div>
+      <div class="card center">
+        <p class="eyebrow">Score</p>
+        <p class="score">${q.correct}<span>/${q.order.length}</span></p>
+        ${missed.length ? `<p class="muted">Missed: tap to review</p>
+          <div class="wordlist" style="justify-content:center">${missed.map((m) => `<button class="miss" data-w="${esc(m)}">${esc(m)}</button>`).join('')}</div>
+          <button class="btn full" id="retry">Retry the ${plural(missed.length, 'missed word')}</button>` : '<p>Perfect round.</p>'}
+        <button class="btn secondary full" id="restart">Start over with all ${set.length}</button>
+      </div>`;
+    bindWordlist();
+    document.getElementById('retry')?.addEventListener('click', () => {
+      state.learn.quiz = { order: shuffle(missed), i: 0, correct: 0, missed: [] };
+      store.save(state);
+      renderLearnQuiz();
+    });
+    document.getElementById('restart').addEventListener('click', () => {
+      state.learn.quiz = { order: shuffle(set.map((w) => w.word)), i: 0, correct: 0, missed: [] };
+      store.save(state);
+      renderLearnQuiz();
+    });
+    return;
+  }
+  const w = byWord.get(q.order[q.i]);
+  const question = questionFor(w);
+  view.innerHTML = `
+    <div class="top" style="margin-bottom:8px"><a class="eyebrow" href="#learn">‹ Learn</a>
+      <span class="muted" style="font-size:14px">${q.i + 1} of ${q.order.length} · ${q.correct} correct</span></div>
+    <div class="progress"><div style="width:${(100 * q.i) / q.order.length}%"></div></div>
+    ${questionHTML(w, question.options, "Today's words")}`;
+  bindQuestion(w, question, q.i + 1 < q.order.length ? 'Next question' : 'See score', renderLearnQuiz, (ok) => {
+    q.i += 1;
+    if (ok) q.correct += 1; else q.missed.push(w.word);
+    store.save(state);
+  });
+}
+
+function bindWordlist() {
+  view.querySelectorAll('.wordlist button').forEach((b) =>
+    b.addEventListener('click', () => (location.hash = '#word/' + encodeURIComponent(b.dataset.w))));
 }
 
 // ---------- Quiz ----------
@@ -102,54 +301,23 @@ function pickQuizWord() {
 function renderQuiz() {
   if (!Object.keys(state.learned).some((w) => byWord.has(w))) {
     view.innerHTML = `
-      <p class="eyebrow">Test your knowledge</p>
-      <div class="card"><p>Quizzes use words you've learned. View today's word first.</p>
-      <a class="btn full" href="#today">See today's word</a></div>`;
+      <p class="eyebrow">Review quiz</p>
+      <div class="card"><p>This quiz mixes every word you've studied, with missed words coming up more often. Study today's words first.</p>
+      <a class="btn full" href="#learn">Go to Learn</a></div>
+      ${statsHTML()}`;
+    bindWordlist();
     return;
   }
   const w = pickQuizWord();
   lastQuizWord = w.word;
-  // Each word has 3 sets of (1 correct + 3 wrong); rotate so repeats differ.
-  const set = (state.quiz[w.word]?.attempts || 0) % w.quizCorrect.length;
-  const correct = w.quizCorrect[set];
-  const options = shuffle([correct, ...w.quizWrong.slice(set * 3, set * 3 + 3)]);
-
-  view.innerHTML = `
-    <div class="top">
-      <p class="eyebrow">Which sentence uses it correctly?</p>
-      <span class="pill">Level ${w.level}</span>
-    </div>
-    <div class="card"><div class="word-row"><h1 class="word">${esc(w.word)}</h1>${speakBtn(w.word)}</div>
-      <div class="meta"><i>${esc(w.partOfSpeech)}</i></div></div>
-    <div class="options">
-      ${options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}</button>`).join('')}
-    </div>
-    <div id="feedback"></div>`;
-
-  view.querySelectorAll('.opt').forEach((btn) => btn.addEventListener('click', () => {
-    const chosen = options[+btn.dataset.i];
-    const ok = chosen === correct;
-    store.recordAnswer(state, w.word, ok);
-    view.querySelectorAll('.opt').forEach((b) => {
-      b.disabled = true;
-      if (options[+b.dataset.i] === correct) b.classList.add('correct');
-    });
-    if (!ok) btn.classList.add('wrong');
-    document.getElementById('feedback').innerHTML = `
-      <div class="card feedback">
-        <p class="verdict ${ok ? 'ok' : 'no'}">${ok ? 'Correct' : 'Not quite'}</p>
-        <p class="def" style="font-size:17px">“${esc(correct)}”</p>
-        <p class="eyebrow" style="margin-top:14px">Definition</p>
-        <p style="margin:0">${esc(w.definition)}</p>
-      </div>
-      <button class="primary full" id="next">Next question</button>`;
-    document.getElementById('next').addEventListener('click', renderQuiz);
-    document.getElementById('next').scrollIntoView({ behavior: 'smooth', block: 'end' });
-  }));
+  const question = questionFor(w);
+  view.innerHTML = questionHTML(w, question.options, 'Review · all words you’ve studied') + statsHTML();
+  bindWordlist();
+  bindQuestion(w, question, 'Next question', () => { renderQuiz(); window.scrollTo(0, 0); });
 }
 
 // ---------- Stats ----------
-function renderStats() {
+function statsHTML() {
   const today = nyDateKey();
   const { current, best } = store.streaks(state, today);
   const learned = Object.keys(state.learned).filter((w) => byWord.has(w));
@@ -166,12 +334,12 @@ function renderStats() {
   const pct = (c, a) => (a ? Math.round((100 * c) / a) : 0);
   const practice = learned.filter((w) => state.quiz[w]?.misses > 0);
 
-  view.innerHTML = `
-    <p class="eyebrow">Your progress</p>
+  return `
+    <p class="eyebrow" style="margin-top:32px">Your progress</p>
     <div class="grid">
       <div class="stat"><b>${current}</b><span>Current streak</span></div>
       <div class="stat"><b>${best}</b><span>Best streak</span></div>
-      <div class="stat"><b>${learned.length}</b><span>Words learned</span></div>
+      <div class="stat"><b>${learned.length}</b><span>Words studied</span></div>
       <div class="stat"><b>${attempts ? pct(correct, attempts) + '%' : '–'}</b><span>Quiz accuracy · ${plural(attempts, 'answer')}</span></div>
     </div>
     <div class="card">
@@ -184,13 +352,11 @@ function renderStats() {
         </div>`).join('')}
     </div>
     ${learned.length ? `<div class="card">
-      <h2>Learned words</h2>
+      <h2>Words you've studied</h2>
       <p class="muted" style="margin:0 0 10px;font-size:14px">${practice.length ? 'Red outline = needs practice. ' : ''}Tap a word to review it.</p>
       <div class="wordlist">${learned.sort().map((w) =>
         `<button class="${practice.includes(w) ? 'miss' : ''}" data-w="${esc(w)}">${esc(w)}</button>`).join('')}</div>
     </div>` : ''}`;
-  view.querySelectorAll('.wordlist button').forEach((b) =>
-    b.addEventListener('click', () => (location.hash = '#word/' + encodeURIComponent(b.dataset.w))));
 }
 
 // ---------- Settings ----------
@@ -235,10 +401,10 @@ function renderSettings() {
 // ---------- Router ----------
 function route() {
   const [tab, arg] = (location.hash.slice(1) || 'today').split('/');
-  document.querySelectorAll('.tabs a').forEach((a) =>
-    a.classList.toggle('on', a.dataset.tab === (tab === 'word' ? 'stats' : tab)));
+  document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('on', a.dataset.tab === tab));
   window.scrollTo(0, 0);
-  ({ today: renderToday, quiz: renderQuiz, stats: renderStats, settings: renderSettings,
+  const learn = { cards: renderCards, quiz: renderLearnQuiz }[arg] || renderLearn;
+  ({ today: renderToday, learn, quiz: renderQuiz, settings: renderSettings,
      word: () => renderWord(decodeURIComponent(arg || '')) }[tab] || renderToday)();
 }
 
@@ -254,7 +420,7 @@ async function init() {
   window.addEventListener('hashchange', route);
   // Re-render Today if the app is reopened after midnight.
   document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'visible' && (location.hash || '#today') === '#today') route();
+    if (document.visibilityState === 'visible' && ['', '#today', '#learn'].includes(location.hash)) route();
   });
   route();
 }

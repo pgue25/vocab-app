@@ -10,6 +10,14 @@ Mon + Tue = Level 1 · Wed = Level 2 · Thu = Level 3 · Fri + Sat = Level 4 · 
 `js/wordOfDay.js` is the single source of truth for today's word (America/New_York date).
 Each level's words are walked in a fixed shuffled order, so a word won't repeat until its level runs out.
 
+## Tabs
+
+- **Today**: the word of the day, with a 🔊 pronunciation button.
+- **Learn**: 25 words a day (5 per level, from `pickDailySet`), studied as flashcards or a 25-question quiz.
+  No word appears two days in a row. Progress through today's session is saved.
+- **Quiz**: endless review of every word you've studied (missed words come up more), with stats below.
+- **Settings**: theme, export/import progress.
+
 ## Files
 
 | Path | What it is |

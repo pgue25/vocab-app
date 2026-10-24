@@ -59,3 +59,56 @@ export function pickWordOfDay(words, date = new Date()) {
 
   return { word: pool[((levelDay % pool.length) + pool.length) % pool.length], level, dateKey };
 }
+
+// Seeded PRNG (mulberry32) so a "random" order is the same on every device.
+function seeded(seed) {
+  return () => {
+    seed = (seed + 0x6d2b79f5) >>> 0;
+    let t = seed;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+/**
+ * Today's study set for Learn: `perLevel` words from each level (25 total by default).
+ * Each level's words are dealt out in blocks of days: within a block no word repeats,
+ * so consecutive days get different words. Each block is reshuffled, so sets don't
+ * come back in the same groupings.
+ * @returns {{ dateKey: string, words: object[] }}
+ */
+export function pickDailySet(words, date = new Date(), perLevel = 5) {
+  const dateKey = typeof date === 'string' ? date : nyDateKey(date);
+  const dayNum = Math.round((Date.parse(dateKey + 'T00:00:00Z') - EPOCH_UTC) / 86400000);
+  const out = [];
+  for (let level = 1; level <= 5; level++) {
+    const pool = words
+      .filter((w) => w.level === level)
+      .sort((a, b) => hash(a.word) - hash(b.word) || a.word.localeCompare(b.word));
+    if (!pool.length) continue;
+    const take = Math.min(perLevel, pool.length);
+    const blockDays = Math.max(1, Math.floor(pool.length / take));
+    const block = Math.floor(dayNum / blockDays);
+    const deal = (b) => {
+      const order = [...pool];
+      const rand = seeded(hash(`${level}:${b}`));
+      for (let i = order.length - 1; i > 0; i--) {
+        const j = Math.floor(rand() * (i + 1));
+        [order[i], order[j]] = [order[j], order[i]];
+      }
+      return order;
+    };
+    // Walk blocks from the epoch, moving each block's last-day words to the end
+    // of the next block so no word is shown two days in a row (cheap: ~90 blocks/year).
+    let dealt = deal(0);
+    for (let b = 1; b <= block; b++) {
+      const prev = dealt.slice((blockDays - 1) * take, blockDays * take);
+      const order = deal(b);
+      dealt = [...order.filter((w) => !prev.includes(w)), ...order.filter((w) => prev.includes(w))];
+    }
+    const start = (dayNum - block * blockDays) * take;
+    out.push(...dealt.slice(start, start + take));
+  }
+  return { dateKey, words: out };
+}

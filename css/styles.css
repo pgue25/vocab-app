@@ -50,7 +50,9 @@ h2 { font-size: 17px; margin-bottom: 8px; }
   background: var(--accent-soft); color: var(--accent); font-size: 20px; line-height: 44px; padding: 0;
 }
 .speak:active { transform: scale(.94); }
-.word { font: 600 44px/1.1 var(--serif); margin: 4px 0 6px; overflow-wrap: anywhere; }
+.word { font: 600 44px/1.1 var(--serif); margin: 4px 0 6px; overflow-wrap: break-word; min-width: 0; }
+.word.long { font-size: 36px; }
+.word.xlong { font-size: 30px; }
 .meta { color: var(--muted); font-size: 15px; }
 .meta i { font-style: italic; }
 .def { font: 20px/1.45 var(--serif); margin: 0; }
@@ -93,6 +95,28 @@ button.primary, .btn {
 .wordlist { display: flex; flex-wrap: wrap; gap: 6px; }
 .wordlist button { font: 15px var(--serif); color: var(--text); background: none; padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; }
 .wordlist button.miss { border-color: var(--bad); }
+
+/* Learn */
+.modes { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 12px 0 4px; }
+.mode {
+  display: grid; gap: 2px; padding: 18px 16px; border-radius: 16px; text-decoration: none; color: var(--text);
+  background: var(--surface); border: 1.5px solid var(--line);
+}
+.mode:active { transform: scale(.98); }
+.mode-ic { font-size: 26px; }
+.mode b { font-size: 18px; }
+.mode .muted { font-size: 13px; }
+.progress { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; margin: 10px 0 4px; }
+.progress > div { height: 100%; background: var(--accent); transition: width .25s; }
+.flash { min-height: 300px; display: flex; flex-direction: column; cursor: pointer; }
+.flash .word { margin-top: 24px; }
+.flash .back { margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--line); }
+.flash .example { font: italic 17px/1.45 var(--serif); color: var(--muted); margin: 14px 0 0; }
+.flash .hint { margin-top: auto; padding-top: 24px; font-size: 14px; }
+.center, .center-text { text-align: center; }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.score { font: 600 64px/1 var(--serif); margin: 4px 0 12px; }
+.score span { font-size: 28px; color: var(--muted); }
 
 /* Settings */
 .seg { display: flex; background: var(--line); border-radius: 10px; padding: 3px; gap: 3px; }
