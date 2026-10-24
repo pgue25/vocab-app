@@ -156,7 +156,7 @@ function learnSession() {
     const names = set.map((w) => w.word);
     state.learn = {
       date: dateKey,
-      cards: { queue: shuffle(names), known: [], seen: 0 },
+      cards: { queue: shuffle(names), known: [], later: [], round: 1 },
       quiz: { order: shuffle(names), i: 0, correct: 0, missed: [] },
     };
     store.save(state);
@@ -195,6 +195,15 @@ function renderLearn() {
 function renderCards() {
   const { set, s } = learnSession();
   const c = s.cards;
+  c.later ||= [];
+  c.round ||= 1;
+  // Finished this pass: start another pass with only the "still learning" cards.
+  if (!c.queue.length && c.later.length) {
+    c.queue = shuffle(c.later);
+    c.later = [];
+    c.round += 1;
+    store.save(state);
+  }
   if (!c.queue.length) {
     view.innerHTML = `
       <div class="top"><a class="eyebrow" href="#learn">‹ Learn</a></div>
@@ -206,7 +215,7 @@ function renderCards() {
         <button class="btn secondary full" id="again">Go through the cards again</button>
       </div>`;
     document.getElementById('again').addEventListener('click', () => {
-      state.learn.cards = { queue: shuffle(set.map((w) => w.word)), known: [], seen: 0 };
+      state.learn.cards = { queue: shuffle(set.map((w) => w.word)), known: [], later: [], round: 1 };
       store.save(state);
       renderCards();
     });
@@ -215,7 +224,7 @@ function renderCards() {
   const w = byWord.get(c.queue[0]);
   view.innerHTML = `
     <div class="top"><a class="eyebrow" href="#learn">‹ Learn</a>
-      <span class="muted" style="font-size:14px">${c.known.length}/${set.length} known · ${c.queue.length} left</span></div>
+      <span class="muted" style="font-size:14px">${c.round > 1 ? `Review round ${c.round} · ` : ''}${c.known.length}/${set.length} known · ${c.queue.length} left</span></div>
     <div class="progress"><div style="width:${(100 * c.known.length) / set.length}%"></div></div>
     <div class="card flash" id="flash" role="button" aria-label="Flip card">
       <div class="top"><span class="pill">Level ${w.level}</span>${speakBtn(w.word)}</div>
@@ -241,7 +250,7 @@ function renderCards() {
   const grade = (known) => {
     c.queue.shift();
     if (known) c.known.push(w.word);
-    else c.queue.splice(Math.min(c.queue.length, 3), 0, w.word); // see it again in a few cards
+    else c.later.push(w.word); // comes back after every other card in this pass
     store.save(state);
     renderCards();
   };
