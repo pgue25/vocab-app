@@ -23,7 +23,7 @@ Each level's words are walked in a fixed shuffled order, so a word won't repeat 
 | Path | What it is |
 |---|---|
 | `index.html`, `css/`, `js/` | The app |
-| `sw.js` | Offline cache. **Bump `VERSION` when you change app files.** |
+| `sw.js` | Offline cache (network-first, so updates show up on the next open). Bump `VERSION` when you change app files. |
 | `words.json` | Shipped word bank (generated) |
 | `words.review.json` | Same bank, pretty-printed, for review before shipping |
 | `build/candidates.txt` | Candidate words, one per line |
