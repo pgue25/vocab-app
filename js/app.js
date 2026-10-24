@@ -100,6 +100,29 @@ function renderWord(name) {
     ${wordCard(w)}`;
 }
 
+// ---------- Keyboard shortcuts (laptop) ----------
+// Each screen calls setKeys({ up, down, left, right, enter, space }) with what those
+// keys should do there; route() clears them, so keys never act on a stale screen.
+let keys = {};
+const setKeys = (k) => { keys = k; };
+const KEY_NAMES = { ArrowUp: 'up', ArrowDown: 'down', ArrowLeft: 'left', ArrowRight: 'right', Enter: 'enter', ' ': 'space' };
+
+document.addEventListener('keydown', (e) => {
+  if (e.metaKey || e.ctrlKey || e.altKey) return; // leave browser shortcuts alone
+  if (e.target.closest?.('input, textarea, select, [contenteditable]')) return;
+  const name = KEY_NAMES[e.key];
+  if (!name || !keys[name]) return;
+  e.preventDefault(); // no page scroll, and no native "click" on a focused button
+  if (e.repeat && (name === 'enter' || name === 'space')) return; // holding Enter can't submit twice
+  keys[name]();
+});
+
+// Moves the keyboard highlight to buttons[i]; scrolls only when a key moved it.
+function highlight(buttons, i, scroll = false) {
+  buttons.forEach((b, j) => b.classList.toggle('kb', j === i));
+  if (scroll) buttons[i]?.scrollIntoView({ block: 'nearest' });
+}
+
 // ---------- Shared question UI (used by Quiz tab and Learn quiz) ----------
 // Each word has 3 sets of (1 correct + 3 wrong); rotate by attempts so repeats differ.
 function questionFor(w) {
@@ -120,12 +143,25 @@ function questionHTML(w, options, eyebrow) {
     <div class="options">
       ${options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}</button>`).join('')}
     </div>
+    <p class="kbd-hint">↑ ↓ to choose · Enter to submit</p>
     <div id="feedback"></div>`;
 }
 
 // Wires up answer buttons; calls onAnswered(ok) and shows the correct sentence + definition.
 function bindQuestion(w, { correct, options }, nextLabel, onNext, onAnswered) {
-  view.querySelectorAll('.opt').forEach((btn) => btn.addEventListener('click', () => {
+  const opts = [...view.querySelectorAll('.opt')];
+  let sel = 0;
+  let answered = false;
+  highlight(opts, sel);
+  setKeys({
+    up: () => highlight(opts, (sel = (sel + opts.length - 1) % opts.length), true),
+    down: () => highlight(opts, (sel = (sel + 1) % opts.length), true),
+    enter: () => opts[sel].click(),
+  });
+  opts.forEach((btn) => btn.addEventListener('click', () => {
+    if (answered) return; // a second click/Enter can't record a second answer
+    answered = true;
+    highlight(opts, -1);
     const ok = options[+btn.dataset.i] === correct;
     store.recordAnswer(state, w.word, ok);
     store.markViewed(state, w, nyDateKey());
@@ -143,8 +179,13 @@ function bindQuestion(w, { correct, options }, nextLabel, onNext, onAnswered) {
         <p style="margin:0">${esc(w.definition)}</p>
       </div>
       <button class="primary full" id="next">${nextLabel}</button>`;
-    document.getElementById('next').addEventListener('click', onNext);
-    document.getElementById('next').scrollIntoView({ behavior: 'smooth', block: 'end' });
+    const next = document.getElementById('next');
+    let advanced = false;
+    const go = () => { if (!advanced) { advanced = true; onNext(); } };
+    next.addEventListener('click', go);
+    next.classList.add('kb');
+    setKeys({ enter: go });
+    next.scrollIntoView({ behavior: 'smooth', block: 'end' });
   }));
 }
 
@@ -219,6 +260,9 @@ function renderCards() {
       store.save(state);
       renderCards();
     });
+    const primary = view.querySelector('a.btn');
+    primary.classList.add('kb');
+    setKeys({ enter: () => primary.click() });
     return;
   }
   const w = byWord.get(c.queue[0]);
@@ -239,15 +283,31 @@ function renderCards() {
     <div class="row" id="grade" hidden>
       <button class="btn secondary" id="learning">Still learning</button>
       <button class="btn" id="know">Know it</button>
-    </div>`;
+    </div>
+    <p class="kbd-hint">Enter to flip · ← → to choose · Enter to confirm</p>`;
+  const gradeBtns = [document.getElementById('learning'), document.getElementById('know')];
+  let flipped = false;
+  let graded = false;
+  let sel = 0; // 0 = Still learning, 1 = Know it
   const flip = () => {
+    if (flipped) return;
+    flipped = true;
     view.querySelector('.back').hidden = false;
     view.querySelector('.hint').hidden = true;
     document.getElementById('grade').hidden = false;
     store.markViewed(state, w, nyDateKey());
+    highlight(gradeBtns, sel);
+    setKeys({
+      left: () => highlight(gradeBtns, (sel = 0), true),
+      right: () => highlight(gradeBtns, (sel = 1), true),
+      enter: () => grade(sel === 1),
+    });
   };
+  setKeys({ enter: flip, space: flip });
   document.getElementById('flash').addEventListener('click', (e) => { if (!e.target.closest('.speak')) flip(); });
   const grade = (known) => {
+    if (graded) return; // each card is graded once
+    graded = true;
     c.queue.shift();
     if (known) c.known.push(w.word);
     else c.later.push(w.word); // comes back after every other card in this pass
@@ -284,6 +344,9 @@ function renderLearnQuiz() {
       store.save(state);
       renderLearnQuiz();
     });
+    const primary = document.getElementById('retry') || document.getElementById('restart');
+    primary.classList.add('kb');
+    setKeys({ enter: () => primary.click() });
     return;
   }
   const w = byWord.get(q.order[q.i]);
@@ -422,6 +485,8 @@ function renderSettings() {
 function route() {
   const [tab, arg] = (location.hash.slice(1) || 'today').split('/');
   document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('on', a.dataset.tab === tab));
+  setKeys({});
+  document.activeElement?.blur?.();
   window.scrollTo(0, 0);
   const learn = { cards: renderCards, quiz: renderLearnQuiz }[arg] || renderLearn;
   ({ today: renderToday, learn, quiz: renderQuiz, settings: renderSettings,

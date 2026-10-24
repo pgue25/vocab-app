@@ -86,6 +86,14 @@ button.primary, .btn {
 .btn.secondary { background: var(--accent-soft); color: var(--accent); }
 .full { width: 100%; margin-top: 16px; }
 
+/* Keyboard highlight (arrow keys + Enter): laptops/desktops only, never on touch screens */
+.kbd-hint { display: none; text-align: center; font-size: 13px; color: var(--muted); margin: 12px 0 0; }
+@media (hover: hover) and (pointer: fine) {
+  .kbd-hint { display: block; }
+  .opt.kb:not(:disabled) { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+  .btn.kb, button.primary.kb { box-shadow: 0 0 0 3px var(--bg), 0 0 0 5px var(--accent); }
+}
+
 /* Stats */
 .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 16px 0; }
 .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; }

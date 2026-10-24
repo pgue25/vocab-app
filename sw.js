@@ -2,7 +2,7 @@
 // against GitHub Pages, bypassing the browser's HTTP cache) and update the offline
 // copy; when offline, fall back to that copy. This keeps the page and its scripts
 // on the same version. Bump VERSION when you change app files.
-const VERSION = 'v7';
+const VERSION = 'v8';
 const SHELL = [
   './', 'index.html', 'css/styles.css', 'js/app.js', 'js/store.js', 'js/wordOfDay.js',
   'words.json', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',

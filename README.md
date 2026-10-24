@@ -18,6 +18,9 @@ Each level's words are walked in a fixed shuffled order, so a word won't repeat 
 - **Quiz**: endless review of every word you've studied (missed words come up more), with stats below.
 - **Settings**: theme, export/import progress.
 
+Keyboard (laptop): quiz ↑/↓ choose, Enter submit, Enter next. Flashcards Enter/Space flip, ←/→ choose
+Still learning / Know it, Enter confirm. Score and "all done" screens: Enter = main button.
+
 ## Files
 
 | Path | What it is |
