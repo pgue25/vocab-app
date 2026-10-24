@@ -2,7 +2,7 @@
 // answer from cache instantly and refresh it in the background, so updates
 // (new words, app changes) show up on the next open.
 // Bump VERSION whenever you change app files so phones pick up the update.
-const VERSION = 'v2';
+const VERSION = 'v3';
 const SHELL = [
   './', 'index.html', 'css/styles.css', 'js/app.js', 'js/store.js', 'js/wordOfDay.js',
   'words.json', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',

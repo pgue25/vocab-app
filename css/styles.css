@@ -44,6 +44,12 @@ h2 { font-size: 17px; margin-bottom: 8px; }
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 20px; margin: 16px 0; }
 
 /* Word of the day */
+.word-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.speak {
+  flex: none; width: 44px; height: 44px; border-radius: 50%; border: 0; cursor: pointer;
+  background: var(--accent-soft); color: var(--accent); font-size: 20px; line-height: 44px; padding: 0;
+}
+.speak:active { transform: scale(.94); }
 .word { font: 600 44px/1.1 var(--serif); margin: 4px 0 6px; overflow-wrap: anywhere; }
 .meta { color: var(--muted); font-size: 15px; }
 .meta i { font-style: italic; }

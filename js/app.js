@@ -25,10 +25,30 @@ function applyTheme() {
   else document.documentElement.dataset.theme = state.theme;
 }
 
+// ---------- Pronunciation (built-in text-to-speech, works offline) ----------
+const canSpeak = 'speechSynthesis' in window;
+const speakBtn = (word) => canSpeak
+  ? `<button class="speak" data-say="${esc(word)}" aria-label="Hear ${esc(word)} pronounced">🔊</button>` : '';
+
+function speak(text) {
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  const voices = speechSynthesis.getVoices();
+  u.voice = voices.find((v) => v.lang === 'en-US' && v.localService) || voices.find((v) => v.lang.startsWith('en')) || null;
+  u.lang = 'en-US';
+  u.rate = 0.85;
+  speechSynthesis.speak(u);
+}
+
+view.addEventListener('click', (e) => {
+  const btn = e.target.closest('.speak');
+  if (btn) speak(btn.dataset.say);
+});
+
 function wordCard(w) {
   return `
     <div class="card">
-      <h1 class="word">${esc(w.word)}</h1>
+      <div class="word-row"><h1 class="word">${esc(w.word)}</h1>${speakBtn(w.word)}</div>
       <div class="meta"><i>${esc(w.partOfSpeech)}</i>${w.pronunciation ? ` · ${esc(w.pronunciation)}` : ''}</div>
     </div>
     <div class="card">
@@ -99,7 +119,7 @@ function renderQuiz() {
       <p class="eyebrow">Which sentence uses it correctly?</p>
       <span class="pill">Level ${w.level}</span>
     </div>
-    <div class="card"><h1 class="word">${esc(w.word)}</h1>
+    <div class="card"><div class="word-row"><h1 class="word">${esc(w.word)}</h1>${speakBtn(w.word)}</div>
       <div class="meta"><i>${esc(w.partOfSpeech)}</i></div></div>
     <div class="options">
       ${options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}</button>`).join('')}
