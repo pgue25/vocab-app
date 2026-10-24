@@ -205,11 +205,46 @@ def build(per_level):
         print(f"Missing sentences for {len(missing)} words: {', '.join(missing)}")
 
 
+def validate(words):
+    """Return a list of problems; empty means the bank is safe to ship."""
+    problems = []
+    text_fields = ("word", "partOfSpeech", "definition")
+    seen_words, seen_sentences = set(), {}
+    for i, w in enumerate(words):
+        name = w.get("word") or f"entry #{i}"
+        for f in text_fields:
+            if not isinstance(w.get(f), str) or not w[f].strip():
+                problems.append(f"{name}: missing {f}")
+        if not isinstance(w.get("pronunciation"), str):
+            problems.append(f"{name}: pronunciation must be a string")
+        if w.get("level") not in range(1, LEVELS + 1):
+            problems.append(f"{name}: level must be 1-{LEVELS}, got {w.get('level')!r}")
+        if name in seen_words:
+            problems.append(f"{name}: duplicate word")
+        seen_words.add(name)
+        for k, n in COUNTS.items():
+            items = w.get(k)
+            if not isinstance(items, list) or len(items) != n:
+                problems.append(f"{name}: needs {n} {k}, has {len(items) if isinstance(items, list) else 0}")
+                continue
+            for sentence in items:
+                if not isinstance(sentence, str) or not sentence.strip():
+                    problems.append(f"{name}: blank sentence in {k}")
+                elif sentence in seen_sentences:
+                    problems.append(f"{name}: sentence also used by {seen_sentences[sentence]}: {sentence[:50]}")
+                else:
+                    seen_sentences[sentence] = f"{name}.{k}"
+    for lvl in range(1, LEVELS + 1):
+        if not any(w.get("level") == lvl for w in words):
+            problems.append(f"level {lvl} has no words (the app needs every level)")
+    return problems
+
+
 def promote():
     words = json.loads(REVIEW.read_text())
-    bad = [w["word"] for w in words if any(len(w[k]) != n for k, n in COUNTS.items())]
-    if bad:
-        sys.exit(f"Refusing to promote, incomplete sentences: {', '.join(bad)}")
+    problems = validate(words)
+    if problems:
+        sys.exit("Refusing to promote:\n  " + "\n  ".join(problems))
     for w in words:
         w.pop("zipf", None)
     SHIP.write_text(json.dumps(words, ensure_ascii=False, separators=(",", ":")))

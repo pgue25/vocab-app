@@ -39,7 +39,7 @@ Each level's words are walked in a fixed shuffled order, so a word won't repeat 
    and lists words still missing sentences.
 3. Ask Claude to write sentences for the missing words into a new `build/sentences/*.json`
    (2 `examples`, 3 `quizCorrect`, 9 `quizWrong` each), and to check senses in `overrides.json`.
-4. Review `words.review.json`, then `python3 build/build_words.py --promote`.
+4. Review `words.review.json`, then `python3 build/build_words.py --promote`. Promote refuses to ship if any word has a missing field, a level outside 1-5, the wrong number of sentences, or a duplicate word/sentence.
 5. Bump `VERSION` in `sw.js`, commit and push. GitHub Pages redeploys in about a minute.
 
 Note: adding words changes each level's rotation, so the upcoming schedule reshuffles.
