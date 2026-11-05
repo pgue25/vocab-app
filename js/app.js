@@ -7,7 +7,7 @@ const WEEKDAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Frida
 let words = [];
 let byWord = new Map();
 let state = store.load();
-let lastQuizWord = null;
+let recentQuiz = []; // last words asked in the Quiz tab
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 const plural = (n, w) => `${n} ${w}${n === 1 ? '' : 's'}`;
@@ -138,7 +138,9 @@ function questionHTML(w, options, eyebrow) {
       <span class="pill">Level ${w.level}</span>
     </div>
     <div class="card"><div class="word-row">${wordH1(w.word)}${speakBtn(w.word)}</div>
-      <div class="meta"><i>${esc(w.partOfSpeech)}</i></div></div>
+      <div class="meta"><i>${esc(w.partOfSpeech)}</i></div>
+      <button class="peek" id="peek" aria-expanded="false">Show definition</button>
+      <p class="def peek-def" id="peekDef" hidden>${esc(w.definition)}</p></div>
     <p class="muted" style="margin:0 0 4px;font-size:14px">Which sentence uses it correctly?</p>
     <div class="options">
       ${options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}</button>`).join('')}
@@ -149,6 +151,13 @@ function questionHTML(w, options, eyebrow) {
 
 // Wires up answer buttons; calls onAnswered(ok) and shows the correct sentence + definition.
 function bindQuestion(w, { correct, options }, nextLabel, onNext, onAnswered) {
+  const peek = document.getElementById('peek');
+  peek.addEventListener('click', () => {
+    const def = document.getElementById('peekDef');
+    def.hidden = !def.hidden;
+    peek.textContent = def.hidden ? 'Show definition' : 'Hide definition';
+    peek.setAttribute('aria-expanded', String(!def.hidden));
+  });
   const opts = [...view.querySelectorAll('.opt')];
   let sel = 0;
   let answered = false;
@@ -284,16 +293,19 @@ function renderCards() {
       <button class="btn secondary" id="learning">Still learning</button>
       <button class="btn" id="know">Know it</button>
     </div>
-    <p class="kbd-hint">Enter to flip · ← → to choose · Enter to confirm</p>`;
+    <p class="kbd-hint">Enter to flip · Space to flip back · ← → to choose · Enter to confirm</p>`;
   const gradeBtns = [document.getElementById('learning'), document.getElementById('know')];
   let flipped = false;
   let graded = false;
   let sel = 0; // 0 = Still learning, 1 = Know it
+  let shown = false; // back side currently visible
   const flip = () => {
+    shown = !shown;
+    view.querySelector('.back').hidden = !shown;
+    view.querySelector('.hint').textContent = shown ? 'Tap to hide' : 'Tap to reveal';
     if (flipped) return;
+    // First flip: show the grade buttons (they stay up even if you flip back).
     flipped = true;
-    view.querySelector('.back').hidden = false;
-    view.querySelector('.hint').hidden = true;
     document.getElementById('grade').hidden = false;
     store.markViewed(state, w, nyDateKey());
     highlight(gradeBtns, sel);
@@ -301,6 +313,7 @@ function renderCards() {
       left: () => highlight(gradeBtns, (sel = 0), true),
       right: () => highlight(gradeBtns, (sel = 1), true),
       enter: () => grade(sel === 1),
+      space: flip,
     });
   };
   setKeys({ enter: flip, space: flip });
@@ -350,13 +363,18 @@ function renderLearnQuiz() {
     return;
   }
   const w = byWord.get(q.order[q.i]);
-  const question = questionFor(w);
+  if (q.current?.word !== w.word) {
+    q.current = { word: w.word, ...questionFor(w) };
+    store.save(state);
+  }
+  const question = q.current;
   view.innerHTML = `
     <div class="top" style="margin-bottom:8px"><a class="eyebrow" href="#learn">‹ Learn</a>
       <span class="muted" style="font-size:14px">${q.i + 1} of ${q.order.length} · ${q.correct} correct</span></div>
     <div class="progress"><div style="width:${(100 * q.i) / q.order.length}%"></div></div>
     ${questionHTML(w, question.options, "Today's words")}`;
   bindQuestion(w, question, q.i + 1 < q.order.length ? 'Next question' : 'See score', renderLearnQuiz, (ok) => {
+    q.current = null;
     q.i += 1;
     if (ok) q.correct += 1; else q.missed.push(w.word);
     store.save(state);
@@ -372,8 +390,11 @@ function bindWordlist() {
 // Words you've missed carry extra weight (misses goes up 2 per miss, down 1 per hit).
 function pickQuizWord() {
   let pool = Object.keys(state.learned).filter((w) => byWord.has(w));
-  if (pool.length > 1) pool = pool.filter((w) => w !== lastQuizWord);
-  const weights = pool.map((w) => 1 + 3 * (state.quiz[w]?.misses || 0));
+  // Skip recently asked words (up to the last 5, never emptying the pool).
+  const avoid = recentQuiz.slice(-Math.min(5, pool.length - 1));
+  pool = pool.filter((w) => !avoid.includes(w));
+  // Missed words come up more often, capped at 3x so they don't crowd out everything else.
+  const weights = pool.map((w) => 1 + Math.min(2, (state.quiz[w]?.misses || 0) / 2));
   let r = Math.random() * weights.reduce((a, b) => a + b, 0);
   for (let i = 0; i < pool.length; i++) {
     if ((r -= weights[i]) < 0) return byWord.get(pool[i]);
@@ -392,7 +413,7 @@ function renderQuiz() {
     return;
   }
   const w = pickQuizWord();
-  lastQuizWord = w.word;
+  recentQuiz = [...recentQuiz.filter((x) => x !== w.word), w.word].slice(-5);
   const question = questionFor(w);
   view.innerHTML = questionHTML(w, question.options, 'Review · all words you’ve studied') + statsHTML();
   bindWordlist();
@@ -486,6 +507,7 @@ function route() {
   const [tab, arg] = (location.hash.slice(1) || 'today').split('/');
   document.querySelectorAll('.tabs a').forEach((a) => a.classList.toggle('on', a.dataset.tab === tab));
   setKeys({});
+  state = store.load(); // latest saved progress, so a stale copy (other tab/window) can't overwrite it
   document.activeElement?.blur?.();
   window.scrollTo(0, 0);
   const learn = { cards: renderCards, quiz: renderLearnQuiz }[arg] || renderLearn;
@@ -505,7 +527,11 @@ async function init() {
   window.addEventListener('hashchange', route);
   // Re-render Today if the app is reopened after midnight.
   document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'visible' && ['', '#today', '#learn'].includes(location.hash)) route();
+    if (document.visibilityState !== 'visible') return;
+    // Re-render if progress changed in another tab/window (so this screen never saves a stale copy),
+    // or if this is a day-based screen (new word / new 25 after midnight).
+    const changed = JSON.stringify(store.load()) !== JSON.stringify(state);
+    if (changed || ['', '#today', '#learn'].includes(location.hash)) route();
   });
   route();
 }
