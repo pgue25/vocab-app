@@ -1,0 +1,288 @@
+{
+  "disparity": {
+    "examples": [
+      "There is a wide disparity in pay between men and women in the industry.",
+      "The report highlights health disparities between rich and poor areas."
+    ],
+    "quizCorrect": [
+      "The disparity between the two estimates was huge.",
+      "Economists worry about the growing wealth disparity.",
+      "The disparity in test scores shrank over five years."
+    ],
+    "quizWrong": [
+      "Their salaries showed a disparity: they were exactly the same.",
+      "He fell into disparity after losing his job.",
+      "The disparity of the situation made her cry.",
+      "The twins' heights show no difference, a clear disparity.",
+      "In disparity, she gave up all hope.",
+      "The equal shares revealed a big disparity.",
+      "His disparity was so deep he stopped leaving the house.",
+      "The disparity of the refugees moved everyone.",
+      "With no gap at all, the disparity was huge."
+    ]
+  },
+  "contemplate": {
+    "examples": [
+      "She sat by the lake to contemplate her future.",
+      "The company is contemplating layoffs."
+    ],
+    "quizCorrect": [
+      "He had never contemplated living abroad.",
+      "The board will contemplate the offer this week.",
+      "It's hard to contemplate how large the universe is."
+    ],
+    "quizWrong": [
+      "She contemplated the dishes and put them in the cupboard.",
+      "He contemplated so quickly that he didn't think at all.",
+      "Please contemplate the form and return it by Friday.",
+      "The chef contemplated the cake with frosting.",
+      "Without a moment's thought, she contemplated the choice.",
+      "He contemplated the plates with food for the guests.",
+      "Contemplate your answer on the line below.",
+      "The waiter contemplated our glasses with water.",
+      "They contemplated the race in record time."
+    ]
+  },
+  "ominous": {
+    "examples": [
+      "Dark clouds gathered in an ominous sky.",
+      "There was an ominous silence after the announcement."
+    ],
+    "quizCorrect": [
+      "The engine made an ominous rattling sound.",
+      "Economists see ominous signs of a slowdown.",
+      "The letter had an ominous tone."
+    ],
+    "quizWrong": [
+      "The bright, ominous sunrise promised a perfect day.",
+      "The ominous dinosaur ate only plants.",
+      "She received ominous news: she had won the lottery.",
+      "Pandas are ominous and eat mostly bamboo.",
+      "The cheerful, ominous tune made everyone smile.",
+      "Bears are ominous, eating both plants and meat.",
+      "The ominous clouds were white and fluffy on a sunny day.",
+      "An ominous sign told us everything would be fine.",
+      "The ominous puppy wagged its tail happily."
+    ]
+  },
+  "futile": {
+    "examples": [
+      "It was futile to argue with him once he'd made up his mind.",
+      "Rescuers made a futile attempt to reach the trapped climbers."
+    ],
+    "quizCorrect": [
+      "Resistance proved futile against the larger army.",
+      "All efforts to save the company were futile.",
+      "She knew it was futile, but she tried anyway."
+    ],
+    "quizWrong": [
+      "The futile soil produced a huge harvest.",
+      "His futile effort succeeded brilliantly.",
+      "The futile fields grew corn as tall as a house.",
+      "The futile attempt broke the world record.",
+      "The farm's futile land fed the whole village.",
+      "The futile plan worked perfectly on the first try.",
+      "Rich, futile earth is perfect for gardening.",
+      "Her futile campaign won in a landslide.",
+      "The river valley is green and futile."
+    ]
+  },
+  "hinder": {
+    "examples": [
+      "Heavy snow hindered the rescue effort.",
+      "High costs hinder small businesses from expanding."
+    ],
+    "quizCorrect": [
+      "Poor communication hindered the project.",
+      "The injury hindered his ability to run.",
+      "Red tape can hinder innovation."
+    ],
+    "quizWrong": [
+      "The tailwind hindered the plane, helping it arrive early.",
+      "Her tutoring hindered him all the way to an A.",
+      "The new road hindered traffic by making it flow faster.",
+      "The extra staff hindered the project to an early finish.",
+      "Her support hindered him to success.",
+      "The bridge hindered our trip by cutting an hour off the drive.",
+      "Good weather hindered the climbers, speeding them to the top.",
+      "A strong tailwind hindered the cyclists to a record time.",
+      "Clear instructions hindered the students, making the test easy."
+    ]
+  },
+  "pervasive": {
+    "examples": [
+      "Social media has a pervasive influence on teenagers.",
+      "A pervasive smell of smoke hung over the town."
+    ],
+    "quizCorrect": [
+      "Corruption was pervasive at every level of government.",
+      "Fear was pervasive after the attacks.",
+      "The problem is more pervasive than we thought."
+    ],
+    "quizWrong": [
+      "The salesman was pervasive and talked me into buying two.",
+      "Her pervasive argument convinced the whole jury.",
+      "The issue is pervasive, limited to one small office.",
+      "He is so pervasive he could sell ice in winter.",
+      "The lawyer gave a pervasive closing statement.",
+      "The rare, pervasive problem appeared only once.",
+      "She's a pervasive speaker who can win any debate.",
+      "The pervasive ad made me buy the shoes.",
+      "The pervasive smell was confined to a single drawer."
+    ]
+  },
+  "impartial": {
+    "examples": [
+      "Judges must remain impartial.",
+      "The investigation was led by an impartial outside group."
+    ],
+    "quizCorrect": [
+      "The referee was praised for being impartial.",
+      "We need an impartial panel to review the evidence.",
+      "Reporters try to give an impartial account."
+    ],
+    "quizWrong": [
+      "The impartial judge always sided with his friends.",
+      "She gave an impartial answer, only telling half the story.",
+      "The work is impartial, only half finished.",
+      "His impartial opinion strongly favored his own team.",
+      "The impartial payment covered only part of the bill.",
+      "The biased, impartial referee cheated for the home team.",
+      "We made an impartial payment of half the rent.",
+      "The impartial list left out several names.",
+      "He is impartial to chocolate and eats it every day."
+    ]
+  },
+  "endemic": {
+    "examples": [
+      "Malaria is endemic in parts of Africa.",
+      "Corruption was endemic in the old police force."
+    ],
+    "quizCorrect": [
+      "The lemur is endemic to Madagascar.",
+      "Poverty remains endemic in the region.",
+      "Doping was endemic in the sport for years."
+    ],
+    "quizWrong": [
+      "The disease is endemic, found only in one rare outbreak decades ago.",
+      "The endemic of the story surprised everyone.",
+      "This plant is endemic everywhere on Earth.",
+      "We reached the endemic of the trail at sunset.",
+      "Doctors traced the endemic to a single visitor who came once.",
+      "The endemic of the movie was sad.",
+      "The problem is endemic, a one-time event.",
+      "That's the endemic of our discussion.",
+      "The bird is endemic to all continents."
+    ]
+  },
+  "transient": {
+    "examples": [
+      "The pain was sharp but transient.",
+      "Tourists make up much of the town's transient population."
+    ],
+    "quizCorrect": [
+      "Fame can be transient.",
+      "Doctors said the side effects were transient.",
+      "The city has a large transient population of students."
+    ],
+    "quizWrong": [
+      "The transient bus takes you downtown.",
+      "His transient love lasted his entire life.",
+      "Take the transient line to the airport.",
+      "The pain was transient and never went away.",
+      "The city improved its transient system with new trains.",
+      "Her transient smile was permanent.",
+      "Is there transient service on Sundays?",
+      "The transient monument has stood for a thousand years.",
+      "We rode public transient to work."
+    ]
+  },
+  "equitable": {
+    "examples": [
+      "The settlement offered an equitable division of assets.",
+      "Advocates are pushing for more equitable school funding."
+    ],
+    "quizCorrect": [
+      "The new tax is more equitable than the old one.",
+      "They sought an equitable solution for both sides.",
+      "Health care should be equitable for everyone."
+    ],
+    "quizWrong": [
+      "The equitable split gave one side everything.",
+      "The horse show featured equitable riders from around the world.",
+      "She is an equitable jumper who wins every event.",
+      "His equitable plan clearly favored the rich.",
+      "The equitable team practiced jumping fences.",
+      "The unfair, equitable deal cheated the workers.",
+      "He gave an equitable statue of a horse to the museum.",
+      "Her equitable skills earned her a place on the riding team.",
+      "The lopsided, equitable trade benefited only one company."
+    ]
+  },
+  "ingenious": {
+    "examples": [
+      "She came up with an ingenious solution to the problem.",
+      "The device is an ingenious use of simple parts."
+    ],
+    "quizCorrect": [
+      "The thieves used an ingenious method to bypass the alarm.",
+      "His ingenious design cut costs in half.",
+      "It was an ingenious marketing campaign."
+    ],
+    "quizWrong": [
+      "Her ingenious smile showed she believed every word.",
+      "He was so ingenious that he trusted every stranger.",
+      "The ingenious plan was clumsy and obvious.",
+      "The ingenious child believed in Santa well into his teens.",
+      "His ingenious remark was naive and innocent.",
+      "The ingenious invention was a dull copy of an old idea.",
+      "She gave an ingenious, unguarded reply.",
+      "The ingenious tourist fell for every scam.",
+      "The ingenious solution failed because it was so stupid."
+    ]
+  },
+  "benevolent": {
+    "examples": [
+      "The benevolent donor paid for the new library.",
+      "The king was remembered as a benevolent ruler."
+    ],
+    "quizCorrect": [
+      "The charity is funded by a benevolent foundation.",
+      "She gave him a benevolent smile.",
+      "The town was lucky to have such a benevolent mayor."
+    ],
+    "quizWrong": [
+      "The benevolent tyrant tortured his enemies.",
+      "The benevolent tumor was harmless.",
+      "The cruel, benevolent landlord evicted families in winter.",
+      "The doctor said the growth was benevolent, not cancer.",
+      "His benevolent plot aimed to destroy the city.",
+      "The selfish, benevolent billionaire refused to give a cent.",
+      "The biopsy came back benevolent.",
+      "Her benevolent glare frightened everyone.",
+      "The villain's benevolent scheme was pure evil."
+    ]
+  },
+  "erratic": {
+    "examples": [
+      "The driver was arrested after police saw him swerving erratically.",
+      "Her sleep has been erratic since the baby arrived."
+    ],
+    "quizCorrect": [
+      "The stock's erratic swings worried investors.",
+      "His behavior became erratic after he stopped taking his medicine.",
+      "The internet connection is erratic in the mountains."
+    ],
+    "quizWrong": [
+      "The erratic novel was full of steamy love scenes.",
+      "His erratic schedule was the same every single day.",
+      "The film was rated R for erratic content.",
+      "The clock's erratic ticking was perfectly steady.",
+      "She wrote erratic poetry about desire.",
+      "The erratic performance was flawlessly consistent.",
+      "The museum displayed erratic art from ancient Greece.",
+      "Her erratic routine never changed in twenty years.",
+      "The erratic dance was sensual and slow."
+    ]
+  }
+}

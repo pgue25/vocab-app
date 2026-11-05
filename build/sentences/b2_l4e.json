@@ -1,0 +1,178 @@
+{
+  "galvanize": {
+    "examples": [
+      "The speech galvanized the crowd into action.",
+      "The disaster galvanized support for new safety laws."
+    ],
+    "quizCorrect": [
+      "Her story galvanized volunteers across the state.",
+      "The loss galvanized the team for the playoffs.",
+      "The scandal galvanized voters against the mayor."
+    ],
+    "quizWrong": [
+      "The dull lecture galvanized the students into a deep sleep.",
+      "The pirates galvanized the ship and stole its gold.",
+      "His boring speech galvanized everyone to leave quietly.",
+      "The bad news galvanized the town into giving up.",
+      "The team galvanized after the loss, losing all motivation.",
+      "The thieves galvanized the museum's paintings.",
+      "The crowd was galvanized into total apathy.",
+      "Rust galvanized the steel and ate through it.",
+      "The sleepy speech galvanized the crowd into a nap."
+    ]
+  },
+  "approbation": {
+    "examples": [
+      "The plan won the approbation of the board.",
+      "She sought her father's approbation all her life."
+    ],
+    "quizCorrect": [
+      "The new law met with widespread approbation.",
+      "The critic's approbation boosted ticket sales.",
+      "He acted without the approbation of his superiors."
+    ],
+    "quizWrong": [
+      "The judge gave him two years of approbation instead of jail.",
+      "The crowd booed in approbation of the call.",
+      "He violated his approbation and went back to prison.",
+      "Her approbation was a frown of disapproval.",
+      "The approbation officer checks on him weekly.",
+      "The bill met with approbation and was rejected by everyone.",
+      "After the crime, he was put on approbation.",
+      "The critics' approbation was a scathing review.",
+      "He finished his approbation without incident."
+    ]
+  },
+  "extol": {
+    "examples": [
+      "The article extols the benefits of walking.",
+      "Critics extolled her performance as the best of the year."
+    ],
+    "quizCorrect": [
+      "Doctors extol the virtues of a good night's sleep.",
+      "The coach extolled the team's discipline.",
+      "Travel writers extol the island's beaches."
+    ],
+    "quizWrong": [
+      "The bridge charges an extol for each car.",
+      "The critic extolled the film as a total disaster.",
+      "Pay the extol at the booth.",
+      "She extolled her rival by mocking her in public.",
+      "The highway extol is two dollars.",
+      "He extolled the plan by calling it worthless.",
+      "The extol road saves twenty minutes.",
+      "The review extolled the restaurant as the worst in town.",
+      "Extols go up next year."
+    ]
+  },
+  "admonish": {
+    "examples": [
+      "The teacher admonished the students for talking.",
+      "The judge admonished the jury to ignore the remark."
+    ],
+    "quizCorrect": [
+      "She admonished him gently for being late.",
+      "The referee admonished both players.",
+      "Doctors admonish patients to quit smoking."
+    ],
+    "quizWrong": [
+      "The teacher admonished the student with a prize for good behavior.",
+      "Mosquitoes admonish in the summer heat.",
+      "The boss admonished her with a raise for her great work.",
+      "The fog admonished as the sun rose.",
+      "He admonished his soldiers by giving them medals.",
+      "The ghost admonished into thin air.",
+      "The coach admonished the winners with trophies.",
+      "The coins admonished from the jar.",
+      "The judge admonished the hero with a ceremony."
+    ]
+  },
+  "credulous": {
+    "examples": [
+      "Credulous investors fell for the scheme.",
+      "The film mocks credulous fans of conspiracy theories."
+    ],
+    "quizCorrect": [
+      "Only a credulous person would believe that email.",
+      "The cult targeted credulous young recruits.",
+      "He was too credulous to suspect a trick."
+    ],
+    "quizWrong": [
+      "The credulous detective doubted every word the suspect said.",
+      "Her story was credulous, so everyone believed it.",
+      "The skeptical, credulous scientist demanded proof.",
+      "The evidence was credulous and convinced the jury.",
+      "The credulous reporter checked every claim twice.",
+      "That's a credulous excuse; I believe you.",
+      "The credulous witness was very believable.",
+      "His credulous doubts kept him safe from scams.",
+      "The account was credulous and well-supported."
+    ]
+  },
+  "histrionic": {
+    "examples": [
+      "His histrionic outburst embarrassed his family.",
+      "The actor's histrionic style suited the melodrama."
+    ],
+    "quizCorrect": [
+      "She dismissed the complaints as histrionic.",
+      "The coach's histrionic sideline antics drew a penalty.",
+      "The play's histrionic acting felt overdone."
+    ],
+    "quizWrong": [
+      "The histrionic building was built in 1790.",
+      "His histrionic calm never showed any emotion.",
+      "The museum holds histrionic documents.",
+      "The histrionic battle changed the course of the war.",
+      "Her histrionic, low-key manner was hard to read.",
+      "The histrionic site is a national landmark.",
+      "This is a histrionic day for our country.",
+      "The histrionic speaker never raised her voice or showed feeling.",
+      "Visit the histrionic district downtown."
+    ]
+  },
+  "redolent": {
+    "examples": [
+      "The kitchen was redolent of garlic and basil.",
+      "The old town is redolent of the 19th century."
+    ],
+    "quizCorrect": [
+      "The air was redolent with pine.",
+      "Her speech was redolent of an earlier era.",
+      "The bakery was redolent of fresh bread."
+    ],
+    "quizWrong": [
+      "The redolent child refused to listen.",
+      "The odorless, redolent room smelled of nothing.",
+      "The redolent teenager slammed the door.",
+      "He was redolent and refused to obey.",
+      "The redolent soldiers rose up against the king.",
+      "The empty, redolent jar had no scent at all.",
+      "The redolent student talked back to the teacher.",
+      "Her redolent attitude got her detention.",
+      "The redolent prisoners rioted."
+    ]
+  },
+  "surreptitious": {
+    "examples": [
+      "She took a surreptitious glance at her phone.",
+      "The surreptitious recording was used as evidence."
+    ],
+    "quizCorrect": [
+      "He made a surreptitious exit from the meeting.",
+      "The company ran surreptitious tests on users.",
+      "They exchanged surreptitious notes in class."
+    ],
+    "quizWrong": [
+      "The surreptitious announcement was made over the loudspeaker.",
+      "His surreptitious wave was seen by the entire stadium.",
+      "The surreptitious fireworks lit up the whole sky.",
+      "She made a surreptitious, loud entrance.",
+      "The surreptitious meeting was broadcast live.",
+      "His surreptitious shout echoed through the hall.",
+      "The surreptitious billboard was the biggest in town.",
+      "Her surreptitious spotlight moment was seen by millions.",
+      "The surreptitious parade marched down Main Street."
+    ]
+  }
+}

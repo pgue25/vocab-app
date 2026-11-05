@@ -133,5 +133,455 @@
   "prevaricate": {
     "sense": 0,
     "defIndex": 1
+  },
+  "comprehensive": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "foster": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "provincial": {
+    "sense": 1,
+    "defIndex": 4
+  },
+  "profound": {
+    "sense": 2,
+    "defIndex": 3
+  },
+  "disclose": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "reluctant": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "paramount": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "contingent": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "susceptible": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "tangible": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "undermine": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "dissent": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "superficial": {
+    "sense": 0,
+    "defIndex": 3
+  },
+  "rampant": {
+    "sense": 0,
+    "defIndex": 3
+  },
+  "perennial": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "hiatus": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "pragmatic": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "innate": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "concise": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "blatant": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "indifferent": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "ominous": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "endemic": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "transient": {
+    "sense": 1,
+    "defIndex": 0,
+    "pronunciation": "/ˈtɹæn.ʃənt/"
+  },
+  "equitable": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "bolster": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "sporadic": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "adamant": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "predominant": {
+    "sense": 1,
+    "defIndex": 0,
+    "pronunciation": "/pɹɪˈdɒmɪnənt/"
+  },
+  "latent": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "poignant": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "disparate": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "fallacy": {
+    "sense": 0,
+    "defIndex": 0
+  },
+  "subversive": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "staunch": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "palpable": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "renounce": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "rectify": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "rudimentary": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "stoic": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "dispel": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "gullible": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "tumultuous": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "insatiable": {
+    "sense": 1,
+    "defIndex": 0,
+    "pronunciation": "/ɪnˈseɪʃ(j)əbəl/"
+  },
+  "tenacious": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "tenuous": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "aberration": {
+    "sense": 0,
+    "defIndex": 0
+  },
+  "caustic": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "impasse": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "dearth": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "vitriol": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "coerce": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "prolific": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "austere": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "pique": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "discern": {
+    "sense": 0,
+    "defIndex": 1,
+    "pronunciation": "/dɪˈsɝn/"
+  },
+  "nadir": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "wanton": {
+    "sense": 2,
+    "defIndex": 3
+  },
+  "wane": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "constrain": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "candor": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "anathema": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "forthright": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "erudite": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "quagmire": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "insolent": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "pejorative": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "inane": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "ostentatious": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "strident": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "halcyon": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "polemic": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "permeate": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "prosaic": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "vicarious": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "disparage": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "moribund": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "encroach": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "contrite": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "servile": {
+    "sense": 1,
+    "defIndex": 1
+  },
+  "maudlin": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "turgid": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "entrench": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "bellwether": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "acerbic": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "galvanize": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "histrionic": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "redolent": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "quotidian": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "churlish": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "stymie": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "iconoclast": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "sophistry": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "impugn": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "ribald": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "inundate": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "demur": {
+    "sense": 1,
+    "defIndex": 2
+  },
+  "maladroit": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "sententious": {
+    "sense": 0,
+    "defIndex": 2
+  },
+  "penurious": {
+    "sense": 0,
+    "defIndex": 2,
+    "pronunciation": "/pəˈnjʊə.ɹi.əs/"
+  },
+  "obloquy": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "ignoble": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "hackneyed": {
+    "sense": 1,
+    "defIndex": 0
+  },
+  "reprobate": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "vicissitude": {
+    "sense": 0,
+    "defIndex": 1
+  },
+  "relegate": {
+    "sense": 0,
+    "defIndex": 6
+  },
+  "rhetoric": {
+    "pronunciation": "[ˈɹɛ.ɾə.ɹɪk]"
+  },
+  "fluctuate": {
+    "pronunciation": "/ˈflʌkt͡ʃu.eɪt/"
+  },
+  "idiosyncratic": {
+    "pronunciation": "/ˌɪd.i.oʊ.sɪŋˈkɹæt.ɪk/"
+  },
+  "opulent": {
+    "pronunciation": "/ˈɑː.pjə.lənt/"
+  },
+  "irreverent": {
+    "pronunciation": "/ɪəˈɹɛ.və.ɹənt/"
+  },
+  "acrimony": {
+    "pronunciation": "/ˈækɹɪˌmoʊni/"
+  },
+  "abrogate": {
+    "pronunciation": "/ˈæb.ɹə.ɡeɪt/"
   }
 }

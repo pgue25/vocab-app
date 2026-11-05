@@ -73,9 +73,9 @@ function seeded(seed) {
 
 /**
  * Today's study set for Learn: `perLevel` words from each level (25 total by default).
- * Each level's words are dealt out in blocks of days: within a block no word repeats,
- * so consecutive days get different words. Each block is reshuffled, so sets don't
- * come back in the same groupings.
+ * Each level's words are dealt out in blocks of days: within a block no word repeats.
+ * Later blocks reshuffle words within quarters of the cycle, so groupings change but
+ * a word doesn't return until roughly three quarters of a cycle later.
  * @returns {{ dateKey: string, words: object[] }}
  */
 export function pickDailySet(words, date = new Date(), perLevel = 5) {
@@ -99,13 +99,23 @@ export function pickDailySet(words, date = new Date(), perLevel = 5) {
       }
       return order;
     };
-    // Walk blocks from the epoch, moving each block's last-day words to the end
-    // of the next block so no word is shown two days in a row (cheap: ~90 blocks/year).
+    // Walk blocks from the epoch. Each new block reshuffles words only within the same
+    // quarter of the cycle they held last block, so a word never comes back much sooner
+    // than ~3/4 of a cycle (about two weeks with 80 words per level), yet daily groupings vary.
+    const chunk = take * Math.max(1, Math.floor(blockDays / 4));
     let dealt = deal(0);
     for (let b = 1; b <= block; b++) {
-      const prev = dealt.slice((blockDays - 1) * take, blockDays * take);
-      const order = deal(b);
-      dealt = [...order.filter((w) => !prev.includes(w)), ...order.filter((w) => prev.includes(w))];
+      const rand = seeded(hash(`${level}:${b}:q`));
+      const next = [];
+      for (let i = 0; i < dealt.length; i += chunk) {
+        const part = dealt.slice(i, i + chunk);
+        for (let k = part.length - 1; k > 0; k--) {
+          const j = Math.floor(rand() * (k + 1));
+          [part[k], part[j]] = [part[j], part[k]];
+        }
+        next.push(...part);
+      }
+      dealt = next;
     }
     const start = (dayNum - block * blockDays) * take;
     out.push(...dealt.slice(start, start + take));

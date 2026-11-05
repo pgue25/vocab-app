@@ -1,0 +1,77 @@
+{
+  "dissent": {
+    "examples": ["The decision passed despite strong dissent from two judges.", "In a healthy democracy, dissent is not treated as disloyalty."],
+    "quizCorrect": ["The regime jailed anyone who voiced dissent.", "There was little dissent when the board approved the merger.", "Two justices wrote a sharp dissent."],
+    "quizWrong": ["The plane began its dissent into Chicago.", "Everyone agreed, so there was strong dissent in the room.", "The hikers made a slow dissent down the mountain.", "Her dissent from royalty gave her a claim to the throne.", "The elevator's dissent was smooth and quick.", "He is of Irish dissent on his mother's side.", "The vote was unanimous, with loud dissent from every member.", "The climbers began their dissent before dark.", "The family traces its dissent back to the Vikings."]
+  },
+  "superficial": {
+    "examples": ["The fire caused only superficial damage to the building.", "Their friendship was superficial and faded quickly."],
+    "quizCorrect": ["The cut was superficial and didn't need stitches.", "Critics called the review superficial and rushed.", "Beyond superficial similarities, the two cases are very different."],
+    "quizWrong": ["The superficial wound went all the way to the bone.", "He has superficial powers, like flying and super strength.", "Her superficial analysis dug deep into every detail.", "The superficial hero saved the city from the meteor.", "The deep, superficial bond between them lasted a lifetime.", "The superficial athlete could lift a car.", "His superficial study took ten years of careful research.", "Only a superficial being could survive that blast.", "Her superficial understanding was the most thorough in the class."]
+  },
+  "rampant": {
+    "examples": ["Corruption was rampant in the old regime.", "Rumors ran rampant after the CEO resigned."],
+    "quizCorrect": ["Inflation was rampant in the 1970s.", "Cheating had become rampant in the online class.", "Rampant speculation drove housing prices sky-high."],
+    "quizWrong": ["Drive up the rampant to get onto the highway.", "The disease was rampant, with only one case reported all year.", "She pushed the wheelchair up the rampant.", "Crime was rampant, so the streets were perfectly safe.", "The truck backed down the loading rampant.", "The rare problem was rampant, appearing once a decade.", "Skaters practiced tricks on the rampant.", "Theft was rampant, and nothing ever went missing.", "Take the next rampant off the freeway."]
+  },
+  "alleviate": {
+    "examples": ["The medicine helped alleviate her pain.", "New housing could alleviate the city's shortage."],
+    "quizCorrect": ["Aid shipments alleviated the worst of the famine.", "Adding a second lane should alleviate traffic.", "Talking to a friend can alleviate stress."],
+    "quizWrong": ["The elevator will alleviate you to the tenth floor.", "Shouting at him only alleviated his anger and made it worse.", "The balloon alleviated slowly into the sky.", "Stepping on the injured ankle alleviated the pain until he screamed.", "The crane alleviated the beam onto the roof.", "The extra homework alleviated their stress, doubling it overnight.", "Hot air will alleviate the balloon off the ground.", "Cutting the budget alleviated the crisis by deepening it.", "The magician alleviated the girl into the air."]
+  },
+  "collaborate": {
+    "examples": ["The two companies will collaborate on a new phone.", "Scientists from five countries collaborated on the study."],
+    "quizCorrect": ["She loves to collaborate with other musicians.", "Teachers collaborated to design the new curriculum.", "The authors collaborated over email for two years."],
+    "quizWrong": ["He collaborated the story by showing his receipts.", "The detective collaborated the witness's account with video footage.", "She prefers to work alone and collaborate with no one, so she teams up often.", "The DNA collaborated his alibi.", "The rivals collaborated by refusing to work together.", "The new evidence collaborated her version of events.", "He collaborated solo on the project, with no partners.", "The receipt collaborated his claim that he was in Paris.", "Two witnesses collaborated the driver's story."]
+  },
+  "perennial": {
+    "examples": ["The team is a perennial contender for the championship.", "Traffic is a perennial complaint in the city."],
+    "quizCorrect": ["Funding for schools is a perennial issue in the legislature.", "Tulips are perennial and come back every spring.", "She is a perennial favorite with critics."],
+    "quizWrong": ["The perennial comet appears only once every thousand years.", "This perennial problem happened one time and never again.", "The perennial flower dies after a single season.", "He is a perennial loser who has never been to the playoffs once.", "The perennial event was held just once in 1952.", "Annual plants are perennial; they die every year.", "The one-time perennial guest never came back.", "The perennial shortage occurred a single winter.", "His perennial visit was the first and last."]
+  },
+  "tedious": {
+    "examples": ["Filling out the tax forms was tedious but necessary.", "The movie had a few tedious stretches in the middle."],
+    "quizCorrect": ["Data entry is tedious work.", "The lecture grew tedious after the first hour.", "Checking every receipt by hand was tedious."],
+    "quizWrong": ["The tedious ride was so thrilling we went three times.", "She gave a tedious welcome to the guests, full of warmth.", "The roller coaster was tedious and kept us screaming.", "He is tedious about his diet and counts every calorie.", "The tedious thriller kept me on the edge of my seat.", "Her tedious attention to detail made the plan perfect.", "The exciting, tedious game went to overtime.", "Wash the tedious stains out before they set.", "The fireworks show was tedious, the most exciting night of the year."]
+  },
+  "hiatus": {
+    "examples": ["The band is on hiatus while the singer records a solo album.", "After a two-year hiatus, the show returned to TV."],
+    "quizCorrect": ["She took a hiatus from social media.", "Talks resumed after a month-long hiatus.", "The magazine went on hiatus during the war."],
+    "quizWrong": ["The hiatus of the joke made everyone laugh.", "The bear went into hiatus for the winter.", "The show's hiatus means new episodes air every week without a break.", "His hiatus lasted no time at all; he never stopped.", "Bears hiatus in caves during the cold months.", "The comedy show was pure hiatus from start to finish.", "The band's hiatus included a nonstop world tour.", "The groundhog emerged from hiatus in February.", "The hiatus of the situation was impossible to ignore."]
+  },
+  "pragmatic": {
+    "examples": ["She took a pragmatic approach and focused on what would work.", "The deal was a pragmatic compromise, not a perfect one."],
+    "quizCorrect": ["As a pragmatic leader, he cared more about results than ideology.", "Renting was the pragmatic choice while they saved for a house.", "Investors welcomed the company's pragmatic new strategy."],
+    "quizWrong": ["The pragmatic dreamer ignored every practical concern.", "His pragmatic disease affected his lungs.", "She made a pragmatic choice based on pure fantasy.", "The pragmatic music was dramatic and emotional.", "The pragmatic plan had no connection to reality.", "His pragmatic entrance stunned the crowd with drama.", "The pragmatic idealist refused to compromise on anything.", "He took a pragmatic leap of faith with no plan at all.", "The pragmatic scene in the movie had everyone crying."]
+  },
+  "innate": {
+    "examples": ["She has an innate talent for music.", "Some researchers believe the ability to learn language is innate."],
+    "quizCorrect": ["Babies have an innate fear of falling.", "His innate curiosity made him a great scientist.", "Is honesty innate or learned?"],
+    "quizWrong": ["The prison released three innates for good behavior.", "Her innate skill came only after decades of training.", "The innates rioted in the prison yard.", "The innate was sentenced to ten years.", "That habit isn't innate; she was born with it.", "Guards counted the innates every morning.", "The innate escaped by digging a tunnel.", "His innate talent was entirely learned in school.", "Each innate gets one phone call per week."]
+  },
+  "elusive": {
+    "examples": ["A cure for the common cold remains elusive.", "The elusive snow leopard is rarely seen in the wild."],
+    "quizCorrect": ["For years, a championship proved elusive.", "Peace in the region has been elusive.", "The thief was elusive, always one step ahead of police."],
+    "quizWrong": ["The pass was elusive, so only members could enter the club.", "She made an elusive reference to an old movie.", "The answer was elusive and obvious to everyone.", "The elusive club only admits the very wealthy.", "His elusive comment hinted at the scandal.", "The elusive guest showed up at every single party.", "Membership is elusive and costs ten thousand dollars a year.", "The poem has many elusive references to the Bible.", "The easy, elusive goal was reached on day one."]
+  },
+  "concise": {
+    "examples": ["Keep your answers concise and to the point.", "The report was concise, just two pages."],
+    "quizCorrect": ["Her concise summary saved everyone time.", "Editors prefer concise writing.", "He gave a concise explanation of the new rules."],
+    "quizWrong": ["The concise speech dragged on for three hours.", "The surgeon made a concise incision in the arm.", "His concise email ran for twelve rambling pages.", "Measure twice, then make a concise cut.", "The concise novel was over a thousand pages long.", "The jeweler's tools must be concise.", "She gave a concise, long-winded answer that never ended.", "The watch is concise to a tenth of a second.", "His concise, wordy report repeated itself constantly."]
+  },
+  "blatant": {
+    "examples": ["The referee missed a blatant foul.", "It was a blatant attempt to change the subject."],
+    "quizCorrect": ["The ad was a blatant copy of a rival's campaign.", "He told a blatant lie in front of everyone.", "The report exposed blatant abuse of company funds."],
+    "quizWrong": ["The blatant food had no flavor at all.", "The mistake was blatant, so subtle no one noticed it.", "Add some salt; the soup is blatant.", "The sheep gave a blatant cry in the field.", "His blatant hint was so subtle we missed it.", "The rice was boring and blatant.", "The lamb blatanted for its mother.", "The blatant whisper was too quiet to hear.", "She ate plain, blatant toast for breakfast."]
+  },
+  "indifferent": {
+    "examples": ["Voters seem indifferent to the race for city council.", "The waiter was indifferent to our complaints."],
+    "quizCorrect": ["She was indifferent to fame and avoided the spotlight.", "Investors were indifferent to the announcement.", "He gave an indifferent shrug."],
+    "quizWrong": ["The twins look indifferent; no one can tell them apart.", "She was indifferent about the result and cried when she lost.", "The two dresses are indifferent colors, red and blue.", "Try an indifferent route if the highway is busy.", "He cared deeply and was completely indifferent.", "The sisters have indifferent personalities, one shy and one loud.", "Each class has an indifferent teacher this year.", "The indifferent fan screamed at every play.", "We tried three indifferent restaurants on the trip."]
+  },
+  "discreet": {
+    "examples": ["Please be discreet; I don't want everyone to know yet.", "The hotel is known for its discreet service."],
+    "quizCorrect": ["She made a discreet exit before the speeches began.", "He was discreet about his clients' private affairs.", "A discreet sign marked the entrance."],
+    "quizWrong": ["The two problems are discreet and must be handled separately.", "The discreet gossip told everyone the secret.", "The data comes in discreet units.", "He made a discreet announcement over the loudspeaker.", "The steps are discreet, separate stages.", "The discreet reporter published every private detail.", "Her discreet scream echoed through the hall.", "The flashing neon sign was very discreet.", "Divide the project into discreet parts."]
+  }
+}

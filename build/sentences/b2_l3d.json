@@ -1,0 +1,92 @@
+{
+  "pariah": {
+    "examples": ["After the scandal, he became a pariah in Hollywood.", "The country was treated as a pariah by its neighbors."],
+    "quizCorrect": ["Smokers can feel like pariahs at some workplaces.", "The whistleblower became a pariah at her company.", "Sanctions turned the regime into an international pariah."],
+    "quizWrong": ["The beloved pariah was welcomed at every party.", "The lions stalked their pariah through the grass.", "She was a pariah, the most popular girl in school.", "The hawk dove at its pariah.", "Everyone adored the town pariah.", "Wolves hunt their pariah in packs.", "As a pariah, he was invited everywhere.", "The fox caught its pariah, a rabbit.", "The celebrity pariah had millions of adoring fans."]
+  },
+  "erudite": {
+    "examples": ["The professor gave an erudite lecture on Roman law.", "Her erudite essays are full of references to history."],
+    "quizCorrect": ["He was an erudite scholar who read ten languages.", "The book is erudite but surprisingly readable.", "The erudite guest corrected the host's facts."],
+    "quizWrong": ["The erudite student had never read a book.", "The volcano began to erudite ash and lava.", "His erudite manners offended everyone at dinner.", "The geyser erudites every hour.", "The erudite fool knew nothing.", "Her erudite comment was crude and vulgar.", "The volcano erudited for three days.", "His erudite ignorance was shocking.", "The erudite joke was rude and childish."]
+  },
+  "quagmire": {
+    "examples": ["The war turned into a long quagmire.", "The project became a legal quagmire."],
+    "quizCorrect": ["Heavy rain turned the field into a quagmire.", "The company is stuck in a regulatory quagmire.", "Critics warned the mission would become a quagmire."],
+    "quizWrong": ["The quagmire went smoothly and ended quickly.", "A quagmire is a dish of quail eggs.", "The simple, easy task was a quagmire that took a minute.", "The quagmire sang sweetly from the tree.", "The negotiations were a quagmire, wrapped up in an hour.", "He hunted quagmire in the fall.", "The quick, clean war was a quagmire.", "The quagmire laid its eggs in the grass.", "Their quagmire was resolved with a handshake."]
+  },
+  "insolent": {
+    "examples": ["The insolent student talked back to the teacher.", "He gave an insolent reply to the judge."],
+    "quizCorrect": ["Her insolent tone got her sent to the principal.", "The guard was fired for insolent behavior.", "The insolent remark angered the crowd."],
+    "quizWrong": ["The insolent student was polite and respectful.", "The company went insolent and closed.", "After the crash, the bank was insolent.", "His insolent bow showed deep respect.", "The insolent business couldn't pay its debts.", "The insolent child said 'please' and 'thank you' every time.", "The insolent firm filed for bankruptcy.", "Her insolent courtesy impressed the queen.", "Many airlines became insolent during the crisis."]
+  },
+  "pejorative": {
+    "examples": ["The word 'nerd' was once purely pejorative.", "He used the term in a pejorative sense."],
+    "quizCorrect": ["Many groups object to pejorative labels.", "The article was criticized for its pejorative language.", "'Bureaucrat' is often used as a pejorative."],
+    "quizWrong": ["Calling her brilliant was a pejorative compliment.", "The doctor gave a pejorative treatment before surgery.", "The pejorative praise made him beam with pride.", "Take this pejorative pill every morning.", "The pejorative nickname was a term of affection.", "Her pejorative comment was the warmest thing anyone said.", "The pejorative care prevented the disease.", "He used 'genius' as a pejorative to praise her.", "The pejorative test came back normal."]
+  },
+  "squander": {
+    "examples": ["He squandered his inheritance on gambling.", "The team squandered a ten-point lead."],
+    "quizCorrect": ["Don't squander this opportunity.", "The government squandered billions on the failed project.", "She squandered her talent by never practicing."],
+    "quizWrong": ["She squandered her savings and grew rich.", "The children squandered around the playground.", "He squandered the opportunity by making the most of it.", "The goats squandered up the hill.", "They squandered every penny and saved a fortune.", "The kids squandered off into the woods.", "She squandered the lead and won by twenty.", "The dog squandered across the yard.", "He squandered nothing, wasting everything."]
+  },
+  "obstinate": {
+    "examples": ["The obstinate mule refused to move.", "He was too obstinate to admit he was wrong."],
+    "quizCorrect": ["Her obstinate refusal to compromise ended the talks.", "The stain was obstinate and wouldn't wash out.", "The obstinate child would not eat his vegetables."],
+    "quizWrong": ["The obstinate negotiator agreed to every term.", "The obstinate child was easily convinced.", "Her obstinate cough cleared up in an hour.", "He is obstinate and changes his mind constantly.", "The obstinate doctor delivered the baby.", "The obstinate mule trotted wherever it was led.", "She was obstinate, so she went along with everything.", "The obstinate employee followed every suggestion.", "The flexible, obstinate boss adapted to every change."]
+  },
+  "petulant": {
+    "examples": ["The star made petulant demands about his dressing room.", "She gave a petulant sigh and slammed the door."],
+    "quizCorrect": ["The petulant toddler threw his toy.", "His petulant response to criticism embarrassed his staff.", "Critics called the tweet petulant and childish."],
+    "quizWrong": ["The petulant flower bloomed in spring.", "Her petulant patience never ran out.", "The rose's petulants fell to the ground.", "The petulant child waited calmly and quietly.", "The flower lost its petulants in the wind.", "His petulant maturity impressed the adults.", "The petulant sunflower followed the sun.", "She was petulant and gracious when she lost.", "Pull off the petulants one by one."]
+  },
+  "trepidation": {
+    "examples": ["She opened the letter with trepidation.", "Investors greeted the news with trepidation."],
+    "quizCorrect": ["He approached the old bridge with some trepidation.", "Despite her trepidation, she gave the speech.", "There was trepidation in the town as the storm neared."],
+    "quizWrong": ["The trepidation of water through the rock took centuries.", "She faced the exam with trepidation, totally calm and confident.", "The trepidation in Seattle is heavy in winter.", "His trepidation was so complete he felt no fear at all.", "The forecast calls for heavy trepidation.", "The fearless hero felt great trepidation.", "Trepidation fell as rain and snow.", "With trepidation, she boldly and happily jumped in.", "Annual trepidation in the desert is low."]
+  },
+  "inane": {
+    "examples": ["The meeting was full of inane chatter.", "He asked an inane question about the weather."],
+    "quizCorrect": ["The show's inane plot bored critics.", "She grew tired of his inane jokes.", "The comments section was full of inane arguments."],
+    "quizWrong": ["Her inane remark was the most insightful of the night.", "The inane patient was treated at the hospital.", "The brilliant, inane lecture changed my life.", "The court found him inane and unfit to stand trial.", "His inane analysis won a prize for its depth.", "The inane asylum housed hundreds of patients.", "The inane question stumped the experts with its depth.", "She was declared legally inane.", "The deep, inane book was a classic of philosophy."]
+  },
+  "incongruous": {
+    "examples": ["The modern sculpture looked incongruous in the old church.", "His cheerful tone was incongruous with the sad news."],
+    "quizCorrect": ["A tuxedo seemed incongruous at the beach party.", "The bright pink house looked incongruous on the quiet street.", "There's something incongruous about a vegan butcher."],
+    "quizWrong": ["The incongruous outfit matched the occasion perfectly.", "The incongruous triangles had identical sides and angles.", "The two colors were incongruous and blended perfectly.", "Congress passed the incongruous bill.", "His incongruous smile fit the happy moment.", "The incongruous shapes were exactly the same.", "The incongruous furniture matched the room's style.", "Her incongruous remark fit naturally into the conversation.", "The incongruous members of Congress voted."]
+  },
+  "proliferate": {
+    "examples": ["Food trucks have proliferated in the city.", "Fake news can proliferate quickly online."],
+    "quizCorrect": ["Bacteria proliferate in warm, moist conditions.", "Apps that track spending have proliferated.", "Weeds proliferated after the rain."],
+    "quizWrong": ["The disease proliferated and disappeared.", "The professor proliferated a long speech.", "The number of stores proliferated, dropping to zero.", "He proliferated his innocence to the jury.", "The weeds proliferated and vanished.", "The pastor proliferated a sermon.", "Phones proliferated, becoming rarer every year.", "She proliferated her love for him.", "The cells proliferated by dying off."]
+  },
+  "judicious": {
+    "examples": ["She made judicious use of the limited budget.", "A judicious choice of words can avoid conflict."],
+    "quizCorrect": ["The judicious use of spices makes the dish shine.", "His judicious investments paid off.", "The editor made judicious cuts to the manuscript."],
+    "quizWrong": ["The judicious spending was reckless and wasteful.", "The judicious system includes courts and judges.", "Her judicious decision was rash and foolish.", "He appealed to the judicious branch.", "The judicious choice was the worst possible one.", "The judicious robes are black.", "His judicious gamble lost everything foolishly.", "Judicious review allows courts to strike down laws.", "A judicious, careless move ruined the plan."]
+  },
+  "ostentatious": {
+    "examples": ["The mansion was ostentatious, with gold faucets.", "He made an ostentatious donation in front of the cameras."],
+    "quizCorrect": ["Her ostentatious jewelry drew stares.", "The CEO's ostentatious lifestyle angered shareholders.", "The wedding was ostentatious and over the top."],
+    "quizWrong": ["The ostentatious cabin was plain and modest.", "The ostentatious bird laid an enormous egg.", "His ostentatious modesty kept him out of the spotlight.", "The ostentatious stood on one leg in the zoo.", "Her ostentatious outfit was simple and understated.", "The ostentatious buried its head in the sand.", "The humble, ostentatious monk owned nothing.", "The ostentatious ran across the savanna.", "His ostentatious, quiet gift went unnoticed."]
+  },
+  "terse": {
+    "examples": ["She sent a terse email declining the offer.", "His reply was terse: 'No.'"],
+    "quizCorrect": ["The company issued a terse statement.", "The coach gave terse answers to reporters.", "Her terse note made it clear she was angry."],
+    "quizWrong": ["His terse speech went on for two hours.", "The terse tiger was in a bad mood.", "Her terse letter ran twenty rambling pages.", "Write a terse of poetry.", "The terse summary repeated every detail at length.", "Recite the first terse of the poem.", "His terse reply was long and chatty.", "The terse bear growled.", "The terse report was a thousand pages."]
+  },
+  "affable": {
+    "examples": ["The affable host made everyone feel at home.", "He is affable and easy to work with."],
+    "quizCorrect": ["Voters liked the senator's affable manner.", "The affable bartender knew all the regulars.", "Despite his fame, he stayed affable and humble."],
+    "quizWrong": ["The affable clerk snapped at every customer.", "The story was an affable with a moral at the end.", "The affable dog growled and bit the mailman.", "The fox and the grapes is a famous affable.", "Her affable glare scared everyone off.", "Aesop wrote many affables.", "The rude, affable waiter ignored us.", "The affable taught children to be honest.", "His affable scowl made people avoid him."]
+  },
+  "strident": {
+    "examples": ["The senator's strident tone alienated moderates.", "A strident alarm woke the whole building."],
+    "quizCorrect": ["She is a strident critic of the new law.", "The band's strident guitars filled the hall.", "His strident demands made negotiations harder."],
+    "quizWrong": ["Her strident whisper was soft and gentle.", "He walked with long, strident steps.", "The strident lullaby put the baby to sleep.", "The soldier made strident progress across the field.", "His strident, quiet voice was hard to hear.", "She strident into the room confidently.", "The strident, soothing music relaxed everyone.", "With a strident step, he crossed the street.", "Her strident murmur was barely audible."]
+  },
+  "halcyon": {
+    "examples": ["He remembered the halcyon days of his youth.", "The 1990s were a halcyon era for the company."],
+    "quizCorrect": ["She looked back on the halcyon summers at the lake.", "Those halcyon days before the war seemed far away.", "Investors miss the halcyon days of low rates."],
+    "quizWrong": ["The halcyon days of the war were full of suffering.", "Use halcyon to light the camping stove.", "The halcyon era was the darkest time in history.", "The halcyon lamp burned all night.", "Those halcyon years of famine were terrible.", "Fill the halcyon tank before the trip.", "Their halcyon childhood was miserable.", "The halcyon gas is used in bright signs.", "Her halcyon days in prison were the worst of her life."]
+  }
+}

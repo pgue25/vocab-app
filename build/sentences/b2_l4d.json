@@ -1,0 +1,310 @@
+{
+  "conflate": {
+    "examples": [
+      "Critics say the report conflates correlation with causation.",
+      "Don't conflate being busy with being productive."
+    ],
+    "quizCorrect": [
+      "Many people conflate the two diseases.",
+      "The ad conflates luxury with happiness.",
+      "He conflated two separate events in his memory."
+    ],
+    "quizWrong": [
+      "She conflated the balloons for the party.",
+      "The scientist carefully conflated the two ideas by keeping them distinct.",
+      "Conflate the tires before the trip.",
+      "The prices conflated by ten percent this year.",
+      "He conflated the air mattress with a pump.",
+      "Her balloon conflated slowly as the air leaked out.",
+      "The bubble conflated and popped.",
+      "The rumors conflated his ego.",
+      "Use the pump to conflate the raft."
+    ]
+  },
+  "hackneyed": {
+    "examples": [
+      "The movie relied on hackneyed plot twists.",
+      "'Think outside the box' has become a hackneyed phrase."
+    ],
+    "quizCorrect": [
+      "Her speech was full of hackneyed clichés.",
+      "Critics called the love story hackneyed.",
+      "He avoided hackneyed metaphors in his poems."
+    ],
+    "quizWrong": [
+      "The hackneyed idea was completely original.",
+      "The hacker hackneyed into the bank's network.",
+      "Her fresh, hackneyed style surprised the critics.",
+      "The website was hackneyed by criminals.",
+      "The hackneyed plot had never been tried before.",
+      "His account was hackneyed and his data stolen.",
+      "The innovative, hackneyed design won an award.",
+      "They hackneyed the password in minutes.",
+      "The groundbreaking, hackneyed film changed cinema."
+    ]
+  },
+  "convivial": {
+    "examples": [
+      "The dinner had a warm, convivial atmosphere.",
+      "He is a convivial host who loves big parties."
+    ],
+    "quizCorrect": [
+      "The pub is known for its convivial crowd.",
+      "The reunion was a convivial affair.",
+      "She enjoyed the convivial company of old friends."
+    ],
+    "quizWrong": [
+      "The convivial funeral was silent and grim.",
+      "The convivial evidence led to a conviction.",
+      "His convivial glare kept everyone away.",
+      "She was convivial of the crime and sent to prison.",
+      "The convivial loner avoided all parties.",
+      "The convivial argument persuaded the jury.",
+      "The tense, convivial meeting ended in shouting.",
+      "He was convivial that he was right.",
+      "The cold, convivial reception made us leave early."
+    ]
+  },
+  "maudlin": {
+    "examples": [
+      "After a few drinks, he became maudlin about his ex.",
+      "The film's maudlin ending was too sentimental."
+    ],
+    "quizCorrect": [
+      "Her toast turned maudlin and tearful.",
+      "The song is catchy but a little maudlin.",
+      "He avoided maudlin speeches at the funeral."
+    ],
+    "quizWrong": [
+      "He played a beautiful tune on the maudlin.",
+      "The maudlin comedy had no emotion at all.",
+      "She strummed her maudlin by the fire.",
+      "His maudlin speech was dry, unemotional, and factual.",
+      "The band added a maudlin and a banjo.",
+      "Her maudlin calm never showed any feeling.",
+      "The maudlin player tuned the strings.",
+      "The maudlin report listed only statistics.",
+      "The maudlin has eight strings."
+    ]
+  },
+  "rapacious": {
+    "examples": [
+      "Rapacious landlords raised rents every year.",
+      "The movie's villain is a rapacious banker."
+    ],
+    "quizCorrect": [
+      "The company was accused of rapacious pricing.",
+      "Rapacious loggers stripped the forest.",
+      "Critics attacked the bank's rapacious lending practices."
+    ],
+    "quizWrong": [
+      "The rapacious donor gave away all his money.",
+      "The rapacious room had space for a hundred guests.",
+      "The generous, rapacious landlord lowered the rent.",
+      "The car's rapacious trunk holds four suitcases.",
+      "His rapacious modesty kept him poor.",
+      "The rapacious closet fits all my clothes.",
+      "The rapacious charity asked for nothing.",
+      "The hotel lobby is bright and rapacious.",
+      "She was rapacious and content with very little."
+    ]
+  },
+  "puerile": {
+    "examples": [
+      "The comedy relied on puerile jokes.",
+      "His puerile behavior embarrassed his colleagues."
+    ],
+    "quizCorrect": [
+      "The debate descended into puerile insults.",
+      "Critics found the humor puerile.",
+      "It was puerile to mock his name."
+    ],
+    "quizWrong": [
+      "The puerile water was clean and safe to drink.",
+      "Her puerile analysis was mature and sophisticated.",
+      "The puerile diamond was flawless.",
+      "The puerile professor's wisdom impressed everyone.",
+      "Drink only puerile, filtered water.",
+      "The serious, puerile essay was very grown-up.",
+      "The puerile gold was 24 karat.",
+      "His puerile, adult manners were impeccable.",
+      "The air in the mountains is puerile."
+    ]
+  },
+  "restive": {
+    "examples": [
+      "The crowd grew restive as the delay dragged on.",
+      "Investors are restive after months of losses."
+    ],
+    "quizCorrect": [
+      "The restive horses stamped in their stalls.",
+      "Restive voters demanded change.",
+      "The children grew restive during the long speech."
+    ],
+    "quizWrong": [
+      "The restive guests fell asleep peacefully.",
+      "After a restive weekend, I feel refreshed.",
+      "The restive crowd sat calm and patient.",
+      "The restive spa helps you relax.",
+      "She took a restive nap on the couch.",
+      "The restive horses stood quietly all day.",
+      "His restive sleep left him well-rested.",
+      "The restive music lulled the baby to sleep.",
+      "The quiet, restive audience waited patiently."
+    ]
+  },
+  "torpor": {
+    "examples": [
+      "The heat put the whole town into a torpor.",
+      "Bears enter a state of torpor in winter."
+    ],
+    "quizCorrect": [
+      "He shook off his post-lunch torpor.",
+      "The economy sank into torpor.",
+      "The medicine left her in a torpor."
+    ],
+    "quizWrong": [
+      "The torpor hit the ship and sank it.",
+      "His torpor kept him running all day.",
+      "The submarine fired a torpor.",
+      "The energetic torpor of the crowd was electric.",
+      "A torpor struck the battleship.",
+      "Her morning torpor had her bouncing out of bed.",
+      "The torpor exploded underwater.",
+      "The torpor of the children made them race around.",
+      "The navy tested a new torpor."
+    ]
+  },
+  "acrimony": {
+    "examples": [
+      "The meeting ended in acrimony.",
+      "The divorce was marked by years of acrimony."
+    ],
+    "quizCorrect": [
+      "There was acrimony between the two campaigns.",
+      "The merger talks collapsed amid acrimony.",
+      "She spoke without acrimony about her old boss."
+    ],
+    "quizWrong": [
+      "The couple paid acrimony after the divorce.",
+      "The friendly meeting was full of acrimony and laughter.",
+      "He owes his ex-wife acrimony every month.",
+      "Their acrimony showed how much they loved each other.",
+      "The court ordered him to pay acrimony.",
+      "The warm reunion was pure acrimony.",
+      "Acrimony payments end when the child turns eighteen.",
+      "The cheerful acrimony brought them closer.",
+      "She received acrimony from her ex."
+    ]
+  },
+  "fractious": {
+    "examples": [
+      "The fractious coalition could not agree on a budget.",
+      "The fractious toddler refused to nap."
+    ],
+    "quizCorrect": [
+      "The party has become fractious and divided.",
+      "Relations between the two neighbors are fractious.",
+      "The fractious debate ended with no vote."
+    ],
+    "quizWrong": [
+      "The fractious bone needed a cast.",
+      "The fractious group agreed on everything.",
+      "He suffered a fractious arm in the crash.",
+      "The calm, fractious baby slept through the night.",
+      "The X-ray showed a fractious wrist.",
+      "The fractious team was perfectly united.",
+      "Divide the pie into fractious.",
+      "The peaceful, fractious meeting ended in harmony.",
+      "One half is a simple fractious."
+    ]
+  },
+  "turgid": {
+    "examples": [
+      "The book is written in turgid prose.",
+      "The river was turgid after the storm."
+    ],
+    "quizCorrect": [
+      "Students struggled through the turgid textbook.",
+      "The speech was turgid and overlong.",
+      "His turgid style buried the story."
+    ],
+    "quizWrong": [
+      "Her turgid prose was light and lively.",
+      "The turgid water was crystal clear.",
+      "His turgid, crisp writing was a joy to read.",
+      "His turgid, sparkling wit kept every page light.",
+      "The turgid speech was short and sharp.",
+      "The turgid lawn was bright green.",
+      "The fresh, turgid style won fans.",
+      "Her turgid haiku was three short lines.",
+      "The turgid summary was brisk and clear."
+    ]
+  },
+  "entrench": {
+    "examples": [
+      "The ruling party has entrenched its power.",
+      "Bad habits can become entrenched."
+    ],
+    "quizCorrect": [
+      "Poverty is deeply entrenched in the region.",
+      "The soldiers entrenched themselves on the hill.",
+      "The law entrenched the rights of workers."
+    ],
+    "quizWrong": [
+      "The rain entrenched us to the bone.",
+      "The new law entrenched inequality by ending it.",
+      "She entrenched the towel in water.",
+      "His power was entrenched, so it disappeared overnight.",
+      "We got entrenched in the downpour.",
+      "The habit was entrenched and easy to break.",
+      "The storm entrenched the hikers.",
+      "The entrenched custom vanished in a week.",
+      "Wring out the entrenched clothes."
+    ]
+  },
+  "bellwether": {
+    "examples": [
+      "The state is a bellwether for national elections.",
+      "Apple's stock is a bellwether for the tech sector."
+    ],
+    "quizCorrect": [
+      "The county has been a bellwether in every election since 1960.",
+      "Retail sales are a bellwether of consumer confidence.",
+      "Investors watch the company as a bellwether."
+    ],
+    "quizWrong": [
+      "The bellwether forecast called for rain.",
+      "The bellwether rang loudly in the church tower.",
+      "The bellwether for tomorrow is sunny and warm.",
+      "Check the bellwether before the hike.",
+      "The bellwether chimed at noon.",
+      "Bad bellwether delayed the flight.",
+      "The bellwether hung in the steeple.",
+      "The bellwether has been nice this week.",
+      "The bellwether rang for the wedding."
+    ]
+  },
+  "acerbic": {
+    "examples": [
+      "The critic is known for her acerbic reviews.",
+      "He has an acerbic sense of humor."
+    ],
+    "quizCorrect": [
+      "Her acerbic wit made her a popular columnist.",
+      "The comedian's acerbic jokes targeted politicians.",
+      "He responded with an acerbic remark."
+    ],
+    "quizWrong": [
+      "The acerbic workout left him out of breath.",
+      "Her acerbic praise was warm and gentle.",
+      "The acerbic class gets your heart pumping.",
+      "He gave an acerbic hug.",
+      "Running is a great acerbic exercise.",
+      "The acerbic compliment made her smile.",
+      "Do acerbic exercise three times a week.",
+      "Her acerbic kindness touched everyone.",
+      "The acerbic dance class burns calories."
+    ]
+  }
+}

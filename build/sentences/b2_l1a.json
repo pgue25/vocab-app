@@ -1,0 +1,72 @@
+{
+  "comprehensive": {
+    "examples": ["The report offers a comprehensive review of the city's finances.", "Her insurance plan is comprehensive, covering dental and vision."],
+    "quizCorrect": ["The textbook gives a comprehensive overview of the Civil War.", "Investigators conducted a comprehensive search of the building.", "The bill is a comprehensive overhaul of immigration law."],
+    "quizWrong": ["The lecture was so comprehensive that everyone understood it instantly.", "She is a comprehensive reader who understands every word she sees.", "The brief, comprehensive memo covered only one small point.", "His handwriting is barely comprehensive.", "The comprehensive student finally comprehended the lesson.", "The quick, comprehensive glance missed most of the details.", "The instructions were comprehensive, so I could easily follow them.", "We did a comprehensive check of just one room.", "The comprehensive summary left out nearly everything important."]
+  },
+  "foster": {
+    "examples": ["The mentoring program aims to foster young talent.", "Strict rules can foster resentment among employees."],
+    "quizCorrect": ["The coach worked to foster a sense of teamwork.", "Low interest rates can foster borrowing and investment.", "Open debate helps foster new ideas."],
+    "quizWrong": ["The constant criticism fostered her confidence until it disappeared.", "He fostered the old couch out to the curb for trash pickup.", "The drought fostered the crops until they all died.", "She fostered her way past the guards without being seen.", "The cold weather fostered the fire until it went out.", "They fostered the meeting to next Tuesday.", "The ban fostered trade by stopping it completely.", "He fostered the ball across the field with a mighty kick.", "Fear fostered the crowd into silence and then dispersed it."]
+  },
+  "provincial": {
+    "examples": ["Critics found the film's humor provincial and dated.", "She left her provincial hometown for the energy of the city."],
+    "quizCorrect": ["His provincial attitudes surprised his worldly classmates.", "The magazine mocked the mayor's provincial taste in art.", "Moving abroad cured her of a provincial view of the world."],
+    "quizWrong": ["The provincial traveler had visited over eighty countries and spoke six languages.", "Her cosmopolitan, provincial outlook embraced every culture.", "God's provincial care watched over the sailors.", "It was provincial that we arrived just as the bus pulled up.", "The provincial meal included dishes from every continent.", "He made a provincial escape thanks to a lucky break.", "The worldly, provincial diplomat felt at home anywhere.", "They found a provincial shortcut that saved an hour.", "A provincial gust of wind blew the door open."]
+  },
+  "facilitate": {
+    "examples": ["The new software will facilitate communication between teams.", "A neutral moderator was hired to facilitate the discussion."],
+    "quizCorrect": ["Lower tariffs would facilitate trade between the two countries.", "The ramp was installed to facilitate access for wheelchairs.", "Her job is to facilitate meetings, not to make decisions."],
+    "quizWrong": ["The roadblock facilitated traffic by stopping every car.", "He facilitated the vase and it broke into pieces.", "The extra paperwork facilitated the process, slowing it to a crawl.", "She facilitated through the crowd to reach the stage.", "The building was facilitated with new desks.", "The ice facilitated our progress up the mountain by making us slide back.", "The judge facilitated the defendant to ten years in prison.", "His rude comments facilitated the conversation to a halt.", "The locked gate facilitated our entry."]
+  },
+  "incentive": {
+    "examples": ["The company offers a bonus as an incentive for good performance.", "Tax credits give buyers an incentive to choose electric cars."],
+    "quizCorrect": ["There's little incentive to save when interest rates are so low.", "Free pizza was the incentive that got students to the meeting.", "The new rules remove any incentive to cheat."],
+    "quizWrong": ["The incentive burned slowly and filled the temple with smoke.", "His incentive remark offended everyone at the table.", "The penalty was an incentive that discouraged anyone from trying.", "She lit a stick of incentive to relax.", "The comedian's incentive jokes got him banned from the club.", "The heavy fine served as an incentive to stop people from trying.", "The incentive smell of sandalwood filled the shop.", "His incentive insults started a fight.", "The church burns incentive during the ceremony."]
+  },
+  "mandate": {
+    "examples": ["The new law will mandate seatbelts on school buses.", "The president claimed a mandate after winning by a landslide."],
+    "quizCorrect": ["The city plans to mandate recycling for all businesses.", "The agency has a mandate to protect consumers.", "After a narrow win, she could hardly claim a mandate for sweeping change."],
+    "quizWrong": ["He ordered a mandate dessert made with orange and mango.", "The rule is a mandate, so you can ignore it if you like.", "She mandated across the room to greet her friend.", "The cow mandated the grass slowly in the field.", "The optional mandate lets everyone decide for themselves.", "The fruit stand sells fresh mandates in summer.", "He mandated the steak slowly, savoring each bite.", "The suggestion is only a mandate; no one has to follow it.", "The goat mandated the leaves off the bush."]
+  },
+  "rhetoric": {
+    "examples": ["The candidate's rhetoric was fiery, but his plan was vague.", "Despite the angry rhetoric, both sides kept negotiating."],
+    "quizCorrect": ["Critics dismissed the speech as empty rhetoric.", "Her rhetoric inspired the crowd to march on the capitol.", "The rhetoric on both sides has grown more extreme."],
+    "quizWrong": ["The doctor treated his rhetoric with anti-inflammatory pills.", "His rhetoric acted up in the cold, making his knees ache.", "The rhetoric of the car was painted bright red.", "She asked a rhetoric question and waited eagerly for an answer.", "The old horse suffered from rhetoric in its joints.", "We studied the rhetoric of the building's foundation.", "The rhetoric pain in her hands made typing hard.", "He measured the rhetoric of the circle with a ruler.", "The silent mime's rhetoric moved the crowd without a single word."]
+  },
+  "profound": {
+    "examples": ["The discovery had a profound effect on modern medicine.", "She felt a profound sense of relief when the test came back clear."],
+    "quizCorrect": ["The war brought profound changes to the region.", "His question was simple but profound.", "The loss of her father left a profound sadness."],
+    "quizWrong": ["The profound puddle was barely an inch deep.", "He was profound of his daughter's achievements.", "The change was profound, so small that no one noticed it.", "She found the lost keys and felt very profound.", "The shallow, profound remark meant nothing.", "He profound the answer after searching for an hour.", "The profound scratch on the table was barely visible.", "Her profound shrug showed she didn't care at all.", "The puppy was profound to see its owner."]
+  },
+  "accountable": {
+    "examples": ["Voters want to hold officials accountable for wasteful spending.", "Each manager is accountable for their team's results."],
+    "quizCorrect": ["The CEO said he would hold himself accountable for the losses.", "Police must be accountable to the communities they serve.", "No one was held accountable for the error."],
+    "quizWrong": ["The accountable did our taxes every April.", "She's an accountable at a big firm downtown.", "The crowd was too accountable to count.", "He is accountable for nothing, so he is responsible for everything.", "Hire an accountable to manage the books.", "The accountable stars in the sky were too many to number.", "My accountable says I owe money this year.", "The answer was accountable, so we could easily explain it.", "She trained for years to become a certified accountable."]
+  },
+  "disclose": {
+    "examples": ["The company refused to disclose the terms of the deal.", "Doctors must disclose the risks of any procedure."],
+    "quizCorrect": ["Candidates are required to disclose their income.", "He did not disclose that he had worked for the rival firm.", "The source asked not to be named because the details had not been disclosed."],
+    "quizWrong": ["Please disclose the door behind you; it's cold.", "She disclosed the secret by locking it away forever.", "The store disclosed at nine and reopened in the morning.", "They disclosed the deal by signing the contract.", "He disclosed the window to keep out the rain.", "The museum disclosed for renovations last year.", "The spy disclosed nothing, revealing every detail.", "Disclose your eyes and make a wish.", "The bank disclosed its branch on Main Street permanently."]
+  },
+  "inherent": {
+    "examples": ["Every investment carries some inherent risk.", "There is an inherent conflict between speed and accuracy."],
+    "quizCorrect": ["Flaws are inherent in any system designed by humans.", "The plan has an inherent weakness: it depends on good weather.", "She believes in the inherent dignity of every person."],
+    "quizWrong": ["He was the inherent of his grandfather's fortune.", "She inherent the house from her aunt.", "The inherent of the throne was only six years old.", "The risk is inherent, added from outside by careless workers.", "Each inherent received a share of the estate.", "He will inherent the family business next year.", "The jewels were divided among the inherents.", "The problem is inherent, caused purely by an outside accident.", "The prince was the sole inherent to the kingdom."]
+  },
+  "premise": {
+    "examples": ["The movie's premise is simple: a dog runs for mayor.", "His argument rests on a false premise."],
+    "quizCorrect": ["If the premise is wrong, the conclusion falls apart.", "The show's premise sounded silly, but it became a hit.", "The plan was built on the premise that prices would keep rising."],
+    "quizWrong": ["I premise to call you as soon as I land.", "She made a premise to quit smoking by spring.", "He broke his premise and showed up late again.", "The premise of the job is to pay well, and it does.", "They signed a solemn premise never to tell anyone.", "She kept her premise and paid the money back.", "He premised his mother he would clean his room.", "The premise ring sparkled on her finger.", "Keep your premise or no one will trust you."]
+  },
+  "reluctant": {
+    "examples": ["She was reluctant to accept the job because of the long commute.", "Banks have been reluctant to lend to small businesses."],
+    "quizCorrect": ["He gave a reluctant nod and signed the papers.", "Investors are reluctant to buy until prices stabilize.", "The reluctant witness finally agreed to testify."],
+    "quizWrong": ["She was reluctant to go, so she rushed out the door with a smile.", "The reluctant volunteer was the first to raise her hand, eager to help.", "The jewelry was so reluctant it lit up the room.", "He gave a reluctant yes, thrilled to finally agree.", "The reluctant polish made the car shine.", "Eager and reluctant, she couldn't wait to begin.", "The diamond's reluctant sparkle caught every eye.", "He was reluctant to join and signed up the moment he heard about it.", "The floor was waxed until it was reluctant."]
+  },
+  "prevalent": {
+    "examples": ["Smartphone addiction is increasingly prevalent among teenagers.", "The disease is most prevalent in tropical regions."],
+    "quizCorrect": ["The belief is still prevalent in many rural areas.", "Fraud was more prevalent than the bank had admitted.", "Remote work has become prevalent since 2020."],
+    "quizWrong": ["Wash your hands often to prevalent the spread of germs.", "The rare disease is prevalent, affecting only a handful of people.", "The guard tried to prevalent the thief from escaping.", "Seatbelts prevalent many serious injuries.", "The vaccine helps prevalent illness.", "The prevalent condition is so rare that most doctors never see it.", "Locks prevalent burglars from entering.", "Wearing sunscreen can prevalent sunburn.", "The prevalent virus has been seen only twice in history."]
+  }
+}

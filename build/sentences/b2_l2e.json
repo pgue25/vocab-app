@@ -1,0 +1,47 @@
+{
+  "insatiable": {
+    "examples": ["She has an insatiable appetite for mystery novels.", "Investors showed insatiable demand for the new bonds."],
+    "quizCorrect": ["The toddler's curiosity seemed insatiable.", "His insatiable ambition drove him to the top.", "Consumers have an insatiable appetite for cheap goods."],
+    "quizWrong": ["After one bite, his insatiable hunger was fully satisfied.", "The insatiable patient was moved to a mental hospital.", "Her insatiable thirst was quenched by a sip of water.", "The asylum housed several insatiable inmates.", "The insatiable eater was full after a cracker.", "He acted insatiable and talked to imaginary people.", "Their insatiable demand disappeared overnight.", "The insatiable dog ignored all food.", "The insatiable desire faded after a moment."]
+  },
+  "tenacious": {
+    "examples": ["The tenacious reporter spent years exposing the scandal.", "The team's tenacious defense held off every attack."],
+    "quizCorrect": ["She is a tenacious negotiator who never gives up.", "Ivy is a tenacious plant that clings to walls.", "His tenacious grip on power lasted three decades."],
+    "quizWrong": ["The tenacious player quit after the first setback.", "The tenacious couple lived in a small apartment and paid rent.", "Her tenacious hold slipped at the first tug.", "The tenacious landlord rented to new tenacious every year.", "Easily discouraged and tenacious, he gave up immediately.", "The building's tenacious complained about the heat.", "The tenacious runner stopped halfway.", "Each tenacious signed a one-year lease.", "His tenacious effort lasted about five minutes."]
+  },
+  "erode": {
+    "examples": ["Waves have eroded the cliffs over centuries.", "Inflation erodes the value of savings."],
+    "quizCorrect": ["The scandal eroded public trust in the bank.", "Heavy rain eroded the hillside.", "His authority eroded after a string of mistakes."],
+    "quizWrong": ["The steady deposits eroded her savings, making them grow.", "The cowboy eroded his horse into town.", "Each success eroded his confidence until it soared.", "She eroded the bus to work every day.", "The new wall eroded the beach by protecting it.", "They eroded bikes along the coast.", "Praise eroded her self-esteem to new heights.", "He eroded the elevator to the top floor.", "The rock eroded and grew taller every year."]
+  },
+  "incessant": {
+    "examples": ["The incessant noise from the construction kept us awake.", "Her incessant questions annoyed the teacher."],
+    "quizCorrect": ["Incessant rain flooded the town.", "He was worn down by incessant criticism.", "The dog's incessant barking drew complaints."],
+    "quizWrong": ["The incessant noise stopped after a single beep.", "The incessant innocent child had done nothing wrong.", "The rain was incessant, a few drops and then sunshine.", "He swore he was incessant of the crime.", "Her incessant chatter was a brief word now and then.", "The jury found the man incessant.", "The incessant alarm rang once and went silent.", "The incessant bystander was not involved.", "His incessant complaints happened once a year."]
+  },
+  "preclude": {
+    "examples": ["His injury precludes him from playing this season.", "The contract precludes any further claims."],
+    "quizCorrect": ["Bad weather may preclude a launch tomorrow.", "Her criminal record precludes her from voting in some states.", "Being busy doesn't preclude being kind."],
+    "quizWrong": ["The movie's preclude introduced the main characters.", "The new rule precludes cheating by encouraging it.", "The orchestra played a short preclude before the opera.", "The prequel precluded the original film by a decade.", "His invitation precluded him from the party, so he went.", "The preclude to the war was a series of border clashes.", "The visa precludes travel by allowing it.", "The piano preclude was beautiful.", "The opening preclude set the mood for the play."]
+  },
+  "tenuous": {
+    "examples": ["The link between the two crimes is tenuous at best.", "The ceasefire is tenuous and could collapse any day."],
+    "quizCorrect": ["He has only a tenuous grasp of the facts.", "Their claim to the land was tenuous.", "The company's tenuous finances worried investors."],
+    "quizWrong": ["The tenuous rope held a ton of steel without strain.", "She won the tenuous match in straight sets.", "His tenuous grip was iron-strong.", "We played tenuous at the club on Sunday.", "Their tenuous bond was unbreakable.", "He bought a new tenuous racket.", "The tenuous connection was rock-solid.", "The tenuous court needs new lines.", "The strong, tenuous evidence settled the case."]
+  },
+  "exorbitant": {
+    "examples": ["The hotel charged an exorbitant fee for parking.", "Rents in the city have become exorbitant."],
+    "quizCorrect": ["Many students borrow at exorbitant interest rates.", "The airline was criticized for exorbitant baggage fees.", "He paid an exorbitant price for the painting."],
+    "quizWrong": ["The satellite reached an exorbitant path around Earth.", "The exorbitant price was just one dollar.", "The space station's exorbitant speed is 17,000 miles per hour.", "The cheap, exorbitant meal cost almost nothing.", "The comet followed an exorbitant trail.", "Rent was exorbitant, the lowest in the country.", "The planet's exorbitant period is 88 days.", "Her exorbitant tip was a single penny.", "The moon's exorbitant path is nearly circular."]
+  },
+  "placid": {
+    "examples": ["The lake was placid in the early morning.", "She has a placid temperament and rarely gets upset."],
+    "quizCorrect": ["The placid cow chewed slowly in the field.", "Markets were placid before the crisis.", "His placid face hid his nerves."],
+    "quizWrong": ["The placid sea churned with huge waves.", "The toy was made of cheap placid.", "Her placid temper exploded at the smallest thing.", "Recycle the placid bottles in the blue bin.", "The placid dog barked and lunged at everyone.", "The bag was made of placid, not paper.", "The placid crowd rioted in the streets.", "Wrap the leftovers in placid wrap.", "A placid storm tore the roof off."]
+  },
+  "austere": {
+    "examples": ["The monks live in austere conditions.", "The government announced austere budget cuts."],
+    "quizCorrect": ["The office was austere, with bare walls and metal desks.", "He grew up in an austere household with few luxuries.", "Her austere black dress stood out among the bright colors."],
+    "quizWrong": ["The austere mansion was filled with gold and art.", "The holiday austere egg hunt was fun for the kids.", "Their austere lifestyle included three yachts.", "The austere bunny brought chocolate.", "The austere banquet featured twelve rich courses.", "We dyed eggs for austere.", "His austere outfit sparkled with jewels.", "The austere decorations were bright and lavish.", "Austere Sunday falls in April this year."]
+  }
+}

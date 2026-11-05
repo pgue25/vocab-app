@@ -1633,5 +1633,4764 @@
         ]
       }
     ]
+  },
+  "comprehensive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌkɒm.pɹɪˈhɛn.sɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A comprehensive school."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Broadly or completely covering; including a large proportion of something."
+        ]
+      }
+    ]
+  },
+  "foster": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfɒstə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A foster parent.",
+          "The care given to another; guardianship."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To nurture or bring up offspring, or to provide similar parental care to an unrelated child.",
+          "To cultivate and grow something.",
+          "To nurse or cherish something.",
+          "To be nurtured or trained up together."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Providing parental care to children not related to oneself.",
+          "Receiving such care.",
+          "Related by such care."
+        ]
+      }
+    ]
+  },
+  "provincial": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹɒvinʃəl̩/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person belonging to a province; one who is provincial.",
+          "A monastic superior, who, under the general of his order, has the direction of all the religious houses of the same fraternity in a given district, called a province of the order.",
+          "A country bumpkin."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or pertaining to a province.",
+          "Constituting a province.",
+          "Exhibiting the ways or manners of a province; characteristic of the inhabitants of a province.",
+          "Not cosmopolitan; backwoodsy, hick, yokelish, countrified; not polished; rude",
+          "Narrow; illiberal.",
+          "Of or pertaining to an ecclesiastical province, or to the jurisdiction of an archbishop; not ecumenical.",
+          "Limited in outlook; narrow."
+        ]
+      }
+    ]
+  },
+  "facilitate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/fəˈsɪləteɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make easy or easier.",
+          "To help bring about.",
+          "To preside over (a meeting, a seminar)."
+        ]
+      }
+    ]
+  },
+  "incentive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪnˈsɛntɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Something that motivates, rouses, or encourages.",
+          "A bonus or reward, often monetary, to work harder."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Inciting; encouraging or moving; rousing to action; stimulating.",
+          "Serving to kindle or set on fire."
+        ]
+      }
+    ]
+  },
+  "mandate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈmæn.deɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An official or authoritative command; an order or injunction; a commission; a judicial precept.",
+          "The authority to do something, as granted to a politician by the electorate.",
+          "A papal rescript.",
+          "A period during which a government is in power."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To authorize",
+          "To make mandatory"
+        ]
+      }
+    ]
+  },
+  "rhetoric": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The art of using language, especially public speaking, as a means to persuade.",
+          "Meaningless language with an exaggerated style intended to impress."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Part of or similar to rhetoric, the use of language as a means to persuade.",
+          "Not earnest, or presented only for the purpose of an argument."
+        ]
+      }
+    ]
+  },
+  "profound": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹəˈfaʊnd/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The deep; the sea; the ocean.",
+          "An abyss."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To cause to sink deeply; to cause to dive or penetrate far down.",
+          "To dive deeply; to penetrate."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Descending far below the surface; opening or reaching to great depth; deep.",
+          "Very deep; very serious",
+          "Intellectually deep; entering far into subjects; reaching to the bottom of a matter, or of a branch of learning; thorough",
+          "Characterized by intensity; deeply felt; pervading",
+          "Bending low, exhibiting or expressing deep humility; lowly; submissive"
+        ]
+      }
+    ]
+  },
+  "accountable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ə.ˈkaʊn.tə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Obliged, when called upon, to answer (for one’s deeds); answerable.",
+          "Obliged to keep accurate records (of property or funds).",
+          "Liable to be called on to render an account.",
+          "Capable of being accounted for; explicable; explainable."
+        ]
+      }
+    ]
+  },
+  "disclose": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪsˈkləʊz/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A disclosure."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To open up, unfasten.",
+          "To uncover, physically expose to view.",
+          "To expose to the knowledge of others; to make known, state openly, reveal."
+        ]
+      }
+    ]
+  },
+  "inherent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪnˈhɛɹənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Naturally as part or consequence of something."
+        ]
+      }
+    ]
+  },
+  "premise": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɹɛ.mɪs/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A proposition antecedently supposed or proved; something previously stated or assumed as the basis of further argument; a condition; a supposition.",
+          "Any of the first propositions of a syllogism, from which the conclusion is deduced.",
+          "(usually in the plural) Matters previously stated or set forth; especially, that part in the beginning of a deed, the office of which is to express the grantor and grantee, and the land or thing granted or conveyed, and all that precedes the habendum; the thing demised or granted.",
+          "(usually in the plural) A piece of real estate; a building and its adjuncts.",
+          "(authorship) The fundamental concept that drives the plot of a film or other story."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To state or assume something as a proposition to an argument.",
+          "To make a premise.",
+          "To set forth beforehand, or as introductory to the main subject; to offer previously, as something to explain or aid in understanding what follows.",
+          "To send before the time, or beforehand; hence, to cause to be before something else; to employ previously."
+        ]
+      }
+    ]
+  },
+  "reluctant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹɪˈlʌktənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Opposing; offering resistance (to).",
+          "Not wanting to take some action; unwilling.",
+          "Tending to match as little text as possible."
+        ]
+      }
+    ]
+  },
+  "prevalent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɹɛvələnt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Widespread or preferred.",
+          "Superior in frequency or dominant."
+        ]
+      }
+    ]
+  },
+  "credible": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈkɹɛdəbl̩/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Believable or plausible.",
+          "Authentic or convincing."
+        ]
+      }
+    ]
+  },
+  "scrutiny": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈskɹuː.tɪ.ni/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Intense study of someone or something.",
+          "Thorough inspection of a situation or a case.",
+          "An examination of catechumens, in the last week of Lent, who were to receive baptism on Easter Day.",
+          "A ticket, or little paper billet, on which a vote is written.",
+          "An examination by a committee of the votes given at an election, for the purpose of correcting the poll."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To scrutinize."
+        ]
+      }
+    ]
+  },
+  "paramount": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpa.ɹə.maʊnt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A chief or superior."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Supreme; highest; chief.",
+          "Of the highest importance."
+        ]
+      }
+    ]
+  },
+  "contingent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈtɪn.dʒənt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An event which may or may not happen; that which is unforeseen, undetermined, or dependent on something future.",
+          "That which falls to one in a division or apportionment among a number; a suitable share.",
+          "A quota of troops."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Possible or liable, but not certain to occur.",
+          "(with upon or on) Dependent on something that is undetermined or unknown.",
+          "Dependent on something that may or may not occur.",
+          "Not logically necessarily true or false.",
+          "Temporary."
+        ]
+      }
+    ]
+  },
+  "efficacy": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɛf.ɪ.kə.si/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Ability to produce a desired effect under ideal testing conditions.",
+          "Degree of ability to produce a desired effect."
+        ]
+      }
+    ]
+  },
+  "imminent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɪmɪnənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "About to happen, occur, or take place very soon, especially of something which won't last long."
+        ]
+      }
+    ]
+  },
+  "susceptible": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/səˈsɛptɪbl̩/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who is vulnerable to being infected by a certain disease"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Likely to be affected by something",
+          "Easily influenced or tricked; credulous",
+          "Especially sensitive, especially to a stimulus",
+          "That, when subjected to a specific operation, will yield a specific result",
+          "Vulnerable; (temporarily) defenseless"
+        ]
+      }
+    ]
+  },
+  "tangible": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtæn(d)ʒɪb(ə)l/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A physical object, something that can be touched.",
+          "Real or concrete results."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Touchable; able to be touched or felt; perceptible by the sense of touch",
+          "Possible to be treated as fact; real or concrete.",
+          "Comprehensible by the mind; understandable."
+        ]
+      }
+    ]
+  },
+  "formidable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/fɔːˈmɪdəbəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Causing fear, dread, awe, or discouragement as a result of size, strength, or some other impressive feature; commanding respect; causing wonder or astonishment.",
+          "Difficult to defeat or overcome."
+        ]
+      }
+    ]
+  },
+  "undermine": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ʌndəˈmaɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To dig underneath (something), to make a passage for destructive or military purposes; to sap.",
+          "To weaken or work against; to hinder, sabotage.",
+          "To erode the base or foundation of something, e.g. by the action of water."
+        ]
+      }
+    ]
+  },
+  "plausible": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈplɔːz.ə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Seemingly or apparently valid, likely, or acceptable; conceivably true or likely",
+          "Obtaining approbation; specifically pleasing; apparently right; specious.",
+          "Worthy of being applauded; praiseworthy; commendable; ready."
+        ]
+      }
+    ]
+  },
+  "paradox": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈpæɹ.əˌdɑks/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An apparently self-contradictory statement, which can only be true if it is false, and vice versa.",
+          "A counterintuitive conclusion or outcome.",
+          "A claim that two apparently contradictory ideas are true.",
+          "A thing involving contradictory yet interrelated elements that exist simultaneously and persist over time.",
+          "A person or thing having contradictory properties.",
+          "An unanswerable question or difficult puzzle, particularly one which leads to a deeper truth.",
+          "A statement which is difficult to believe, or which goes against general belief.",
+          "The use of counterintuitive or contradictory statements (paradoxes) in speech or writing.",
+          "A state in which one is logically compelled to contradict oneself.",
+          "The practice of giving instructions that are opposed to the therapist's actual intent, with the intention that the client will disobey or be unable to obey."
+        ]
+      }
+    ]
+  },
+  "prolific": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌpɹoʊˈlɪf.ɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Fertile; producing offspring or fruit in abundance — applied to plants producing fruit, animals producing young, etc.",
+          "Similarly producing results or performing deeds in abundance",
+          "Of a flower: from which another flower is produced."
+        ]
+      }
+    ]
+  },
+  "redundant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹɪˈdʌn.dənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Superfluous; exceeding what is necessary.",
+          "(of words, writing, etc) Repetitive or needlessly wordy.",
+          "Dismissed from employment because no longer needed.",
+          "Duplicating or able to duplicate the function of another component of a system, providing backup in the event the other component fails."
+        ]
+      }
+    ]
+  },
+  "wary": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈwɛəɹ.i/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Cautious of danger; carefully watching and guarding against deception, trickery, and dangers; suspiciously prudent",
+          "Characterized by caution; guarded; careful; on one's guard",
+          "Thrifty, provident"
+        ]
+      }
+    ]
+  },
+  "dissent": {
+    "source": "wiktionary",
+    "pronunciation": "/dɪˈsɛnt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To disagree; to withhold assent. Construed with from (or, formerly, to).",
+          "To differ from, especially in opinion, beliefs, etc.",
+          "To be different; to have contrary characteristics."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Disagreement with the ideas, doctrines, decrees, etc. of a political party, government or religion.",
+          "An act of disagreeing with, or deviating from, the views and opinions of those holding authority.",
+          "A separate opinion filed in a case by judges who disagree with the outcome of the majority of the court in that case",
+          "A violation that arises when disagreement with an official call is expressed in an inappropriate manner such as foul language, rude gestures, or failure to comply."
+        ]
+      }
+    ]
+  },
+  "superficial": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌsupɚˈfɪʃəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Existing, occurring, or located on the surface.",
+          "Close to the surface of the body; especially, situated or occurring on the skin or immediately beneath it.",
+          "Appearing to be true or real only until examined more closely.",
+          "Not thorough, deep, or complete; concerned only with the obvious or apparent.",
+          "​Lacking depth of character or understanding; lacking substance or significance.",
+          "Two-dimensional; drawn on a flat surface.",
+          "Denoting a quantity of a material expressed in terms of area covered rather than linear dimension or volume."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A surface detail."
+        ]
+      }
+    ]
+  },
+  "rampant": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈɹæm.pənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Rearing on both hind legs with the forelegs extended.",
+          "Rearing up, especially on its hind leg(s), with a foreleg raised and in profile.",
+          "Tilted, said of an arch with one side higher than the other, or a vault whose two abutments are located on an inclined plane.",
+          "Unrestrained or unchecked, usually in a negative manner.",
+          "Rife, or occurring widely, frequently or menacingly."
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          "Rampantly."
+        ]
+      }
+    ]
+  },
+  "alleviate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈli.vi.eɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make less severe, as a pain or difficulty."
+        ]
+      }
+    ]
+  },
+  "collaborate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kəˈlabəɹeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To work together with others to achieve a common goal.",
+          "To voluntarily cooperate treasonably, as with an enemy occupation force in one's country."
+        ]
+      }
+    ]
+  },
+  "perennial": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pəˈɹɛni.əl/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A perennial plant; a plant that is active throughout the year or survives for more than two growing seasons."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Lasting or remaining active throughout the year, or all the time.",
+          "(of a plant) Having a life cycle of more than two years.",
+          "Continuing without cessation or intermission; perpetual; never failing.",
+          "Enduring; lasting; timeless.",
+          "Recurrent; appearing or recurring again and again."
+        ]
+      }
+    ]
+  },
+  "tedious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtiː.dɪəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Boring, monotonous, time-consuming, wearisome."
+        ]
+      }
+    ]
+  },
+  "hiatus": {
+    "source": "wiktionary",
+    "pronunciation": "/haɪˈeɪtəs/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A gap in a series, making it incomplete.",
+          "An interruption, break, pause or absence.",
+          "An temporary break from work, especially one which is unexpected.",
+          "A gap in geological strata.",
+          "An opening in an organ.",
+          "A syllable break between two vowels, without an intervening consonant."
+        ]
+      }
+    ]
+  },
+  "pragmatic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹæɡˈmætɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A man of business.",
+          "A busybody.",
+          "A public decree."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Practical, concerned with making decisions and actions that are useful in practice, not just theory.",
+          "Philosophical; dealing with causes, reasons, and effects, rather than with details and circumstances; said of literature.",
+          "Interfering in the affairs of others; officious; meddlesome."
+        ]
+      }
+    ]
+  },
+  "innate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪˈneɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To cause to exist; to call into being."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Inborn; existing or having existed since birth.",
+          "Originating in, or derived from, the constitution of the intellect, as opposed to acquired from experience.",
+          "Instinctive; coming from instinct.",
+          "Joined by the base to the very tip of a filament."
+        ]
+      }
+    ]
+  },
+  "elusive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/iˈluːsɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Evading capture, comprehension or remembrance.",
+          "Difficult to make precise.",
+          "Rarely seen."
+        ]
+      }
+    ]
+  },
+  "concise": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈsaɪs/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make concise; to abridge or summarize."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Brief, yet including all important information"
+        ]
+      }
+    ]
+  },
+  "blatant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈbleɪtənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Bellowing; disagreeably clamorous; sounding loudly and harshly.",
+          "Obvious, on show; unashamed; loudly obtrusive or offensive."
+        ]
+      }
+    ]
+  },
+  "indifferent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪnˈdɪf.ə.ɹənt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who is indifferent or apathetic."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not caring or concerned; uninterested, apathetic.",
+          "Indicating or reflecting a lack of concern or care.",
+          "Mediocre (usually used negatively in modern usage).",
+          "Having no preference or bias, being impartial.",
+          "Not making a difference; without significance or importance.",
+          "Being in the state of neutral equilibrium.",
+          "Not different, matching."
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          "To some extent, in some degree (intermediate between very and not at all); moderately, tolerably, fairly."
+        ]
+      }
+    ]
+  },
+  "discreet": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪˈskɹiːt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Respectful of privacy or secrecy; exercising caution in order to avoid causing embarrassment; quiet; diplomatic.",
+          "Not drawing attention, anger or challenge; inconspicuous."
+        ]
+      }
+    ]
+  },
+  "disparity": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪsˈpæɹɪti/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The state of being unequal; difference.",
+          "Incongruity."
+        ]
+      }
+    ]
+  },
+  "contemplate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈkɒn.təmˌpleɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To look at on all sides or in all its aspects; to view or consider with continued attention; to regard with deliberate care; to meditate on; to study, ponder, or consider.",
+          "To consider as a possibility."
+        ]
+      }
+    ]
+  },
+  "ominous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɒmɪnəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or pertaining to an omen or to omens; being or exhibiting an omen; significant.",
+          "Specifically, giving indication of a coming ill; being an evil omen"
+        ]
+      }
+    ]
+  },
+  "futile": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfjuː.taɪl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Incapable of producing results; doomed not to be successful; not worth attempting."
+        ]
+      }
+    ]
+  },
+  "hinder": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈhɪndə/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make difficult to accomplish; to act as an obstacle; to frustrate.",
+          "To delay or impede; to keep back, to prevent.",
+          "To cause harm."
+        ]
+      }
+    ]
+  },
+  "pervasive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pəˈveɪ.sɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Manifested throughout; pervading, permeating, penetrating or affecting everything."
+        ]
+      }
+    ]
+  },
+  "impartial": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪmˈpɑɹ.ʃəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Treating all parties, rivals, or disputants equally; not partial; not biased"
+        ]
+      }
+    ]
+  },
+  "endemic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɛnˈdɛm.ɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An individual or species that is endemic to a region.",
+          "A disease affecting a number of people simultaneously, so as to show a distinct connection with certain localities."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Native to a particular area or culture; originating where it occurs.",
+          "(especially of plants and animals) Peculiar to a particular area or region; not found in other places.",
+          "(especially of diseases) Prevalent in a particular area or region."
+        ]
+      }
+    ]
+  },
+  "transient": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Something which is transient.",
+          "A transient phenomenon, especially an electric current; a very brief surge.",
+          "(acoustics) A relatively loud, non-repeating signal in an audio waveform which occurs very quickly, such as the attack of a snare drum.",
+          "A person who passes through a place for a short time; a traveller; a migrant worker",
+          "A homeless person."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Passing or disappearing with time; transitory.",
+          "Remaining for only a brief time.",
+          "Decaying with time, especially exponentially.",
+          "(stochastic processes, of a state) having a positive probability of being left and never being visited again.",
+          "Occasional; isolated; one-off",
+          "Passing through; passing from one person to another.",
+          "Intermediate.",
+          "Operating beyond itself; having an external effect."
+        ]
+      }
+    ]
+  },
+  "equitable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɛk.wɪ.tə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Marked by or having equity.",
+          "Fair, just, or impartial.",
+          "Relating to the general principles of justice that correct or supplement the provisions of the law."
+        ]
+      }
+    ]
+  },
+  "ingenious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪnˈdʒiːniəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Displaying genius or brilliance; tending to invent.",
+          "Characterized by genius; cleverly done or contrived.",
+          "Witty; original; shrewd; adroit; keen; sagacious."
+        ]
+      }
+    ]
+  },
+  "benevolent": {
+    "source": "wiktionary",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having a disposition to do good.",
+          "(Can we verify this sense?) Possessing or manifesting love for mankind.",
+          "Altruistic, charitable, good, just and fair."
+        ]
+      }
+    ]
+  },
+  "erratic": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪˈɹætɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Unsteady, random; prone to unexpected changes; not consistent.",
+          "Deviating from normal opinions or actions; eccentric; odd."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A rock moved from one location to another, usually by a glacier.",
+          "Anything that has erratic characteristics."
+        ]
+      }
+    ]
+  },
+  "vigilant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈvɪdʒɪlənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Watchful, especially for danger or disorder; alert; wary"
+        ]
+      }
+    ]
+  },
+  "disdain": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪsˈdeɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A feeling of contempt or scorn.",
+          "That which is worthy to be disdained or regarded with contempt and aversion.",
+          "The state of being despised; shame."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To regard (someone or something) with strong contempt.",
+          "To be indignant or offended."
+        ]
+      }
+    ]
+  },
+  "pristine": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹɪsˈtaɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Unspoiled; still with its original purity; uncorrupted or unsullied.",
+          "Primitive, pertaining to the earliest state of something.",
+          "Perfect."
+        ]
+      }
+    ]
+  },
+  "bolster": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈbəʊlstə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A large cushion or pillow.",
+          "A pad, quilt, or anything used to hinder pressure, support part of the body, or make a bandage sit easy upon a wounded part; a compress.",
+          "A small spacer located on top of the axle of horse-drawn wagons that gives the front wheels enough clearance to turn.",
+          "A short, horizontal structural timber between a post and a beam for enlarging the bearing area of the post and/or reducing the span of the beam.",
+          "A beam in the middle of a railway truck, supporting the body of the car.",
+          "The perforated plate in a punching machine on which anything rests when being punched.",
+          "The part of a knife blade that abuts upon the end of the handle.",
+          "The metallic end of a pocketknife handle.",
+          "The rolls forming the ends or sides of the Ionic capital.",
+          "A block of wood on the carriage of a siege gun, upon which the breech of the gun rests when arranged for transportation."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To brace, reinforce, secure, or support."
+        ]
+      }
+    ]
+  },
+  "oblivious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈblɪ.vi.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(usually followed by to or of) Lacking awareness; unmindful; unaware, unconscious of.",
+          "Failing to remember; forgetful."
+        ]
+      }
+    ]
+  },
+  "stagnant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈstæɡnənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Lacking freshness, motion, or flow; decaying through stillness.",
+          "Without progress or change; stale; inactive."
+        ]
+      }
+    ]
+  },
+  "sporadic": {
+    "source": "wiktionary",
+    "pronunciation": "/spəˈɹæd.ɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of diseases) occurring in isolated instances; not epidemic.",
+          "Rare and scattered in occurrence.",
+          "Exhibiting random behavior; patternless.",
+          "Not belonging to any infinite family; an exception to an otherwise orderly classification."
+        ]
+      }
+    ]
+  },
+  "adamant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈæ.də.mænt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An imaginary rock or mineral of impenetrable hardness; a name given to the diamond and other substances of extreme hardness.",
+          "An embodiment of impregnable hardness.",
+          "A lodestone."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(said of people and their conviction) Firm; unshakeable; unyielding; determined.",
+          "(of an object) Very difficult to break, pierce, or cut."
+        ]
+      }
+    ]
+  },
+  "epitome": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈpɪt.ə.mi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The embodiment or encapsulation of a class of items.",
+          "A representative example.",
+          "The height; the best.",
+          "A brief summary of a text."
+        ]
+      }
+    ]
+  },
+  "predominant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A subdominant."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Common or widespread; prevalent.",
+          "Significant or important; dominant."
+        ]
+      }
+    ]
+  },
+  "solace": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈsɑ.lɪs/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Comfort or consolation in a time of loneliness or distress.",
+          "A source of comfort or consolation."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To give solace to; comfort; cheer; console.",
+          "To allay or assuage.",
+          "To take comfort; to be cheered."
+        ]
+      }
+    ]
+  },
+  "latent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈleɪ.tənt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "(forensics) The residue left by a person's finger that can be made visible by a process such as powder dusting; a latent fingerprint.",
+          "An underlying cause that can be inferred from statistical correlations; factor.",
+          "Anything that is latent."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Existing or present but concealed or inactive.",
+          "(of a virus) remaining in an inactive or hidden phase; dormant.",
+          "Lying dormant or hidden until circumstances are suitable for development or manifestation."
+        ]
+      }
+    ]
+  },
+  "poignant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɔɪn.jənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of a weapon, etc.: sharp-pointed; keen.",
+          "Neat; eloquent; applicable; relevant.",
+          "Evoking strong mental sensation, to the point of distress; emotionally moving.",
+          "Of a smell or taste: piquant, pungent.",
+          "Of a look, or of words: incisive; penetrating; piercing.",
+          "Inducing sharp physical pain."
+        ]
+      }
+    ]
+  },
+  "disparate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈdɪsp(ə)ɹət/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "(chiefly in the plural) Any of a group of unequal or dissimilar things."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Composed of inherently different or distinct elements; incongruous.",
+          "Essentially different; of different species, unlike but not opposed in pairs; also, less properly, utterly unlike; incapable of being compared; having no common genus."
+        ]
+      }
+    ]
+  },
+  "impeccable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪmˈpɛkəbəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Perfect, without faults, flaws or errors",
+          "Incapable of wrongdoing or sin; immaculate"
+        ]
+      }
+    ]
+  },
+  "conscientious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌkɒnʃiˈɛnʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Thorough, careful, or vigilant in one’s task performance.",
+          "Influenced by conscience; governed by a strict regard to the dictates of conscience, or by the known or supposed rules of right and wrong (said of a person)."
+        ]
+      }
+    ]
+  },
+  "enigma": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪˈnɪɡmə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Something or someone puzzling, mysterious or inexplicable.",
+          "A riddle, or a difficult problem.",
+          "Riddles and puzzles, collectively.",
+          "Mysteriousness; obscurity; a lack of clarity.",
+          "A style of literature characterized by obscurity and hints of transcendental meaning.",
+          "Alternative letter-case form of Enigma.",
+          "A protein with three LIM domains (a conserved cysteine- and histidine-rich structure of two adjacent zinc fingers) at the C terminus that regulates protein phosphorylation.",
+          "The Talaud kingfisher, Todiramphus enigma.",
+          "Any member of the species Oedaleonotus enigma of grasshoppers.",
+          "Any member of the species Heliothis enigma of rare moths.",
+          "↑ “enigma” listed by Dictionary.com Unabridged (v1·1)"
+        ]
+      }
+    ]
+  },
+  "plethora": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈplɛθəɹə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An excessive amount or number; an abundance.",
+          "Excess of blood in the skin, especially in the face and especially chronically."
+        ]
+      }
+    ]
+  },
+  "discern": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To detect with the senses, especially with the eyes.",
+          "To perceive, recognize, or comprehend with the mind; to descry.",
+          "To distinguish something as being different from something else; to differentiate.",
+          "To perceive differences."
+        ]
+      }
+    ]
+  },
+  "frivolous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfɹɪv.əl.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Silly, especially at an inappropriate time or in an inappropriate manner.",
+          "Of little weight or importance; not worth notice; slight.",
+          "(said of a lawsuit) Having no reasonable prospect of success because its claim is without merit, lacking a supporting legal or factual basis, while the filing party is, or should be, aware of this."
+        ]
+      }
+    ]
+  },
+  "clandestine": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/klænˈdɛstɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Done or kept in secret, sometimes to conceal an illicit or improper purpose.",
+          "(of a person or lodge) Not recognized as a regular member."
+        ]
+      }
+    ]
+  },
+  "eloquent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɛl.əˌkwənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Fluently persuasive and articulate",
+          "Effective in expressing meaning by speech"
+        ]
+      }
+    ]
+  },
+  "fallacy": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfæləsi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Deceptive or false appearance; that which misleads the eye or the mind.",
+          "An argument, or apparent argument, which professes to be decisive of the matter at issue, while in reality it is not. A specious argument."
+        ]
+      }
+    ]
+  },
+  "subversive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/səbˈvɜɹsɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A radical supporter of political or social revolution."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Intending to subvert, overturn or undermine a government or authority."
+        ]
+      }
+    ]
+  },
+  "staunch": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/stɑːntʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To stop the flow of (blood).",
+          "To stop, check, or deter an action."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Loyal, trustworthy, reliable.",
+          "Dependable, persistent."
+        ]
+      }
+    ]
+  },
+  "complicit": {
+    "source": "wiktionary",
+    "pronunciation": "/kəmˈplɪs.ɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Associated with or participating in an activity, especially one of a questionable nature."
+        ]
+      }
+    ]
+  },
+  "palpable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpalpəbəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Capable of being touched, felt or handled; touchable, tangible.",
+          "Obvious or easily perceived; noticeable.",
+          "That can be detected by palpation."
+        ]
+      }
+    ]
+  },
+  "renounce": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹɪˈnaʊns/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An act of renouncing."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To give up, resign, surrender, atsake.",
+          "To cast off, repudiate.",
+          "To decline further association with someone or something, disown.",
+          "To abandon, forsake, discontinue (an action, habit, intention, etc), sometimes by open declaration.",
+          "To make a renunciation of something.",
+          "To surrender formally some right or trust.",
+          "To fail to follow suit; playing a card of a different suit when having no card of the suit led."
+        ]
+      }
+    ]
+  },
+  "impunity": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪmˈpjuːnɪti/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Exemption from punishment.",
+          "Freedom from punishment or retribution; security from any reprisal or injurious consequences of an action, behaviour etc."
+        ]
+      }
+    ]
+  },
+  "condone": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈdəʊn/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To forgive, excuse or overlook (something that is considered morally wrong, offensive, or generally disliked).",
+          "To allow, accept or permit (something that is considered morally wrong, offensive, or generally disliked).",
+          "To forgive (marital infidelity or other marital offense)."
+        ]
+      }
+    ]
+  },
+  "embody": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪmˈbɒdi/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To represent in a physical or concrete form; to incarnate or personify.",
+          "To represent in some other form, such as a code of laws.",
+          "To comprise or include as part of a cohesive whole; to be made up of.",
+          "To unite in a body or mass."
+        ]
+      }
+    ]
+  },
+  "pretentious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹɪˈtɛnʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Intended to impress others; ostentatious.",
+          "Marked by an unwarranted claim to importance or distinction."
+        ]
+      }
+    ]
+  },
+  "rectify": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɹɛktəˌfaɪ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To heal (an organ or part of the body).",
+          "To restore (someone or something) to its proper condition; to straighten out, to set right.",
+          "To remedy or fix (an undesirable state of affairs, situation etc.).",
+          "To purify or refine (a substance) by distillation.",
+          "To correct or amend (a mistake, defect etc.).",
+          "To correct (someone who is mistaken).",
+          "(geodesy) To adjust (a globe or sundial) to prepare for the solution of a proposed problem.",
+          "To convert (alternating current) into direct current.",
+          "To determine the length of a curve included between two limits.",
+          "To produce (as factitious gin or brandy) by redistilling bad wines or strong spirits (whisky, rum, etc.) with flavourings."
+        ]
+      }
+    ]
+  },
+  "rudimentary": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌɹuːdɪˈmɛntəɹi/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or relating to one or more rudiments; of the nature of an early stage.",
+          "Basic; minimal; with less than, or only the minimum, necessary."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One of the rudimentary (adjective sense 1) mammae of boars."
+        ]
+      }
+    ]
+  },
+  "stoic": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈstoʊ.ɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Proponent of stoicism, a school of thought, from in 300 B.C.E. up to about the time of Marcus Aurelius, who holds that by cultivating an understanding of the logos, or natural law, one can be free of suffering.",
+          "A person indifferent to pleasure or pain."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or relating to the Stoics or their ideas.",
+          "Not affected by pain or distress.",
+          "Not displaying any external signs of being affected by pain or distress."
+        ]
+      }
+    ]
+  },
+  "impede": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪmˈpiːd/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To get in the way of; to hinder."
+        ]
+      }
+    ]
+  },
+  "refute": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹəˈfjut/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To prove (something) to be false or incorrect.",
+          "To deny the truth or correctness of (something)."
+        ]
+      }
+    ]
+  },
+  "steadfast": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈstɛdfæst/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Fixed or unchanging; steady.",
+          "Firmly loyal or constant; unswerving."
+        ]
+      }
+    ]
+  },
+  "inept": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪnˈɛpt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not able to do something; not proficient; displaying incompetence.",
+          "Unfit; unsuitable."
+        ]
+      }
+    ]
+  },
+  "fickle": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfɪk.əl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Quick to change one’s opinion or allegiance; insincere; not loyal or reliable.",
+          "Changeable."
+        ]
+      }
+    ]
+  },
+  "relinquish": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "[ɹɪˈlɪŋkwɪʃ]",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To give up, abandon or retire from something. To trade away.",
+          "To let go (free, away), physically release.",
+          "To metaphorically surrender, yield control or possession.",
+          "To accept to give up, withdraw etc."
+        ]
+      }
+    ]
+  },
+  "frugal": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfɹuːɡəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Avoiding unnecessary expenditure either of money or of anything else which is to be used or consumed; avoiding waste."
+        ]
+      }
+    ]
+  },
+  "copious": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈkoʊ.pi.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Vast in quantity or number, profuse, abundant; taking place on a large scale.",
+          "Having an abundant supply.",
+          "Full of thought, information, or matter; exuberant in words, expression, or style."
+        ]
+      }
+    ]
+  },
+  "dispel": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "[dɪˈspɛɫ]",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An act or instance of dispelling."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To drive away or cause to vanish by scattering.",
+          "To remove (fears, doubts, objections etc.) by proving them unjustified."
+        ]
+      }
+    ]
+  },
+  "gullible": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɡʌlɪbl̩/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A gullible person; someone easily fooled or tricked."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Easily deceived or duped; naive, easily cheated or fooled."
+        ]
+      }
+    ]
+  },
+  "rebuke": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹiˈbjuːk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A harsh criticism."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To criticise harshly; to reprove."
+        ]
+      }
+    ]
+  },
+  "whimsical": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈwɪmzɪkəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Given to whimsy."
+        ]
+      }
+    ]
+  },
+  "dichotomy": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/daɪˈkɒt.ə.mi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A separation or division into two; a distinction that results in such a division.",
+          "Such a division involving apparently incompatible or opposite principles; a duality.",
+          "The division of a class into two disjoint subclasses that are together comprehensive, as the division of man into white and not white.",
+          "The division of a genus into two species; a division into two subordinate parts.",
+          "A phase of the moon when it appears half lit and half dark, as at the quadratures.",
+          "Division and subdivision; bifurcation, as of a stem of a plant or a vein of the body into two parts as it proceeds from its origin; often successive."
+        ]
+      }
+    ]
+  },
+  "prerogative": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹɪˈɹɒɡ.ə.tɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A hereditary or official right or privilege.",
+          "A right, or power that is exclusive to a monarch etc, especially such a power to make a decision or judgement.",
+          "A right, especially when due to one's position or role.",
+          "A property, attribute or ability which gives one a superiority or advantage over others; an inherent advantage or privilege; a talent."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having a hereditary or official right or privilege."
+        ]
+      }
+    ]
+  },
+  "callous": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈkæləs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Emotionally hardened; unfeeling and indifferent to the suffering/feelings of others.",
+          "Having calluses, or relating to calluses."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Alternative form of callus."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "Alternative form of callus."
+        ]
+      }
+    ]
+  },
+  "unscrupulous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌʌnˈskɹuːpjʊləs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Without scruples; immoral.",
+          "Contemptuous of what is right or honorable."
+        ]
+      }
+    ]
+  },
+  "pompous": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈpɑmpəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Affectedly grand, solemn or self-important."
+        ]
+      }
+    ]
+  },
+  "tumultuous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/tjʊˈmʌl.tjʊ.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Characterized by loud, confused noise.",
+          "Causing or characterized by tumult; chaotic, disorderly, turbulent."
+        ]
+      }
+    ]
+  },
+  "expedite": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɛk.spəˌdaɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To accelerate the progress of.",
+          "To perform (a task) fast and efficiently."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Free of impediment; unimpeded.",
+          "Expeditious; quick; prompt."
+        ]
+      }
+    ]
+  },
+  "paragon": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpæɹəɡən/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person of preeminent qualities, who acts as a pattern or model for others.",
+          "A companion; a match; an equal.",
+          "Comparison; competition.",
+          "The size of type between great primer and double pica, standardized as 20-point.",
+          "A flawless diamond of at least 100 carats."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To compare; to parallel; to put in rivalry or emulation with.",
+          "To compare with; to equal; to rival.",
+          "To serve as a model for; to surpass.",
+          "To be equal; to hold comparison."
+        ]
+      }
+    ]
+  },
+  "convene": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈvɪin/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To come together; to meet; to unite.",
+          "To come together, as in one body or for a public purpose; to meet; to assemble.",
+          "To cause to assemble; to call together; to convoke.",
+          "To summon judicially to meet or appear."
+        ]
+      }
+    ]
+  },
+  "insatiable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One who or that which cannot be satiated."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not satiable; incapable of being satisfied or appeased; very greedy"
+        ]
+      }
+    ]
+  },
+  "tenacious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/təˈneɪʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Clinging to an object or surface; adhesive.",
+          "Unwilling to yield or give up; dogged.",
+          "Holding together; cohesive.",
+          "Having a good memory; retentive."
+        ]
+      }
+    ]
+  },
+  "erode": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪˈɹoʊd/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To wear away by abrasion, corrosion or chemical reaction.",
+          "To destroy gradually by an ongoing process."
+        ]
+      }
+    ]
+  },
+  "incessant": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪnˈsɛs.ənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Without pause or stop; not ending, especially to the point of annoyance."
+        ]
+      }
+    ]
+  },
+  "preclude": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹiːˈkluːd/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "Remove the possibility of; rule out; prevent or exclude; to make impossible."
+        ]
+      }
+    ]
+  },
+  "tenuous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtɛn.ju.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Thin in substance or consistency.",
+          "Insubstantial."
+        ]
+      }
+    ]
+  },
+  "exorbitant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɛɡˈzɔːbɪtənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Exceeding proper limits; extravagant; excessive or unduly high."
+        ]
+      }
+    ]
+  },
+  "placid": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈplæs.ɪd/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Calm and quiet; peaceful; tranquil"
+        ]
+      }
+    ]
+  },
+  "austere": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɒstɪə(ɹ)/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Grim or severe in manner or appearance",
+          "Lacking decoration; trivial; not extravagant or gaudy"
+        ]
+      }
+    ]
+  },
+  "aloof": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈluːf/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Reserved and remote; either physically or emotionally distant; standoffish."
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          "At or from a distance, but within view, or at a small distance; apart; away.",
+          "Without sympathy; unfavorably."
+        ]
+      },
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          "Away from; clear of."
+        ]
+      }
+    ]
+  },
+  "arcane": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɑɹˈkeɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Understood by only a few.",
+          "(by extension) Obscure, mysterious.",
+          "Requiring secret or mysterious knowledge to understand.",
+          "Extremely old (e.g. interpretation or knowledge), and possibly irrelevant."
+        ]
+      }
+    ]
+  },
+  "fluctuate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To vary irregularly; to swing.",
+          "To undulate.",
+          "To be irresolute; to waver.",
+          "To cause to vary irregularly."
+        ]
+      }
+    ]
+  },
+  "aberration": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌæb.əˈɹeɪ.ʃn̩/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The act of wandering; deviation from truth, moral rectitude; abnormal; divergence from the straight, correct, proper, normal, or from the natural state.",
+          "The convergence to different foci, by a lens or mirror, of rays of light emanating from one and the same point, or the deviation of such rays from a single focus; a defect in a focusing mechanism that prevents the intended focal point.",
+          "A small periodical change of position in the stars and other heavenly bodies, due to the combined effect of the motion of light and the motion of the observer.",
+          "A partial alienation of reason.",
+          "A mental disorder, especially one of a minor or temporary character.",
+          "Atypical development or structure; deviation from the normal type; an aberrant organ.",
+          "A deviation of a tissue, organ or mental functions from what is considered to be within the normal range."
+        ]
+      }
+    ]
+  },
+  "vindictive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/vɪnˈdɪk.tɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having a tendency to seek revenge when wronged, vengeful.",
+          "Punitive"
+        ]
+      }
+    ]
+  },
+  "caustic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈkɒstɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Any substance or means which, applied to animal or other organic tissue, burns, corrodes, or destroys it by chemical action; an escharotic.",
+          "The envelope of reflected or refracted rays of light for a given surface or object.",
+          "The envelope of reflected or refracted rays for a given curve.",
+          "Caustic soda."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Capable of burning, corroding or destroying organic tissue.",
+          "(of language, etc.) Sharp, bitter, cutting, biting, and sarcastic in a scathing way."
+        ]
+      }
+    ]
+  },
+  "reprehensible": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌɹɛpɹəˈhɛnsəb(ə)l/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Blameworthy, censurable, guilty.",
+          "Deserving of reprehension."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A reprehensible person; a villain."
+        ]
+      }
+    ]
+  },
+  "antithesis": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/æn.ˈtɪ.θə.sɪs/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A proposition that is the diametric opposite of some other proposition.",
+          "A device by which two contrasting ideas are juxtaposed in parallel form."
+        ]
+      }
+    ]
+  },
+  "impasse": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈɪmpæs/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A road with no exit.",
+          "A deadlock or stalemate situation in which no progress can be made."
+        ]
+      }
+    ]
+  },
+  "censure": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈsɛn.sjə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The act of blaming, criticizing, or condemning as wrong; reprehension.",
+          "An official reprimand.",
+          "Judicial or ecclesiastical sentence or reprimand; condemnatory judgment.",
+          "Judgment either favorable or unfavorable; opinion."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To criticize harshly.",
+          "To formally rebuke.",
+          "To form or express a judgment in regard to; to estimate; to judge."
+        ]
+      }
+    ]
+  },
+  "idiosyncratic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Peculiar to a specific individual; eccentric."
+        ]
+      }
+    ]
+  },
+  "veracity": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/vəˈɹæ.sɪ.ti/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "(of a person) The quality of speaking or stating the truth; truthfulness.",
+          "Something that is true; a truthful statement; a truth.",
+          "Agreement with the facts; accordance with the truth; accuracy or precision.",
+          "Act of being exact and accurate.",
+          "Correctness and carefulness in one's plan of action."
+        ]
+      }
+    ]
+  },
+  "pique": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/piːk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A feeling of enmity; ill-feeling, animosity; a transient feeling of wounded pride.",
+          "A feeling of irritation or resentment, awakened by a social slight or injury; offence, especially taken in an emotional sense with little thought or consideration.",
+          "Keenly felt desire; a longing."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To wound the pride of; to excite to anger.",
+          "To take pride in; to pride oneself on.",
+          "To stimulate (a feeling, emotion); to offend by slighting; to excite (someone) to action by causing resentment or jealousy."
+        ]
+      }
+    ]
+  },
+  "subsidize": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈsʌbsɪdaɪz/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To assist (someone or something) by granting a subsidy."
+        ]
+      }
+    ]
+  },
+  "corroborate": {
+    "source": "wiktionary",
+    "pronunciation": "/kəˈɹɑbəɹeɪ̯t/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To confirm or support something with additional evidence; to attest or vouch for.",
+          "To make strong; to strengthen."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Corroborated.",
+          "Vigorous, grown strong."
+        ]
+      }
+    ]
+  },
+  "dearth": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɜːθ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A period or condition when food is rare and hence expensive; famine.",
+          "(by extension) Scarcity; a lack or short supply.",
+          "Dearness; the quality of being rare or costly."
+        ]
+      }
+    ]
+  },
+  "malevolent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/məˈlɛvələnt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having or displaying ill will; wishing harm on others",
+          "Having an evil or harmful influence"
+        ]
+      }
+    ]
+  },
+  "onerous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɒnəɹəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Imposing or constituting a physical, mental, or figurative load which can be borne only with effort; burdensome."
+        ]
+      }
+    ]
+  },
+  "prodigious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɹəˈdɪd͡ʒəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Very big in size or quantity; gigantic; colossal; huge.",
+          "Extraordinarily exciting or amazing.",
+          "Ominous, portentous.",
+          "Monstrous; freakish."
+        ]
+      }
+    ]
+  },
+  "opulent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Luxuriant, and ostentatiously magnificent.",
+          "Rich, sumptuous and extravagant."
+        ]
+      }
+    ]
+  },
+  "unequivocal": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ʌnɨˈkwɪvəkəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Unambiguous; without equivocation or ambiguity; singularly clear, unmistakable, or unquestionable",
+          "(possibly obsolete) Without equal, matchless."
+        ]
+      }
+    ]
+  },
+  "amenable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈmɛn.ə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Willing to respond to persuasion or suggestions.",
+          "Willing to comply; easily led.",
+          "Liable to be brought to account; responsible; accountable.",
+          "(of a group) Being a locally compact topological group carrying a kind of averaging operation on bounded functions that is invariant under translation by group elements."
+        ]
+      }
+    ]
+  },
+  "impervious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪmˈpɜːvi.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Unaffected or unable to be affected by something.",
+          "Preventive of any penetration; impenetrable, impermeable, particularly of water.",
+          "Immune to damage or effect."
+        ]
+      }
+    ]
+  },
+  "virulent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈvɪɹjʊlənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a disease or disease-causing agent) Highly infectious, malignant or deadly.",
+          "Hostile to the point of being venomous; intensely acrimonious."
+        ]
+      }
+    ]
+  },
+  "pernicious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pəˈnɪʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Causing much harm in a subtle way.",
+          "Causing death or injury; deadly."
+        ]
+      }
+    ]
+  },
+  "rescind": {
+    "source": "wiktionary",
+    "pronunciation": "/ɹɪˈsɪnd/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To repeal, annul, or declare void; to take (something such as a rule or contract) out of effect.",
+          "To cut away or off."
+        ]
+      }
+    ]
+  },
+  "vitriol": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈvɪ.tɹi.əl/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Sulphuric acid and various metal sulphates.",
+          "(by extension) Bitterly abusive language."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To subject to bitter verbal abuse.",
+          "To dip in dilute sulphuric acid; to pickle.",
+          "To vitriolize."
+        ]
+      }
+    ]
+  },
+  "coerce": {
+    "source": "wiktionary",
+    "pronunciation": "/koʊˈɝs/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To restrain by force, especially by law or authority; to repress; to curb.",
+          "To use force, threat, fraud, or intimidation in an attempt to compel one to act against their will.",
+          "To force an attribute, normally of a data type, to take on the attribute of another data type."
+        ]
+      }
+    ]
+  },
+  "nadir": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈneɪˌdɪɚ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The point of the celestial sphere, directly opposite the zenith; inferior pole of the horizon; point of the celestial sphere directly under the place of observation.",
+          "The lowest point; time of greatest depression.",
+          "The axis of a projected conical shadow; the direction of the force of gravity at a location; down.",
+          "An empty box added beneath a full one in a beehive to give the colony more room to expand or store honey."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To extend (a beehive) by adding an empty box at the base."
+        ]
+      }
+    ]
+  },
+  "paltry": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɑltɹi/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Trashy, trivial, of little value.",
+          "Of little monetary worth."
+        ]
+      }
+    ]
+  },
+  "wanton": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈwɒntɒn/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A pampered or coddled person.",
+          "An overly playful person; a trifler.",
+          "A self-indulgent person, fond of excess.",
+          "A lewd or immoral person, especially a prostitute."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To rove and ramble without restraint, rule, or limit; to revel; to play loosely; to frolic.",
+          "To waste or squander, especially in pleasure (most often with away).",
+          "To act wantonly; to be lewd or lascivious."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Undisciplined, unruly; not able to be controlled.",
+          "Playful, sportive; merry or carefree.",
+          "Lewd, immoral; sexually open, unchaste.",
+          "Capricious, reckless of morality, justice etc.; acting without regard for the law or the well-being of others; gratuitous.",
+          "Extravagant, unrestrained, excessive."
+        ]
+      }
+    ]
+  },
+  "amiable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈeɪ.mi.ə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Friendly; kind; sweet; gracious",
+          "Of a pleasant and likeable nature; kind-hearted; easy to like"
+        ]
+      }
+    ]
+  },
+  "wane": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/weɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A gradual diminution in power, value, intensity etc.",
+          "The lunar phase during which the sun seems to illuminate less of the moon as its sunlit area becomes progressively smaller as visible from Earth.",
+          "The end of a period.",
+          "A rounded corner caused by lack of wood, often showing bark."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To progressively lose its splendor, value, ardor, power, intensity etc.; to decline.",
+          "Said of light that dims or diminishes in strength.",
+          "Said of the Moon as it passes through the phases of its monthly cycle where its surface is less and less visible.",
+          "Said of a time period that comes to an end.",
+          "To decrease physically in size, amount, numbers or surface.",
+          "To cause to decrease."
+        ]
+      }
+    ]
+  },
+  "constrain": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈstɹeɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To force physically, by strong persuasion or pressuring; to compel; to oblige.",
+          "To keep within close bounds; to confine.",
+          "To reduce a result in response to limited resources."
+        ]
+      }
+    ]
+  },
+  "irreverent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Lacking respect; not having or not showing respect for or seriousness towards something that is usually treated with respect; going against conventional precepts."
+        ]
+      }
+    ]
+  },
+  "candor": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈkæn.də(ɹ)/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Whiteness; brilliance; purity.",
+          "The state of being sincere and open in speech; honesty in expression.",
+          "Impartiality."
+        ]
+      }
+    ]
+  },
+  "anathema": {
+    "source": "wiktionary",
+    "pronunciation": "/əˈnæθəmə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A ban or curse pronounced with religious solemnity by ecclesiastical authority, often accompanied by excommunication; something denounced as accursed.",
+          "Something which is vehemently disliked by somebody.",
+          "An imprecation; a curse; a malediction.",
+          "Any person or thing anathematized, or cursed by ecclesiastical authority to unending punishment."
+        ]
+      }
+    ]
+  },
+  "capricious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kəˈpɹɪʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Impulsive and unpredictable; determined by chance, impulse, or whim"
+        ]
+      }
+    ]
+  },
+  "inadvertent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌɪnədˈvɜːtn̩t/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not intentional; not on purpose; not conscious.",
+          "Inattentive."
+        ]
+      }
+    ]
+  },
+  "forthright": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfɔːθˌɹaɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A straight path."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Straightforward, not evasive, candid and direct.",
+          "Frank, outspoken.",
+          "Markedly simple.",
+          "Fixed, settled, decided.",
+          "Proceeding straight forth."
+        ]
+      }
+    ]
+  },
+  "haphazard": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌhæpˈhæz.əd/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Random; chaotic; incomplete; not thorough, constant, or consistent."
+        ]
+      }
+    ]
+  },
+  "voracious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/vɔːˈɹeɪ.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Wanting or devouring great quantities of food.",
+          "Having a great appetite for anything (e.g., a voracious reader)."
+        ]
+      }
+    ]
+  },
+  "pariah": {
+    "source": "wiktionary",
+    "pronunciation": "/pəˈɹaɪə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Synonym of outcast: A person despised and excluded by their family, community, or society, especially a member of the untouchable castes in Indian society.",
+          "A similarly despised group of people or species of animal.",
+          "Ellipsis of pariah dog (“an Indian breed, any stray dog in Indian contexts”)."
+        ]
+      }
+    ]
+  },
+  "erudite": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɛɹ.ʊ.daɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A learned or scholarly person"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Learned, scholarly, with emphasis on knowledge gained from books."
+        ]
+      }
+    ]
+  },
+  "quagmire": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈkwæɡ.maɪɹ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A swampy, soggy area of ground.",
+          "A perilous, mixed up and troubled situation; a hopeless tangle."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To embroil (a person, etc.) in complexity or difficulty."
+        ]
+      }
+    ]
+  },
+  "insolent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɪnsə.lənt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who is insolent."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Insulting in manner or words.",
+          "Rude."
+        ]
+      }
+    ]
+  },
+  "pejorative": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pɪˈdʒɒɹətɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A disparaging, belittling, or derogatory word or expression."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Disparaging, belittling or derogatory."
+        ]
+      }
+    ]
+  },
+  "squander": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈskwɑn.dɚ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To waste, lavish, splurge; to spend lavishly or profusely; to dissipate.",
+          "To scatter; to disperse.",
+          "To wander at random; to scatter."
+        ]
+      }
+    ]
+  },
+  "obstinate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɒb.stɪ.nət/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Stubbornly adhering to an opinion, purpose, or course, usually with implied unreasonableness; persistent.",
+          "Said of inanimate things not easily subdued or removed."
+        ]
+      }
+    ]
+  },
+  "petulant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɛtjələnt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Childishly irritable",
+          "Forward; pert; insolent; wanton."
+        ]
+      }
+    ]
+  },
+  "trepidation": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌtɹɛp.ɪˈdeɪ.ʃən/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A fearful state; a state of concern or hesitation.",
+          "An involuntary trembling, sometimes an effect of paralysis, but usually caused by terror or fear; quaking; quivering.",
+          "A libration of the starry sphere in the Ptolemaic system; a motion ascribed to the firmament, to account for certain small changes in the position of the ecliptic and of the stars."
+        ]
+      }
+    ]
+  },
+  "inane": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪˈneɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "That which is void or empty."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Lacking sense or meaning (often to the point of boredom or annoyance)",
+          "Purposeless; pointless"
+        ]
+      }
+    ]
+  },
+  "incongruous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪnˈkɒn.ɡɹʊu.ʌs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not similar or congruent; not matching or fitting in.",
+          "Of two numbers, with respect to a third, such that their difference can not be divided by it without a remainder."
+        ]
+      }
+    ]
+  },
+  "proliferate": {
+    "source": "wiktionary",
+    "pronunciation": "/pɹəˈlɪf.əɹ.eɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To increase in number or spread rapidly; to multiply."
+        ]
+      }
+    ]
+  },
+  "judicious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dʒuˈdɪʃ.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having, characterized by, or done with good judgment or sound thinking."
+        ]
+      }
+    ]
+  },
+  "ostentatious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌɒs.tənˈteɪ.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of ostentation.",
+          "Intended to attract notice.",
+          "Of tawdry display; kitsch."
+        ]
+      }
+    ]
+  },
+  "terse": {
+    "source": "wiktionary",
+    "pronunciation": "/tɝs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of speech or style: brief, concise, to the point.",
+          "Of manner or speech: abruptly or brusquely short; curt.",
+          "Burnished, polished; fine, smooth; neat, spruce."
+        ]
+      }
+    ]
+  },
+  "affable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈæf.ə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Receiving others kindly and conversing with them in a free and friendly manner; friendly, courteous, sociable.",
+          "Mild; benign."
+        ]
+      }
+    ]
+  },
+  "strident": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈstɹaɪ.dənt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One of a class of s-like fricatives produced by an airstream directed at the upper teeth."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Loud; shrill, piercing, high-pitched; rough-sounding",
+          "Grating or obnoxious",
+          "Vigorous; making strides"
+        ]
+      }
+    ]
+  },
+  "halcyon": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈhælsiːən/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A kingfisher said in classical mythology to nest on the sea, thereby calming the waters.",
+          "A tropical kingfisher of the genus Halcyon, such as the sacred kingfisher (Halcyon sancta) of Australia."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Pertaining to the halcyon or kingfisher.",
+          "Calm, undisturbed, peaceful, serene."
+        ]
+      }
+    ]
+  },
+  "fastidious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/fæˈstɪdi.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Excessively particular, demanding, or fussy about details, especially about tidiness and cleanliness.",
+          "Overly concerned about tidiness and cleanliness.",
+          "Difficult to please; quick to find fault."
+        ]
+      }
+    ]
+  },
+  "insipid": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪnˈsɪp.ɪd/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Unappetizingly flavorless.",
+          "Flat; lacking character or definition."
+        ]
+      }
+    ]
+  },
+  "polemic": {
+    "source": "wiktionary",
+    "pronunciation": "/pəˈlɛmɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who writes in support of one opinion, doctrine, or system, in opposition to another; one skilled in polemics; a controversialist; a disputant.",
+          "An argument or controversy.",
+          "A strong verbal or written attack on someone or something."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having the characteristics of a polemic."
+        ]
+      }
+    ]
+  },
+  "bombastic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/bɒmˈbæs.tɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a person, their language or writing) showy in speech and given to using flowery or elaborate terms; grandiloquent; pompous",
+          "High-sounding but with little meaning.",
+          "Inflated, overfilled."
+        ]
+      }
+    ]
+  },
+  "coalesce": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌkoʊ.əˈlɛs/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To join into a mass or whole.",
+          "To form from different pieces or elements.",
+          "To bond pieces of metal into a continuous whole by liquefying parts of each piece, bringing the liquids into contact, and allowing the combined liquid to solidify.",
+          "To merge, to intermingle freely.",
+          "To convert a null value to a defined value."
+        ]
+      }
+    ]
+  },
+  "permeate": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈpɝmiˌeɪ̯t/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To pass through the pores or interstices of; to penetrate and pass through without causing rupture or displacement; applied especially to fluids which pass through substances of loose texture",
+          "To enter and spread through; to pervade."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A watery by-product of milk production.",
+          "Liquid that has passed through a filtration system."
+        ]
+      }
+    ]
+  },
+  "vehement": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈviː.ə.mənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Showing strong feelings; passionate; forceful or intense."
+        ]
+      }
+    ]
+  },
+  "cacophony": {
+    "source": "wiktionary",
+    "pronunciation": "/kəˈkɑfəni/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A mix of discordant sounds; dissonance."
+        ]
+      }
+    ]
+  },
+  "implacable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/-ˈpleɪ-/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not able to be placated or appeased.",
+          "Impossible to prevent or stop; inexorable, unrelenting, unstoppable.",
+          "Adamant; immovable."
+        ]
+      }
+    ]
+  },
+  "pithy": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɪθi/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Concise and meaningful.",
+          "Of, like, or abounding in pith."
+        ]
+      }
+    ]
+  },
+  "impetuous": {
+    "source": "wiktionary",
+    "pronunciation": "/imˈpɛt͡ʃuəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Making arbitrary decisions, especially in an impulsive and forceful manner.",
+          "Characterized by sudden violence or vehemence."
+        ]
+      }
+    ]
+  },
+  "levity": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈlɛ.vɪ.ti/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Lightness of manner or speech, frivolity; lack of appropriate seriousness; inclination to make a joke of serious matters.",
+          "Lack of steadiness.",
+          "The state or quality of being light, buoyancy.",
+          "A lighthearted or frivolous act."
+        ]
+      }
+    ]
+  },
+  "prosaic": {
+    "source": "wiktionary",
+    "pronunciation": "/pɹoʊˈzeɪ.ɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Pertaining to or having the characteristics of prose.",
+          "Straightforward; matter-of-fact; lacking the feeling or elegance of poetry.",
+          "Overly plain, simple or commonplace, to the point of being boring."
+        ]
+      }
+    ]
+  },
+  "vicarious": {
+    "source": "wiktionary",
+    "pronunciation": "/vɪˈkɛəɹi.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Delegated.",
+          "Experienced or gained by taking in another person’s experience rather than through first-hand experience, such as through watching or reading.",
+          "On behalf of others."
+        ]
+      }
+    ]
+  },
+  "denigrate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈdɛn.ɪ.ɡɹeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To criticise so as to besmirch; traduce, disparage or defame.",
+          "To treat as worthless; belittle, degrade or disparage.",
+          "To blacken."
+        ]
+      }
+    ]
+  },
+  "disparage": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪsˈpæɹɪd͡ʒ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Inequality in marriage; marriage with an inferior."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To match unequally; to degrade or dishonor.",
+          "To dishonor by a comparison with what is inferior; to lower in rank or estimation by actions or words; to speak slightingly of; to depreciate; to undervalue.",
+          "To ridicule, mock, discredit."
+        ]
+      }
+    ]
+  },
+  "sanctimonious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌsæŋk.təˈməʊ.ni.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Making a show of being morally better than others, especially hypocritically pious.",
+          "Holy, devout."
+        ]
+      }
+    ]
+  },
+  "sardonic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/saːˈdɔnɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Scornfully mocking or cynical.",
+          "Disdainfully or ironically humorous."
+        ]
+      }
+    ]
+  },
+  "moribund": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈmɔːɹɪbʌnd/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who is near to dying."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Approaching death; about to die; dying; expiring.",
+          "Almost obsolete, nearing an end."
+        ]
+      }
+    ]
+  },
+  "ameliorate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈmiːli.əɹeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make better, or improve, something perceived to be in a negative condition.",
+          "To become better; improve."
+        ]
+      }
+    ]
+  },
+  "embellish": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪmˈbɛlɪʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make more beautiful and attractive by adding ornamentation; to decorate.",
+          "To enhance by adding something not strictly integral or necessary.",
+          "To make something sound or look better or more acceptable than it is in reality; to distort, embroider, or even misrepresent or lie."
+        ]
+      }
+    ]
+  },
+  "indefatigable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌɪndɪfəˈtiɡəbəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Extremely persistent and untiring."
+        ]
+      }
+    ]
+  },
+  "gauche": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɡəʊʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Awkward or lacking in social graces; bumbling.",
+          "Skewed, not plane.",
+          "Describing a torsion angle of 60°."
+        ]
+      }
+    ]
+  },
+  "duplicity": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dju-/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Intentional deceptiveness; double-dealing."
+        ]
+      }
+    ]
+  },
+  "facetious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/fəˈsiːʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Treating serious issues with (often deliberately) inappropriate humour; flippant.",
+          "Pleasantly humorous; jocular."
+        ]
+      }
+    ]
+  },
+  "rancor": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɹæŋ.kɚ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The deepest malignity or spite; deep-seated enmity or malice; inveterate hatred."
+        ]
+      }
+    ]
+  },
+  "avarice": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈævəɹəs/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Excessive or inordinate desire of gain; greed for wealth",
+          "Inordinate desire for some supposed good."
+        ]
+      }
+    ]
+  },
+  "capitulate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kəˈpɪ.tjʊ.leɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To surrender; to end all resistance, to give up; to go along with or comply.",
+          "To draw up in chapters; to enumerate.",
+          "To draw up the articles of treaty with; to treat, bargain, parley."
+        ]
+      }
+    ]
+  },
+  "vapid": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈveɪp.ɪd/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Offering nothing that is stimulating or challenging.",
+          "Lifeless, dull, or banal.",
+          "Tasteless, bland, or insipid."
+        ]
+      }
+    ]
+  },
+  "encroach": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɛŋˈkɹəʊtʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Encroachment."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To seize, appropriate",
+          "To intrude unrightfully on someone else’s rights or territory",
+          "To advance gradually beyond due limits"
+        ]
+      }
+    ]
+  },
+  "contrite": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈtɹaɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A contrite person; a penitent."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Sincerely penitent or feeling regret or sorrow, especially for one’s own actions; apologetic.",
+          "Thoroughly bruised or broken."
+        ]
+      }
+    ]
+  },
+  "demagogue": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈdɛməɡɒɡ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A political orator or leader who gains favor by pandering to or exciting the passions and prejudices of the audience rather than by using rational argument.",
+          "A leader of the people."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To speak or act in the manner of a demagogue; to speak about (an issue) in the manner of a demagogue."
+        ]
+      }
+    ]
+  },
+  "relegate": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈɹɛlɪˌɡeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "Exile, banish, remove, or send away. Exile or banish to a particular place. Remove (oneself) to a distance from something or somewhere. Banish from proximity to Rome for a set time; compare relegate. Remove or send to a place far away.",
+          "Exile or banish to a particular place.",
+          "Remove (oneself) to a distance from something or somewhere.",
+          "Banish from proximity to Rome for a set time; compare relegate.",
+          "Remove or send to a place far away.",
+          "Consign or assign. Consign (a person or thing) to a place, position, or role of obscurity, insignificance, oblivion, lower rank or (especially) inferiority.",
+          "Consign (a person or thing) to a place, position, or role of obscurity, insignificance, oblivion, lower rank or (especially) inferiority.",
+          "Assign (a thing) to an appropriate place or situation based on appraisal or classification.",
+          "Transfer (a sports team) to a lower-ranking league division.",
+          "Refer or submit. Refer (a point of contention) to an authority in deference to the judgment thereof. Submit (something) to someone else for appropriate action thereby; compare delegate. Submit or refer (someone) to someone or something else for some reason or purpose.",
+          "Refer (a point of contention) to an authority in deference to the judgment thereof.",
+          "Submit (something) to someone else for appropriate action thereby; compare delegate.",
+          "Submit or refer (someone) to someone or something else for some reason or purpose."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A person who has been banished from proximity to Rome for a set time, but without losing his civil rights."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Relegated; exiled."
+        ]
+      }
+    ]
+  },
+  "impudent": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈɪmpjədn̩t/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not showing due respect; bold-faced, impertinent.",
+          "Lacking modesty or shame; indelicate."
+        ]
+      }
+    ]
+  },
+  "effusive": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪˈfjuːsɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Gushy; unrestrained, extravagant or excessive (in emotional expression).",
+          "Pouring, spilling out freely; overflowing.",
+          "Extrusive; having solidified after being poured out as molten lava."
+        ]
+      }
+    ]
+  },
+  "servile": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈsɜː(ɹ).ˌvaɪl/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "(grammar) An element which forms no part of the original root.",
+          "A slave; a menial."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or pertaining to a slave.",
+          "Submissive or slavish.",
+          "(grammar) Not belonging to the original root.",
+          "(grammar) Not sounded, but serving to lengthen the preceding vowel, like the e in tune."
+        ]
+      }
+    ]
+  },
+  "berate": {
+    "source": "wiktionary",
+    "pronunciation": "/bɪˈɹeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To chide or scold vehemently."
+        ]
+      }
+    ]
+  },
+  "verbose": {
+    "source": "wiktionary",
+    "pronunciation": "/vɚˈboʊs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Containing or using more words than necessary; long-winded, wordy.",
+          "Producing detailed output for diagnostic purposes."
+        ]
+      }
+    ]
+  },
+  "vilify": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈvɪl.ɪ.faɪ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To say defamatory things about someone or something; to speak ill of.",
+          "To belittle through speech; to put down."
+        ]
+      }
+    ]
+  },
+  "recant": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹəˈkænt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To withdraw or repudiate a statement or opinion formerly expressed, especially formally and publicly."
+        ]
+      }
+    ]
+  },
+  "ennui": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɒnˈwiː/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A gripping listlessness or melancholia caused by boredom; depression."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make bored or listless; to weary."
+        ]
+      }
+    ]
+  },
+  "ineffable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪˈnɛf.ə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Beyond expression in words; unspeakable.",
+          "Forbidden to be uttered; taboo."
+        ]
+      }
+    ]
+  },
+  "conflate": {
+    "source": "wiktionary",
+    "pronunciation": "/kənˈfleɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To combine or mix together.",
+          "To fail to properly distinguish or keep separate (things); to mistakenly treat (them) as equivalent.",
+          "To deliberately draw a false equivalence or association, typically in a tacit or implicit manner as propaganda and/or an intentional distortion or misrepresentation of the subject matter."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Combining elements from multiple versions of the same text."
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A conflate text, one which conflates multiple version of a text together."
+        ]
+      }
+    ]
+  },
+  "hackneyed": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈhækniːd/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make uninteresting or trite by frequent use.",
+          "To use as a hackney.",
+          "To carry in a hackney coach."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Repeated too often.",
+          "Let out for hire."
+        ]
+      }
+    ]
+  },
+  "convivial": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kənˈvɪv.i.əl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having elements of a feast or of entertainment, especially when it comes to eating and drinking, with accompanying festivity"
+        ]
+      }
+    ]
+  },
+  "maudlin": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈmɔːd.lɪn/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The Magdalene; Mary Magdalene.",
+          "Either of two aromatic plants, costmary or sweet yarrow.",
+          "A Magdalene house; a brothel."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Affectionate or sentimental in an effusive, tearful, or foolish manner, especially because of drunkenness.",
+          "Extravagantly or excessively sentimental; mawkish, self-pitying.",
+          "Tearful, lachrymose."
+        ]
+      }
+    ]
+  },
+  "rapacious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹəˈpeɪ.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Voracious; avaricious.",
+          "Given to taking by force or plundering; aggressively greedy.",
+          "(of an animal, usually a bird) Subsisting off live prey."
+        ]
+      }
+    ]
+  },
+  "puerile": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpjʊə.ɹaɪl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Childish; trifling; silly.",
+          "Characteristic of, or pertaining to, a boy or boys; compare puellile."
+        ]
+      }
+    ]
+  },
+  "restive": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɹɛstɪv/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Impatient under delay, duress, or control.",
+          "Resistant to control; stubborn.",
+          "Refusing to move, especially in a forward direction."
+        ]
+      }
+    ]
+  },
+  "torpor": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtɔːpə(ɹ)/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A state of being inactive or stuporous.",
+          "A state of apathy or lethargy.",
+          "A state similar to hibernation characterised by energy-conserving, very deep sleep."
+        ]
+      }
+    ]
+  },
+  "acrimony": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A sharp and bitter hatred."
+        ]
+      }
+    ]
+  },
+  "fractious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈfɹæk.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Given to troublemaking.",
+          "Irritable; argumentative; quarrelsome."
+        ]
+      }
+    ]
+  },
+  "turgid": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈtɚ.d͡ʒɪd/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Distended beyond the natural state by some internal agent, especially fluid, or expansive force.",
+          "Of a river, inundated with excess water as from a flood; swollen.",
+          "Overly complex and difficult to understand; grandiloquent; bombastic."
+        ]
+      }
+    ]
+  },
+  "entrench": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɛnˈtɹɛntʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To dig or excavate a trench; to trench.",
+          "To surround or provide with a trench, especially for defense; to dig in.",
+          "To establish a substantial position in business, politics, etc.",
+          "To invade; to encroach; to infringe or trespass; to enter on, and take possession of, that which belongs to another; usually followed by on or upon.",
+          "To cut in; to furrow; to make trenches in or upon."
+        ]
+      }
+    ]
+  },
+  "bellwether": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈbɛlwɛðɚ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The leading sheep of a flock, having a bell hung round its neck.",
+          "Anything that indicates future trends.",
+          "A stock whose price performance is treated as an indicator of the likely direction of a broader market, sector, or industry."
+        ]
+      }
+    ]
+  },
+  "acerbic": {
+    "source": "wiktionary",
+    "pronunciation": "/əˈsərbɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Tasting sour or bitter.",
+          "Sharp, harsh, biting."
+        ]
+      }
+    ]
+  },
+  "galvanize": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɡælvənaɪ̯z/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To coat with a thin layer of metal by electrochemical means.",
+          "To coat with rust-resistant zinc.",
+          "To shock or stimulate into sudden activity, as if by electric shock.",
+          "To electrify.",
+          "To switch sides between Union and Confederate in the American Civil War."
+        ]
+      }
+    ]
+  },
+  "approbation": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌæp.ɹəʊˈbeɪ.ʃən/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The act of approving; an assenting to the propriety of a thing with some degree of pleasure or satisfaction; approval, sanction, commendation or official recognition."
+        ]
+      }
+    ]
+  },
+  "extol": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪkˈstoʊl/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To praise; to make high."
+        ]
+      }
+    ]
+  },
+  "admonish": {
+    "source": "wiktionary",
+    "pronunciation": "/ædˈmɑn.ɪʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To inform or notify of a fault; to rebuke in a serious tone; to tell off.",
+          "To advise against wrongdoing; to caution; to warn against danger or an offense.",
+          "To instruct or direct."
+        ]
+      }
+    ]
+  },
+  "credulous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kɹɛdjələs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Excessively ready to believe things; gullible.",
+          "Believed too readily."
+        ]
+      }
+    ]
+  },
+  "histrionic": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/hɪstɹiːˈɒnɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or relating to actors or acting.",
+          "(by extension) Excessively dramatic or emotional, especially with the intention to draw attention."
+        ]
+      }
+    ]
+  },
+  "redolent": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈɹɛd.ə.lənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Fragrant or aromatic; having a sweet scent.",
+          "Having the smell of the article in question.",
+          "Suggestive or reminiscent."
+        ]
+      }
+    ]
+  },
+  "surreptitious": {
+    "source": "wiktionary",
+    "pronunciation": "/səˌɹɛpˈtɪʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Stealthy, furtive, well hidden, covert (especially movements)."
+        ]
+      }
+    ]
+  },
+  "indolent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɪn.dəl.ənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Habitually lazy, procrastinating, or resistant to physical labor",
+          "Inducing laziness",
+          "Causing little or no physical pain; progressing slowly; inactive (of an ulcer, etc.)",
+          "Healing slowly"
+        ]
+      }
+    ]
+  },
+  "renege": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɹɪˈneɪɡ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To break a promise or commitment; to go back on one's word.",
+          "In a card game, to break one's commitment to follow suit when capable.",
+          "To deny; to renounce"
+        ]
+      }
+    ]
+  },
+  "repercussion": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌɹiː.pəˈkʌʃ.ən/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A consequence or ensuing result of some action.",
+          "The act of driving back, or the state of being driven back; reflection; reverberation.",
+          "Rapid reiteration of the same sound.",
+          "The subsidence of a tumour or eruption by the action of a repellent.",
+          "In a vaginal examination, the act of imparting through the uterine wall with the finger a shock to the foetus, so that it bounds upward, and falls back again against the examining finger."
+        ]
+      }
+    ]
+  },
+  "ignoble": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪɡˈnoʊbəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not noble; plebeian; common.",
+          "Not honorable; base.",
+          "Not a true or \"noble\" falcon; said of certain hawks, such as the goshawk.",
+          "Of an element, dangerously reactive."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make ignoble; to bring low."
+        ]
+      }
+    ]
+  },
+  "tautology": {
+    "source": "wiktionary",
+    "pronunciation": "/tɔːˈtɒləd͡ʒi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Redundant use of words, a pleonasm, an unnecessary and tedious repetition.",
+          "An expression that features tautology.",
+          "A statement that is true for all truth values of its propositional variables.",
+          "A statement that is true for all truth values of its Boolean atoms."
+        ]
+      }
+    ]
+  },
+  "fatuous": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈfæ.tʃu.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Inanely stupid; vacantly silly; content in one's foolishness."
+        ]
+      }
+    ]
+  },
+  "quotidian": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kwəˈtɪdɪən/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A fever which recurs every day; quotidian malaria.",
+          "A daily allowance formerly paid to certain members of the clergy.",
+          "(usually with definite article) Commonplace or mundane things regarded as a class."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Recurring every twenty-four hours or (more generally) daily (of symptoms, etc).",
+          "Happening every day; daily.",
+          "Having the characteristics of something which can be seen, experienced, etc, every day or very commonly; commonplace, ordinary, mundane."
+        ]
+      }
+    ]
+  },
+  "tractable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtɹæk.tə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of people) Capable of being easily led, taught, or managed.",
+          "(of a problem) Easy to deal with or manage",
+          "Capable of being shaped; malleable.",
+          "Capable of being handled or touched.",
+          "Sufficiently operationalizable or useful to allow a mathematical calculation to proceed toward a solution.",
+          "Of a decision problem, algorithmically solvable fast enough to be practically relevant, typically in polynomial time."
+        ]
+      }
+    ]
+  },
+  "reprobate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɹɛpɹəbət/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One rejected by God; a sinful person.",
+          "An individual with low morals or principles."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Rejected; cast off as worthless.",
+          "Rejected by God; damned, sinful.",
+          "Immoral, having no religious or principled character."
+        ]
+      }
+    ]
+  },
+  "churlish": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtʃɜːlɪʃ/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of or pertaining to a serf, peasant, or rustic.",
+          "Rude, surly, ungracious.",
+          "Stingy or grudging.",
+          "(of soil) Difficult to till, lacking pliancy; unmanageable."
+        ]
+      }
+    ]
+  },
+  "platitude": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈplætɪˌt(j)ud/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An often-quoted saying that is supposed to be meaningful but has become unoriginal or hackneyed through overuse.",
+          "A claim that is trivially true, to the point of being uninteresting.",
+          "Flatness; lack of change, activity, or deviation.",
+          "Unoriginality; triteness."
+        ]
+      }
+    ]
+  },
+  "stymie": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈstaɪmi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A situation where an opponent's ball is directly in the way of one's own ball and the hole, on the putting green (abolished 1952).",
+          "(by extension) An obstacle or obstruction."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To thwart or stump; to cause to fail or to leave hopelessly puzzled, confused, or stuck.",
+          "To bring into the position of, or impede by, a stymie."
+        ]
+      }
+    ]
+  },
+  "evanescent": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌɛvəˈnɛsənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Disappearing, vanishing.",
+          "Of an oscillating electric or magnetic field: not propagating as an electromagnetic wave but having its energy spatially concentrated in the vicinity of its source.",
+          "Of a number or value: diminishing to the point of reaching zero as a limit; infinitesimal.",
+          "Barely there; almost imperceptible.",
+          "Ephemeral, fleeting, momentary.",
+          "Of plant parts: shed after a period."
+        ]
+      }
+    ]
+  },
+  "iconoclast": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/aɪˈkɒnəklæst/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "One who destroys religious images or icons, especially an opponent of the Orthodox Church in the 8th and 9th centuries, or a Puritan during the European Reformation.",
+          "One who opposes orthodoxy and religion; one who adheres to the doctrine of iconoclasm.",
+          "(by extension) One who attacks cherished beliefs."
+        ]
+      }
+    ]
+  },
+  "sophistry": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈsɒ.fɪ.stɹi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Cunning, sometimes manifested as trickery.",
+          "The art of using deceptive speech or writing.",
+          "An argument that seems plausible, but is fallacious or misleading, especially one devised deliberately to be so."
+        ]
+      }
+    ]
+  },
+  "pugnacious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pʌɡˈneɪ.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Naturally aggressive or hostile; combative; belligerent; bellicose."
+        ]
+      }
+    ]
+  },
+  "garrulous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɡæɹ.jʊ.ləs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Excessively or tiresomely talkative.",
+          "(of something written or performed) Excessively wordy and rambling."
+        ]
+      }
+    ]
+  },
+  "impugn": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪmˈpjuːn/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To assault, attack.",
+          "To verbally assault, especially to argue against an opinion, motive, or action; to question the truth or validity of; cast doubt on."
+        ]
+      }
+    ]
+  },
+  "solipsism": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈsɑlɪpsɪzm/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "The theory that the self is all that exists or that can be proven to exist.",
+          "Self-absorption, an unawareness of the views or needs of others; self-centeredness; egoism."
+        ]
+      }
+    ]
+  },
+  "abrogate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc.",
+          "To put an end to; to do away with.",
+          "To block a process or function."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Abrogated; abolished."
+        ]
+      }
+    ]
+  },
+  "ribald": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɹɪb.əld/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "An individual who is filthy or vulgar in nature."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Coarsely, vulgarly, or lewdly amusing; referring to sexual matters in a rude or irreverent way."
+        ]
+      }
+    ]
+  },
+  "inundate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɪn.ən.deɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To cover with large amounts of water; to flood.",
+          "To overwhelm."
+        ]
+      }
+    ]
+  },
+  "mendacious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/mɛnˈdeɪʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a person) Lying, untruthful or dishonest.",
+          "(of a statement, etc) False or untrue."
+        ]
+      }
+    ]
+  },
+  "perfidy": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɜː.fɪ.di/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A state or act of violating faith or allegiance; violation of a promise or vow, or of trust",
+          "Specifically, in warfare, an illegitimate act of deception, such as using symbols like the Red Cross or white flag to gain proximity to an enemy for purposes of attack.",
+          "A state or act of deceit."
+        ]
+      }
+    ]
+  },
+  "stolid": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈstɑːl.ɪd/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Having or revealing little emotion or sensibility.",
+          "Dully or heavily stupid."
+        ]
+      }
+    ]
+  },
+  "panegyric": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌpænəˈd͡ʒɪɹɪk/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A formal speech publicly praising someone or something.",
+          "Someone who writes or delivers such a speech."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "panegyrical"
+        ]
+      }
+    ]
+  },
+  "calumny": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈkæləmni/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A false accusation or charge brought to tarnish another's reputation or standing.",
+          "Falsifications or misrepresentations intended to disparage or discredit another."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make false accusations or levy false charges against a person with the intent to tarnish that person's reputation or standing; to calumniate."
+        ]
+      }
+    ]
+  },
+  "effrontery": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɛˈfɹʌntəɹi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Insolent and shameless audacity.",
+          "An act of insolent and shameless audacity."
+        ]
+      }
+    ]
+  },
+  "imbroglio": {
+    "source": "wiktionary",
+    "pronunciation": "/ɪmˈbɹoʊljoʊ/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A complicated situation; an entanglement."
+        ]
+      }
+    ]
+  },
+  "supercilious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌsjuː.pə(ɹ)ˈsɪ.li.əs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Arrogantly superior; showing contemptuous indifference; haughty."
+        ]
+      }
+    ]
+  },
+  "castigate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈkæs.tə.ɡeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To punish or reprimand someone severely.",
+          "To execrate or condemn something in a harsh manner, especially by public criticism.",
+          "To revise or make corrections to a publication."
+        ]
+      }
+    ]
+  },
+  "exasperate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪɡˈzæsp(ə)ɹeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To tax the patience of, irk, frustrate, vex, provoke, annoy; to make angry."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Exasperated; embittered."
+        ]
+      }
+    ]
+  },
+  "sinecure": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈsaɪ.nɪ.kjʊə/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "A position that requires no work but still gives an ample payment; a cushy job.",
+          "An ecclesiastical benefice without the care of souls."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To put or place in a sinecure."
+        ]
+      }
+    ]
+  },
+  "dissemble": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "[dɪˈsɛmbəɫ]",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To disguise or conceal something.",
+          "To feign.",
+          "To deliberately ignore something; to pretend not to notice.",
+          "To falsely hide one's opinions or feelings."
+        ]
+      }
+    ]
+  },
+  "avuncular": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/əˈvʌŋkjʊlə/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "In the manner of an uncle, pertaining to an uncle.",
+          "(by extension) Kind, genial, benevolent, or tolerant."
+        ]
+      }
+    ]
+  },
+  "proscribe": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈpɹəʊˌskɹaɪb/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To forbid or prohibit.",
+          "To denounce.",
+          "To banish or exclude."
+        ]
+      }
+    ]
+  },
+  "timorous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈtɪməɹəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Fearful; afraid; timid"
+        ]
+      }
+    ]
+  },
+  "demur": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪˈmɜː/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Stop; pause; hesitation as to proceeding; suspense of decision or action; scruple."
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To linger; to stay; to tarry",
+          "To delay; to pause; to suspend proceedings or judgment in view of a doubt or difficulty; to hesitate; to put off the determination or conclusion of an affair.",
+          "To scruple or object; to take exception; to oppose; to balk",
+          "To interpose a demurrer.",
+          "To suspend judgment concerning; to doubt of or hesitate about",
+          "To cause delay to; to put off"
+        ]
+      }
+    ]
+  },
+  "pusillanimous": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/pjuːsəlˈænəməs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Showing ignoble cowardice, or contemptible timidity."
+        ]
+      }
+    ]
+  },
+  "munificent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/mjuˈnɪfɨsn̩t/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a person or group) Very liberal in giving or bestowing.",
+          "(of a gift, donation, etc.) Very generous; lavish."
+        ]
+      }
+    ]
+  },
+  "ineluctable": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɪn.ɪˈlʌk.tə.bəl/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Impossible to avoid or escape; inescapable, irresistible."
+        ]
+      }
+    ]
+  },
+  "lachrymose": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈlæk.ɹɪ.moʊs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Tearful, sorrowful, sad, pertaining to tears, weeping, causing tears or crying."
+        ]
+      }
+    ]
+  },
+  "maladroit": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌmæl.ə.ˈdɹɔɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Somebody who is inept, or lacking in skill, or talent."
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Not adroit; awkward, clumsy, inept."
+        ]
+      }
+    ]
+  },
+  "debilitate": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/dɪˈbɪlɪteɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To make feeble; to weaken."
+        ]
+      }
+    ]
+  },
+  "perspicacious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Of acute discernment; having keen insight; mentally perceptive.",
+          "Able to physically see clearly; quick-sighted; sharp-sighted."
+        ]
+      }
+    ]
+  },
+  "grandiloquent": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ɡɹænˈdɪl.ə.kwənt/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "(of a person, their language or writing) given to using language in a showy way by using an excessive amount of difficult words to impress others; bombastic; turgid"
+        ]
+      }
+    ]
+  },
+  "exculpate": {
+    "source": "wiktionary",
+    "pronunciation": "/ˈɛkskəlpeɪt/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To clear of or to free from guilt; exonerate."
+        ]
+      }
+    ]
+  },
+  "cupidity": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/kjuːˈpɪdəti/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Extreme greed, especially for wealth."
+        ]
+      }
+    ]
+  },
+  "meretricious": {
+    "source": "wiktionary",
+    "pronunciation": "/ˌmɛɹɪˈtɹɪʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Tastelessly gaudy; superficially attractive but having in reality no value or substance; falsely alluring.",
+          "Involving unlawful sexual connection or lack of consent by at least one party (said of a romantic relationship).",
+          "Of, or relating to prostitutes or prostitution."
+        ]
+      }
+    ]
+  },
+  "gainsay": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɡeɪnˌseɪ/",
+    "senses": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          "To say something in contradiction to."
+        ]
+      }
+    ]
+  },
+  "sententious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/sɛnˈtɛn.ʃəs/",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Full of meaning.",
+          "Using as few words as possible; pithy and concise.",
+          "Tending to use aphorisms or maxims, especially given to trite moralizing."
+        ]
+      }
+    ]
+  },
+  "penurious": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "",
+    "senses": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          "Miserly; excessively cheap.",
+          "Not bountiful; thin; scant.",
+          "Impoverished; wanting for money."
+        ]
+      }
+    ]
+  },
+  "vicissitude": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "[vaɪˈsɪs.ɨˌt(j)u(ː)d]",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Regular change or succession from one thing to another, or one part of a cycle to the next; alternation; mutual succession; interchange.",
+          "(often in the plural) A change, especially in one's life or fortunes."
+        ]
+      }
+    ]
+  },
+  "obloquy": {
+    "source": "dictionaryapi.dev",
+    "pronunciation": "/ˈɒbləˌkwi/",
+    "senses": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          "Abusive language.",
+          "Disgrace.",
+          "A false accusation; malevolent rumors."
+        ]
+      }
+    ]
   }
 }

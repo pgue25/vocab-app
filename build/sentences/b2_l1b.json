@@ -1,0 +1,77 @@
+{
+  "credible": {
+    "examples": ["Investigators found no credible evidence of fraud.", "The threat was considered credible, so the school closed early."],
+    "quizCorrect": ["She is a credible witness with nothing to gain from lying.", "The company needs a credible plan to pay its debts.", "Few experts found his explanation credible."],
+    "quizWrong": ["The view from the summit was absolutely credible.", "She paid with her credible card at the register.", "His story was so credible that no one believed a word.", "The magician performed credible tricks that amazed the kids.", "The credible meal was the best I've ever eaten.", "Hand me your credible card and I'll book the flight.", "The witness was credible, so the jury rejected her testimony.", "The athlete made a credible leap that broke the world record.", "My credible score went up after I paid off my loans."]
+  },
+  "scrutiny": {
+    "examples": ["The senator's finances came under intense scrutiny.", "The plan will not survive close scrutiny."],
+    "quizCorrect": ["Every new drug faces careful scrutiny from regulators.", "The company's accounting is now under public scrutiny.", "Her claims held up under scrutiny."],
+    "quizWrong": ["The sailors staged a scrutiny and took over the ship.", "After a quick scrutiny, he missed every important detail.", "The crew's scrutiny ended with the captain locked in his cabin.", "His careless scrutiny of the contract overlooked all the problems.", "The soldiers' scrutiny against their officers failed.", "The scrutiny was so casual that no one looked at anything.", "Leaders of the scrutiny were hanged at dawn.", "She gave the report no scrutiny at all, studying it carefully.", "The scrutiny on the Bounty is a famous story of rebellion."]
+  },
+  "paramount": {
+    "examples": ["Safety is paramount when working with chemicals.", "For the new coach, discipline was of paramount importance."],
+    "quizCorrect": ["Protecting patient privacy is paramount.", "In a crisis, clear communication is paramount.", "Her children's education was her paramount concern."],
+    "quizWrong": ["The hikers climbed to the paramount of the mountain.", "His safety was paramount, so we ignored it completely.", "The paramount of the river flooded the valley.", "The paramount jumped from the plane and opened his chute.", "She considered the issue paramount and left it for last.", "We camped at the paramount and watched the sunrise.", "The paramount soldiers landed behind enemy lines.", "Quality was paramount, so they cut every corner.", "The flag was planted on the paramount of the hill."]
+  },
+  "contingent": {
+    "examples": ["The job offer is contingent on a background check.", "A large contingent of fans traveled to the away game."],
+    "quizCorrect": ["The sale is contingent on the buyer getting a loan.", "Our picnic is contingent on the weather.", "A contingent of police officers stood by the gate."],
+    "quizWrong": ["Africa is the second-largest contingent on Earth.", "The deal is contingent, so it will go ahead no matter what.", "He traveled across the contingent by train.", "Europe is a small but crowded contingent.", "The offer is contingent and requires nothing from you.", "They sailed to a new contingent across the ocean.", "Antarctica is the coldest contingent.", "The bonus is contingent, guaranteed no matter how you perform.", "Explorers mapped the entire contingent in a century."]
+  },
+  "efficacy": {
+    "examples": ["Trials are testing the efficacy of the new vaccine.", "Critics question the efficacy of the program."],
+    "quizCorrect": ["There is little evidence for the efficacy of the supplement.", "The study measured the efficacy of different teaching methods.", "Doubts about the policy's efficacy grew after crime rose."],
+    "quizWrong": ["The efficacy of the movie star was carved in wax.", "Protesters burned an efficacy of the dictator.", "Her efficacy speech was full of emotion.", "The medicine's efficacy was proven when it failed every test.", "The statue is an efficacy of the founder.", "The efficacy of the old king hangs in the hall.", "He spoke with great efficacy at the funeral.", "The drug's efficacy was zero, so doctors praised how well it worked.", "They hung an efficacy of the coach from the bridge."]
+  },
+  "imminent": {
+    "examples": ["Forecasters warned that a hurricane was imminent.", "The company denied that layoffs were imminent."],
+    "quizCorrect": ["With the deadline imminent, the team worked all night.", "Officials say an agreement is imminent.", "The building was evacuated because collapse seemed imminent."],
+    "quizWrong": ["She is an imminent surgeon known around the world.", "The storm is imminent, expected sometime next century.", "He is the most imminent historian of his generation.", "The imminent scientist won the Nobel Prize.", "The launch is imminent, set for ten years from now.", "An imminent professor gave the keynote speech.", "Her imminent career spanned five decades.", "The deadline is imminent, so we have plenty of time.", "He is an imminent figure in the art world."]
+  },
+  "susceptible": {
+    "examples": ["Older adults are more susceptible to the flu.", "The bridge is susceptible to damage from earthquakes."],
+    "quizCorrect": ["Young children are susceptible to advertising.", "The crop is highly susceptible to frost.", "He was susceptible to flattery and easily manipulated."],
+    "quizWrong": ["The detective was susceptible of the butler from the start.", "She is susceptible to the cold and never catches anything.", "The police consider him the main susceptible.", "The susceptible was arrested at the airport.", "He has a susceptible face, so people don't trust him.", "The vaccine left her susceptible, so she was fully protected.", "I'm susceptible he's lying about where he was.", "The susceptible ran from the scene of the crime.", "Being immune, she was highly susceptible to the disease."]
+  },
+  "tangible": {
+    "examples": ["The plan has produced tangible results for local families.", "Investors want tangible evidence of progress."],
+    "quizCorrect": ["Gold is a tangible asset you can hold in your hand.", "The tension in the room was almost tangible.", "So far, the reforms have brought few tangible benefits."],
+    "quizWrong": ["The cat's fur was badly tangible after the storm.", "Her hair was so tangible that the brush got stuck.", "The benefits were tangible, impossible to see or measure.", "The fishing lines got tangible in the boat.", "He gave a tangible answer that went off on a tangent.", "The tangible results existed only in theory.", "Brush out the tangibles before bed.", "The wires behind the TV are a tangible mess of knots.", "Hope is a tangible thing you can touch and weigh."]
+  },
+  "formidable": {
+    "examples": ["The champion faces a formidable opponent in the final.", "Raising the money is a formidable challenge."],
+    "quizCorrect": ["She built a formidable reputation as a trial lawyer.", "The mountain pass presented formidable obstacles.", "The new rival is a formidable competitor."],
+    "quizWrong": ["The formidable kitten was too weak to stand.", "He wore a formidable suit to the wedding.", "The task was formidable, as easy as tying a shoe.", "The formidable dinner required a jacket and tie.", "The weak, formidable opponent lost in the first round.", "She sent a formidable invitation printed on cream paper.", "The formidable puzzle took only a minute to solve.", "Please wear formidable attire to the gala.", "The tiny, formidable puppy couldn't scare a fly."]
+  },
+  "undermine": {
+    "examples": ["The scandal could undermine trust in the government.", "Constant criticism can undermine a child's confidence."],
+    "quizCorrect": ["Leaks to the press undermined the negotiations.", "High inflation undermines the value of savings.", "He accused his deputy of trying to undermine him."],
+    "quizWrong": ["The praise undermined her confidence, making her feel unstoppable.", "Miners undermined the gold and carried it to the surface.", "The coach undermined the team's success by leading them to victory.", "The support from her friends undermined her, lifting her spirits.", "Workers undermined coal from the mountain for decades.", "The new evidence undermined his case, making it airtight.", "She undermined the importance of the meeting by calling it vital.", "The loyal deputy undermined his boss by backing him at every turn.", "Strong sales undermined the company's growth."]
+  },
+  "plausible": {
+    "examples": ["Her excuse sounded plausible, so the teacher accepted it.", "Scientists offered a plausible explanation for the strange lights."],
+    "quizCorrect": ["It's plausible that the meeting was simply forgotten.", "The detective found the suspect's alibi plausible.", "None of the theories seemed plausible."],
+    "quizWrong": ["The crowd gave a plausible round of applause.", "His story was plausible, so obviously false that no one believed it.", "The performance deserved a plausible cheer.", "The audience plausibly clapped at the end of the show.", "The plausible fans gave the band a standing ovation.", "Her plausible excuse was impossible to believe.", "We gave the speaker a warm and plausible welcome.", "The theory was plausible and plainly absurd.", "The plausible lid sealed the jar tight."]
+  },
+  "paradox": {
+    "examples": ["It's a paradox that the more choices we have, the less happy we feel.", "The movie plays with the paradox of time travel."],
+    "quizCorrect": ["The paradox of thrift is that saving can hurt the economy.", "She is a paradox: shy in person but bold on stage.", "There's a paradox in fighting for peace."],
+    "quizWrong": ["The ducks waddled through the paradox by the barn.", "The two doctors were a paradox who shared an office.", "The horses grazed in the paradox all afternoon.", "The obvious, simple fact was a real paradox.", "Two docs together make a paradox.", "Let the sheep out of the paradox.", "The farmer fenced in a large paradox for the cows.", "It's no paradox at all; it's a complete contradiction.", "The ponies ran laps around the paradox."]
+  },
+  "prolific": {
+    "examples": ["She is a prolific author with over fifty novels.", "The striker has been prolific this season, scoring in every game."],
+    "quizCorrect": ["Picasso was remarkably prolific, producing thousands of works.", "The prolific inventor held over a hundred patents.", "Rabbits are prolific breeders."],
+    "quizWrong": ["The prolific writer published just one short story in his life.", "Her prolific of the suspect matched the evidence.", "He has a strong prolific on social media.", "The prolific painter finished a single canvas in forty years.", "The police built a prolific of the killer.", "The prolific songwriter released nothing for decades.", "His prolific picture shows him from the side.", "She updated her prolific on the dating app.", "The prolific scorer hasn't scored a goal all year."]
+  },
+  "redundant": {
+    "examples": ["The editor cut redundant words from the article.", "Thousands of workers were made redundant when the plant closed."],
+    "quizCorrect": ["Saying 'free gift' is redundant; all gifts are free.", "The new system made several jobs redundant.", "Engineers built redundant power lines in case one failed."],
+    "quizWrong": ["The redundant smell of garbage filled the alley.", "His report was redundant, with every word essential.", "The redundant odor from the dumpster made us gag.", "The only copy, the redundant one, was lost forever.", "The meat had gone redundant in the heat.", "Each sentence was redundant and said something new.", "The fridge smelled redundant after the power outage.", "The single backup was redundant, so there was no backup.", "The rotting fish gave off a redundant stench."]
+  },
+  "wary": {
+    "examples": ["Investors are wary of buying stocks before the election.", "The dog was wary of strangers."],
+    "quizCorrect": ["She was wary of signing anything without a lawyer.", "Be wary of emails asking for your password.", "After the scandal, voters grew wary of big promises."],
+    "quizWrong": ["After the long hike, my legs felt wary.", "He was wary of the stranger and trusted him completely.", "The wary traveler fell asleep the moment she sat down.", "She was so wary that she walked straight into the trap.", "The wary workers dragged themselves home after the night shift.", "His wary eyes kept closing during the movie.", "Fully trusting, she was wary of no one and believed everything.", "I'm too wary to finish the race; I need to rest.", "The wary, exhausted runner collapsed at the finish line."]
+  }
+}

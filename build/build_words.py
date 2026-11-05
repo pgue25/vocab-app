@@ -149,7 +149,7 @@ def fetch_definitions(words):
     return cache
 
 
-def select_words(per_level):
+def select_words(per_level, prefer=frozenset()):
     raw = [l.strip().lower() for l in (HERE / "candidates.txt").read_text().splitlines()]
     words = sorted({w for w in raw if w and not w.startswith("#") and w.isalpha()})
     scored = [(w, zipf_frequency(w, "en")) for w in words]
@@ -163,18 +163,28 @@ def select_words(per_level):
     for i, (w, z) in enumerate(kept):
         levels.setdefault(min(i // size + 1, LEVELS), []).append((w, z))
     if per_level:
+        # Keep words that already have sentences, then fill evenly from the rest of the level.
         for lvl, items in levels.items():
-            step = len(items) / per_level
-            levels[lvl] = [items[int(i * step)] for i in range(min(per_level, len(items)))]
+            have = [x for x in items if x[0] in prefer][:per_level]
+            rest = [x for x in items if x[0] not in prefer]
+            need = min(per_level - len(have), len(rest))
+            step = len(rest) / need if need else 0
+            fill = [rest[int(i * step)] for i in range(need)]
+            levels[lvl] = sorted(have + fill, key=lambda x: -x[1])
     return [(w, z, lvl) for lvl, items in sorted(levels.items()) for w, z in items]
 
 
-def build(per_level):
-    selected = select_words(per_level)
-    defs = fetch_definitions([w for w, _, _ in selected])
+def load_sentences():
     sentences = {}
     for f in sorted(SENTENCES_DIR.glob("*.json")):
         sentences.update(json.loads(f.read_text()))
+    return sentences
+
+
+def build(per_level):
+    sentences = load_sentences()
+    selected = select_words(per_level, prefer=set(sentences))
+    defs = fetch_definitions([w for w, _, _ in selected])
     overrides = load_json(OVERRIDES, {})
     out, missing = [], []
     for w, z, lvl in selected:

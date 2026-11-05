@@ -1,0 +1,310 @@
+{
+  "indolent": {
+    "examples": [
+      "The indolent cat slept in the sun all afternoon.",
+      "He was too indolent to look for a job."
+    ],
+    "quizCorrect": [
+      "The indolent heir never worked a day in his life.",
+      "Summer made the whole office feel indolent.",
+      "Critics called the team's play indolent and careless."
+    ],
+    "quizWrong": [
+      "The indolent worker put in sixteen-hour days.",
+      "The indolent behavior of the gang was violent and brutal.",
+      "Her indolent energy kept her busy from dawn to dusk.",
+      "The indolent toddler threw a violent tantrum.",
+      "He is indolent about deadlines and never misses one.",
+      "The indolent athlete trained twice a day.",
+      "His indolent remark was rude and insolent.",
+      "The indolent ant worked all summer.",
+      "She was indolent and finished every chore early."
+    ]
+  },
+  "renege": {
+    "examples": [
+      "The company reneged on its promise to raise wages.",
+      "Don't renege on a deal once you've shaken hands."
+    ],
+    "quizCorrect": [
+      "The country reneged on the treaty.",
+      "He reneged on his offer to pay for dinner.",
+      "Lenders accused the city of reneging on its debts."
+    ],
+    "quizWrong": [
+      "She reneged on her promise by keeping it perfectly.",
+      "The king reneged for forty years.",
+      "He reneged on the deal and delivered everything as agreed.",
+      "The queen reneged over a vast empire.",
+      "They reneged on the bet and paid in full.",
+      "The dynasty reneged for three centuries.",
+      "She reneged by honoring every word.",
+      "The emperor reneged with an iron fist.",
+      "He reneged the old car into a new one."
+    ]
+  },
+  "repercussion": {
+    "examples": [
+      "The decision had serious repercussions for the economy.",
+      "He broke the rules without thinking about the repercussions."
+    ],
+    "quizCorrect": [
+      "The scandal had repercussions across the industry.",
+      "The repercussions of the war lasted decades.",
+      "There will be repercussions if you lie to the court."
+    ],
+    "quizWrong": [
+      "The drummer played the repercussion section.",
+      "The decision had no repercussions, and everything changed.",
+      "He plays repercussion in the school band.",
+      "The repercussion instruments include drums and cymbals.",
+      "The repercussions came before the event that caused them.",
+      "The orchestra's repercussion was too loud.",
+      "She studies repercussion at the music school.",
+      "The repercussions were zero, causing huge consequences.",
+      "Bring your repercussion sticks to practice."
+    ]
+  },
+  "ignoble": {
+    "examples": [
+      "He made an ignoble exit, sneaking out the back door.",
+      "The team suffered an ignoble defeat."
+    ],
+    "quizCorrect": [
+      "Betraying a friend for money is ignoble.",
+      "The war ended on an ignoble note.",
+      "Critics said the deal had ignoble motives."
+    ],
+    "quizWrong": [
+      "The ignoble knight was famous for his honor.",
+      "The ignoble prize honored her life's work.",
+      "His ignoble sacrifice saved a hundred lives.",
+      "Ignore him; he's being ignoble on purpose by not listening.",
+      "The ignoble gases include neon and argon.",
+      "Her ignoble courage inspired the nation.",
+      "He won the ignoble prize for peace.",
+      "The ignoble lord was praised for his generosity and virtue.",
+      "Helium is an ignoble gas."
+    ]
+  },
+  "tautology": {
+    "examples": [
+      "'Free gift' is a tautology, since all gifts are free.",
+      "His argument was a tautology: it's true because it's true."
+    ],
+    "quizCorrect": [
+      "'A widow whose husband died' is a tautology.",
+      "The editor cut every tautology from the text.",
+      "The slogan 'it is what it is' is a tautology."
+    ],
+    "quizWrong": [
+      "The tautology of the rope kept the tent upright.",
+      "The tautology on the tightrope kept it from sagging.",
+      "Pull the line to tautology so it doesn't sag.",
+      "The tautology between the two countries led to war.",
+      "Her tautology muscles were tense after the workout.",
+      "She tied the knot with real tautology.",
+      "Keep the string at tautology.",
+      "The tautology in the room made everyone nervous.",
+      "The sail had perfect tautology in the wind."
+    ]
+  },
+  "fatuous": {
+    "examples": [
+      "He made a fatuous remark about the weather.",
+      "Critics called the plan fatuous."
+    ],
+    "quizCorrect": [
+      "The interviewer asked fatuous questions.",
+      "His fatuous grin annoyed everyone.",
+      "The film's fatuous dialogue drew laughs for the wrong reasons."
+    ],
+    "quizWrong": [
+      "The fatuous meal was full of grease and butter.",
+      "Her fatuous insight was brilliant and deep.",
+      "Cut the fatuous parts off the steak.",
+      "The fatuous cat ate too much.",
+      "The wise, fatuous professor won a Nobel.",
+      "Avoid fatuous foods like bacon.",
+      "The fatuous essay was thoughtful and wise.",
+      "The fatuous pig wallowed in the mud.",
+      "His fatuous observation was the smartest of the night."
+    ]
+  },
+  "quotidian": {
+    "examples": [
+      "The novel finds beauty in quotidian life.",
+      "She photographs quotidian objects like spoons and keys."
+    ],
+    "quizCorrect": [
+      "His quotidian routine included a walk and a coffee.",
+      "The museum shows quotidian items from ancient Rome.",
+      "Commuting is a quotidian chore for millions."
+    ],
+    "quizWrong": [
+      "The quotidian event happens once in a lifetime.",
+      "She read a famous quotidian from Shakespeare.",
+      "The rare, quotidian eclipse amazed everyone.",
+      "His quotidian was framed above the desk.",
+      "The quotidian comet returns every 76 years.",
+      "Write down your favorite quotidian.",
+      "The quotidian adventure was extraordinary and unique.",
+      "The quotidian at the start of the chapter is from Twain.",
+      "Their quotidian trip to space made history."
+    ]
+  },
+  "tractable": {
+    "examples": [
+      "The problem is more tractable than it looks.",
+      "The horse was calm and tractable."
+    ],
+    "quizCorrect": [
+      "Breaking the project into steps made it tractable.",
+      "The child was tractable and easy to teach.",
+      "Engineers found the issue surprisingly tractable."
+    ],
+    "quizWrong": [
+      "The farmer drove his tractable across the field.",
+      "The tractable mule refused to move an inch.",
+      "The tractable problem was impossible to solve.",
+      "Hitch the plow to the tractable.",
+      "The stubborn, tractable child wouldn't listen.",
+      "He bought a used tractable for the farm.",
+      "The tractable issue defeated every expert.",
+      "The tractable got stuck in the mud.",
+      "The tractable, defiant horse threw every rider."
+    ]
+  },
+  "reprobate": {
+    "examples": [
+      "The old reprobate drank and gambled away his fortune.",
+      "The novel's hero is a charming reprobate."
+    ],
+    "quizCorrect": [
+      "His family considered him a reprobate.",
+      "The reprobate was banned from the casino.",
+      "She fell in love with a lovable reprobate."
+    ],
+    "quizWrong": [
+      "The reprobate was a saint who never sinned.",
+      "The judge gave him reprobate instead of jail.",
+      "The reprobate's virtuous life inspired the town.",
+      "He's on reprobate for two years.",
+      "The pious reprobate prayed and fasted daily.",
+      "Violating reprobate sent him back to prison.",
+      "The reprobate was famous for his honesty and goodness.",
+      "Her reprobate officer visits weekly.",
+      "The reprobate monk lived a pure life."
+    ]
+  },
+  "churlish": {
+    "examples": [
+      "It would be churlish to refuse their invitation.",
+      "The churlish clerk refused to help us."
+    ],
+    "quizCorrect": [
+      "He gave a churlish reply to a kind question.",
+      "It seems churlish to complain about a free meal.",
+      "The churlish neighbor never returned a wave."
+    ],
+    "quizWrong": [
+      "The churlish host greeted us with warmth and kindness.",
+      "The churlish bells rang on Sunday.",
+      "Her churlish manners charmed everyone.",
+      "The churlish choir sang hymns.",
+      "His churlish generosity was admired.",
+      "The churlish steeple rose above the town.",
+      "The churlish, gracious waiter was a delight.",
+      "They attended the churlish service.",
+      "Her churlish thank-you note was heartfelt."
+    ]
+  },
+  "platitude": {
+    "examples": [
+      "The speech was full of empty platitudes.",
+      "'Everything happens for a reason' is a common platitude."
+    ],
+    "quizCorrect": [
+      "She offered platitudes instead of real help.",
+      "The politician responded with vague platitudes.",
+      "Grieving families are tired of platitudes."
+    ],
+    "quizWrong": [
+      "The plane flew at a platitude of 30,000 feet.",
+      "His platitude was a fresh, original insight.",
+      "The platitude of the city is high in the mountains.",
+      "The platitude served dinner on a large plate.",
+      "Climbers felt sick at high platitude.",
+      "Her platitude changed how we see the world.",
+      "The city's platitude is near the equator.",
+      "The platitude was a brilliant new idea.",
+      "The platitude of the peak is 8,000 meters."
+    ]
+  },
+  "stymie": {
+    "examples": [
+      "High costs stymied the project.",
+      "Investigators were stymied by a lack of evidence."
+    ],
+    "quizCorrect": [
+      "Bad weather stymied the rescue efforts.",
+      "Red tape stymied the company's plans.",
+      "The defense stymied the league's top scorer."
+    ],
+    "quizWrong": [
+      "The help of volunteers stymied the project to an early finish.",
+      "Wipe the stymie off the rocks.",
+      "The new funding stymied growth by accelerating it.",
+      "The pond was covered in green stymie.",
+      "The open road stymied our trip, getting us there early.",
+      "The snail left a trail of stymie.",
+      "Strong support stymied the bill to easy passage.",
+      "The stymie made the floor slippery.",
+      "His encouragement stymied her to success."
+    ]
+  },
+  "evanescent": {
+    "examples": [
+      "The beauty of the sunset was evanescent.",
+      "Fame on social media is often evanescent."
+    ],
+    "quizCorrect": [
+      "The evanescent glow of the fireflies faded quickly.",
+      "Her evanescent smile vanished in a second.",
+      "Snowflakes are evanescent works of art."
+    ],
+    "quizWrong": [
+      "The evanescent glow of the lamp lit the room all night.",
+      "The evanescent mountain has stood for millions of years.",
+      "The evanescent light was brilliant and lasting.",
+      "Their evanescent love lasted sixty years.",
+      "The pyramids are evanescent monuments.",
+      "The evanescent stain could never be removed.",
+      "Diamonds are evanescent and last forever.",
+      "Her evanescent fame endured for a century.",
+      "The evanescent scar stayed for life."
+    ]
+  },
+  "iconoclast": {
+    "examples": [
+      "The director is an iconoclast who breaks every rule of film.",
+      "As an iconoclast, she challenged the art world's elite."
+    ],
+    "quizCorrect": [
+      "The economist was an iconoclast who attacked popular theories.",
+      "The iconoclast mocked the city's most beloved traditions.",
+      "He built a career as a political iconoclast."
+    ],
+    "quizWrong": [
+      "The iconoclast followed every tradition faithfully.",
+      "The church displayed a beautiful iconoclast of a saint.",
+      "She clicked on the iconoclast to open the app.",
+      "The iconoclast defended the old ways at every turn.",
+      "The museum's iconoclast collection includes Russian paintings.",
+      "The iconoclast loyally upheld the establishment.",
+      "Drag the iconoclast to the trash.",
+      "The iconoclast agreed with every expert.",
+      "The golden iconoclast hung above the altar."
+    ]
+  }
+}

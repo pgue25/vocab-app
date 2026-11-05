@@ -1,0 +1,62 @@
+{
+  "maladroit": {
+    "examples": ["His maladroit handling of the crisis cost him his job.", "The maladroit waiter spilled soup on a guest."],
+    "quizCorrect": ["The company's maladroit apology made things worse.", "She was maladroit at small talk.", "The maladroit rollout confused customers."],
+    "quizWrong": ["The maladroit surgeon performed flawless operations.", "The maladroit air in the swamp spread disease.", "Her maladroit grace on the dance floor impressed everyone.", "The maladroit patient had a fever.", "The skilled, maladroit pianist played perfectly.", "Malaria is a maladroit disease.", "His maladroit diplomacy smoothed over every conflict.", "The maladroit mosquito carried the virus.", "The maladroit juggler never dropped a ball."]
+  },
+  "debilitate": {
+    "examples": ["The illness debilitated him for months.", "Years of war debilitated the economy."],
+    "quizCorrect": ["Chronic pain can debilitate even young people.", "The strike debilitated the city's transit system.", "The heat debilitated the marathon runners."],
+    "quizWrong": ["The vitamins debilitated her, making her strong and healthy.", "The students debilitated the motion in class.", "The rest debilitated him back to full strength.", "The two teams debilitated the topic for an hour.", "Exercise debilitated his heart, making it stronger.", "Let's debilitate whether pizza is a vegetable.", "The vacation debilitated her into feeling refreshed.", "The senators debilitated the bill on the floor.", "Good sleep debilitates the body and restores energy."]
+  },
+  "perspicacious": {
+    "examples": ["The perspicacious editor spotted the flaw in the story.", "Her perspicacious analysis predicted the crash."],
+    "quizCorrect": ["A perspicacious investor bought before the boom.", "The detective's perspicacious questions exposed the lie.", "He is a perspicacious judge of character."],
+    "quizWrong": ["The perspicacious detective missed every obvious clue.", "After the run, he was perspicacious and needed a shower.", "Her perspicacious foolishness fooled no one.", "The perspicacious shirt was soaked with sweat.", "The perspicacious investor fell for every scam.", "The gym was hot and everyone was perspicacious.", "His perspicacious blunders were famous.", "The perspicacious athlete wiped his forehead.", "The perspicacious critic never understood anything."]
+  },
+  "grandiloquent": {
+    "examples": ["The mayor gave a grandiloquent speech about the new parking lot.", "His grandiloquent letters were full of fancy words."],
+    "quizCorrect": ["The novel's grandiloquent style wore on readers.", "Critics mocked the CEO's grandiloquent promises.", "He spoke in a grandiloquent tone about his lunch."],
+    "quizWrong": ["Her grandiloquent note simply said 'thanks.'", "The grandiloquent grandmother baked us cookies.", "His plain, grandiloquent words were simple and direct.", "The grandiloquent canyon is a mile deep.", "The grandiloquent speaker used short, simple sentences.", "We visited my grandiloquent grandparents.", "Her modest, grandiloquent speech was three words long.", "The grandiloquent piano filled the room.", "His grandiloquent shrug said nothing."]
+  },
+  "exculpate": {
+    "examples": ["New DNA evidence exculpated the prisoner.", "The report exculpated the pilot of any blame."],
+    "quizCorrect": ["The video exculpated the suspect.", "Her testimony helped exculpate her brother.", "Nothing in the files exculpates the company."],
+    "quizWrong": ["The new evidence exculpated him and proved his guilt.", "The surgeon exculpated the tumor.", "The court exculpated him and sentenced him to life.", "The artist exculpated a statue from marble.", "His confession exculpated him of the crime by confirming it.", "Workers exculpated the ruins.", "The DNA exculpated the defendant and sealed his conviction.", "She exculpated a figure from wood.", "The crew exculpated the site for fossils."]
+  },
+  "cupidity": {
+    "examples": ["The bankers' cupidity led to the crash.", "The novel is a tale of cupidity and betrayal."],
+    "quizCorrect": ["The scheme preyed on investors' cupidity.", "His cupidity knew no limits.", "Critics blamed corporate cupidity for the price hikes."],
+    "quizWrong": ["The cupidity of the couple was obvious in their love letters.", "Her cupidity led her to give away her fortune.", "Cupidity struck them on Valentine's Day.", "His cupidity was pure romance.", "The generous saint was known for her cupidity.", "Cupidity shot his arrow at the lovers.", "The cupidity of the poem was sweet and loving.", "His selfless cupidity helped the poor.", "Their cupidity was a lovely courtship."]
+  },
+  "meretricious": {
+    "examples": ["The casino's meretricious glitter hid its shabby rooms.", "Critics found the film's style meretricious."],
+    "quizCorrect": ["The ad campaign was flashy and meretricious.", "Behind the meretricious charm was a con artist.", "The novel's meretricious plot twists annoyed reviewers."],
+    "quizWrong": ["The meretricious award recognized her real achievements.", "His meretricious service earned him a medal.", "The meretricious scholar's work was deep and solid.", "She was promoted for her meretricious performance.", "The meretricious, genuine article was the real thing.", "The meretricious student earned a scholarship.", "His meretricious record of service was spotless.", "The meretricious work was substantial and honest.", "She earned a meretricious award for bravery."]
+  },
+  "gainsay": {
+    "examples": ["No one can gainsay her talent.", "The evidence is too strong to gainsay."],
+    "quizCorrect": ["Few would gainsay the importance of clean water.", "He didn't dare gainsay his boss in public.", "The results are hard to gainsay."],
+    "quizWrong": ["Everyone gainsaid her talent by agreeing it was remarkable.", "The investor gainsaid a big profit.", "She gainsaid the point by confirming it.", "He gainsaid ten pounds over the holidays.", "No one gainsaid the claim, so everyone disputed it.", "The stock gainsaid five percent.", "Her supporters gainsaid her by backing her fully.", "We gainsaid a lot of experience on the trip.", "He gainsaid weight after the injury."]
+  },
+  "sententious": {
+    "examples": ["The sententious lecture on manners bored the kids.", "His sententious tone made every remark sound like a sermon."],
+    "quizCorrect": ["The film ends with a sententious speech about family.", "Her sententious advice annoyed her friends.", "Critics found the novel sententious and preachy."],
+    "quizWrong": ["The sententious robot could think and feel.", "His sententious jokes were silly and lighthearted.", "Scientists asked whether the AI was sententious.", "The sententious wave hello was casual and fun.", "The sententious creature felt pain.", "Her sententious, playful banter had no moral.", "Dogs are sententious beings with feelings.", "The sententious cartoon was pure silliness.", "Is the octopus a sententious animal?"]
+  },
+  "penurious": {
+    "examples": ["The penurious student lived on noodles.", "He was penurious despite his wealth, refusing to heat the house."],
+    "quizCorrect": ["The family was penurious after the factory closed.", "Her penurious childhood shaped her careful habits.", "The penurious landlord refused to fix anything."],
+    "quizWrong": ["The penurious billionaire threw lavish parties.", "The penurious pen wrote smoothly.", "His penurious generosity made him beloved.", "The penurious writer used a fountain pen.", "The wealthy, penurious family owned three homes.", "She signed with a penurious pen.", "His penurious spending was extravagant.", "The penurious ink was blue.", "The penurious sultan wore gold and jewels."]
+  },
+  "vicissitude": {
+    "examples": ["The book follows the vicissitudes of a family over a century.", "He weathered the vicissitudes of the market."],
+    "quizCorrect": ["Farmers are at the mercy of the weather's vicissitudes.", "Their friendship survived many vicissitudes.", "The vicissitudes of fame took a toll on her."],
+    "quizWrong": ["Life's vicissitudes kept everything exactly the same.", "The vicissitude of his grip was strong.", "The steady, unchanging vicissitude never varied.", "The vicissitude of the soup made it thick.", "His life had no change, a constant vicissitude of sameness.", "The vicissitude of honey makes it slow to pour.", "The vicissitude of the boring routine never changed.", "Motor oil's vicissitude changes with temperature.", "Her stable vicissitudes were perfectly predictable."]
+  },
+  "obloquy": {
+    "examples": ["He endured years of public obloquy after the scandal.", "The policy brought obloquy on the government."],
+    "quizCorrect": ["She faced obloquy for her unpopular views.", "The general's retreat earned him obloquy.", "The company suffered obloquy after the spill."],
+    "quizWrong": ["His obloquy was glowing praise from every critic.", "The actor delivered a long obloquy on stage.", "The hero received obloquy and a parade in his honor.", "Hamlet's famous obloquy begins 'To be or not to be.'", "Her obloquy was the world's warmest admiration.", "The obloquy was a speech to himself.", "The town's obloquy for the hero was a statue.", "The play's obloquy lasted ten minutes.", "Fans showered him with obloquy and adoration."]
+  }
+}

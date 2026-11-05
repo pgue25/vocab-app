@@ -1,0 +1,310 @@
+{
+  "vapid": {
+    "examples": [
+      "The show was full of vapid celebrity chatter.",
+      "He gave a vapid speech with no real ideas."
+    ],
+    "quizCorrect": [
+      "Critics dismissed the novel as vapid.",
+      "The ad's vapid slogan was quickly forgotten.",
+      "She grew bored of the vapid conversation."
+    ],
+    "quizWrong": [
+      "The vapid debate was packed with brilliant ideas.",
+      "The runner made vapid progress toward the finish.",
+      "Her vapid insight changed how we think about the problem.",
+      "The vapid river carried the boat downstream fast.",
+      "His vapid essay won a prize for its depth.",
+      "The fire spread at a vapid pace.",
+      "The vapid, thought-provoking film stayed with me for weeks.",
+      "Vapid changes in technology surprised everyone.",
+      "The vapid lecture was dense with fascinating ideas."
+    ]
+  },
+  "encroach": {
+    "examples": [
+      "New housing is encroaching on the forest.",
+      "The boss felt the new hire was encroaching on his territory."
+    ],
+    "quizCorrect": [
+      "Rising seas are encroaching on coastal towns.",
+      "The law encroaches on privacy rights.",
+      "Weeds encroached on the garden."
+    ],
+    "quizWrong": [
+      "The coach encroached the players from the sideline.",
+      "The desert encroached and moved farther away.",
+      "A cockroach encroached across the kitchen floor.",
+      "The bus encroached the passengers to the station.",
+      "He encroached his team to victory.",
+      "The fence encroached, staying well inside our yard.",
+      "The singer encroached the choir.",
+      "The army encroached by retreating miles away.",
+      "She encroached her son in math."
+    ]
+  },
+  "contrite": {
+    "examples": [
+      "He seemed genuinely contrite after the accident.",
+      "The company issued a contrite apology."
+    ],
+    "quizCorrect": [
+      "The contrite student promised never to cheat again.",
+      "She was contrite and offered to pay for the damage.",
+      "His contrite letter moved the judge."
+    ],
+    "quizWrong": [
+      "The contrite criminal laughed and showed no regret.",
+      "The plot was contrite and predictable.",
+      "He was contrite and proud of what he had done.",
+      "The movie's contrite ending was full of clichés.",
+      "Her contrite apology was a smug grin.",
+      "The contrite dialogue felt forced and fake.",
+      "The unrepentant, contrite thief bragged about it.",
+      "That contrite storyline has been done a hundred times.",
+      "He was contrite, refusing to apologize at all."
+    ]
+  },
+  "demagogue": {
+    "examples": [
+      "The demagogue stirred up anger against immigrants.",
+      "History warns about demagogues who exploit fear."
+    ],
+    "quizCorrect": [
+      "Critics called the candidate a dangerous demagogue.",
+      "The demagogue promised easy answers to hard problems.",
+      "Demagogues thrive in times of crisis."
+    ],
+    "quizWrong": [
+      "The demagogue taught a calm, balanced class on statistics.",
+      "The census measured the city's demagogue.",
+      "The demagogue of the region is mostly young families.",
+      "The demagogue built a synagogue downtown.",
+      "Studies of the demagogue show an aging population.",
+      "The demagogue gave a sober, fact-based lecture.",
+      "Our school's demagogue is very diverse.",
+      "The quiet demagogue avoided public speaking and politics.",
+      "The demagogue data came from the census."
+    ]
+  },
+  "relegate": {
+    "examples": [
+      "The team was relegated to a lower division.",
+      "Old furniture was relegated to the basement."
+    ],
+    "quizCorrect": [
+      "The scandal relegated him to the back bench.",
+      "Women were once relegated to minor roles in the company.",
+      "The story was relegated to page twelve."
+    ],
+    "quizWrong": [
+      "Each state sent a relegate to the convention.",
+      "The champion was relegated to the top of the league.",
+      "She will relegate tasks to her assistant.",
+      "The relegates voted on the new rules.",
+      "He was relegated to CEO, the highest post.",
+      "Learn to relegate if you want to grow your business.",
+      "The story was relegated to the front page headline.",
+      "The convention welcomed relegates from fifty states.",
+      "Promoted and relegated, he rose to the top."
+    ]
+  },
+  "impudent": {
+    "examples": [
+      "The impudent boy stuck his tongue out at the teacher.",
+      "She gave an impudent answer to the officer."
+    ],
+    "quizCorrect": [
+      "His impudent remarks got him thrown out of class.",
+      "The impudent reporter asked the king about his debts.",
+      "It was impudent to question the judge's competence."
+    ],
+    "quizWrong": [
+      "It's impudent to save money for emergencies.",
+      "The impudent investor carefully planned for retirement.",
+      "The impudent child bowed respectfully.",
+      "Buying a house you can't afford is impudent and wise.",
+      "Her impudent politeness charmed the queen.",
+      "It would be impudent to wear a seatbelt.",
+      "The impudent student always said 'yes, sir.'",
+      "Wearing a helmet is impudent; it's the safe thing to do.",
+      "His impudent respect for elders was admired."
+    ]
+  },
+  "effusive": {
+    "examples": [
+      "She was effusive in her praise of the new chef.",
+      "He gave an effusive welcome to every guest."
+    ],
+    "quizCorrect": [
+      "The reviews were effusive.",
+      "Her effusive thanks embarrassed him.",
+      "The coach was unusually effusive after the win."
+    ],
+    "quizWrong": [
+      "The effusive critic gave a single grudging nod.",
+      "The light was effusive and soft through the curtains.",
+      "Her effusive praise was one curt word.",
+      "The lamp gives off effusive light.",
+      "His effusive thanks was a cold 'fine.'",
+      "The effusive cloud cover blocked the sun.",
+      "She was effusive and barely spoke.",
+      "Effusive lighting softens the room.",
+      "The effusive host ignored us all night."
+    ]
+  },
+  "servile": {
+    "examples": [
+      "The staff were almost servile toward the owner.",
+      "He hated the servile flattery of his aides."
+    ],
+    "quizCorrect": [
+      "The servile assistant agreed with everything the boss said.",
+      "Critics called the press coverage servile.",
+      "She refused to play a servile role."
+    ],
+    "quizWrong": [
+      "The proud, servile rebel bowed to no one.",
+      "The car needs a servile at the garage.",
+      "His servile defiance made the king furious.",
+      "We took the car in for its yearly servile.",
+      "The servile prince commanded the army.",
+      "The restaurant's servile was excellent.",
+      "Her servile independence impressed everyone.",
+      "The servile station is closed on Sundays.",
+      "The servile boss ordered everyone around."
+    ]
+  },
+  "berate": {
+    "examples": [
+      "The coach berated the players at halftime.",
+      "She berated herself for missing the deadline."
+    ],
+    "quizCorrect": [
+      "The customer berated the waiter over a small mistake.",
+      "Don't berate him; it was an honest error.",
+      "The senator berated the CEO during the hearing."
+    ],
+    "quizWrong": [
+      "The coach berated the team with praise after the win.",
+      "Please berate the movie on a scale of one to ten.",
+      "She berated her friend with a warm hug.",
+      "The critic berated the film four stars.",
+      "He berated his staff by thanking them for their great work.",
+      "How would you berate this restaurant?",
+      "The teacher berated the student with a gold star.",
+      "The app lets you berate drivers.",
+      "She berated the singer with applause."
+    ]
+  },
+  "verbose": {
+    "examples": [
+      "The verbose report could have been half as long.",
+      "He is verbose in meetings and rarely gets to the point."
+    ],
+    "quizCorrect": [
+      "Editors cut the verbose introduction.",
+      "Legal documents are often verbose.",
+      "Her verbose emails go on for pages."
+    ],
+    "quizWrong": [
+      "His verbose reply was a single word.",
+      "Her verbose answer was a simple 'yes.'",
+      "The verbose summary fit on a sticky note.",
+      "The verbose tweet was four words long.",
+      "She is verbose and rarely says anything.",
+      "His verbose postcard said only 'hi.'",
+      "His verbose answer was a nod.",
+      "The verbose message was three words long.",
+      "The verbose speaker sat silently all evening."
+    ]
+  },
+  "vilify": {
+    "examples": [
+      "The tabloids vilified the actress after the divorce.",
+      "The campaign tried to vilify immigrants."
+    ],
+    "quizCorrect": [
+      "He was vilified in the press for years.",
+      "It's easy to vilify people you've never met.",
+      "The documentary vilifies the company's founder."
+    ],
+    "quizWrong": [
+      "The town vilified its hero with a statue in his honor.",
+      "Please vilify your identity with a photo ID.",
+      "The fans vilified their idol with cheers.",
+      "The bank will vilify the transaction.",
+      "She vilified her friend with loving praise.",
+      "We need to vilify these facts before printing.",
+      "The press vilified the rescuer as a hero.",
+      "Click the link to vilify your email.",
+      "His speech vilified the soldiers, praising their courage."
+    ]
+  },
+  "recant": {
+    "examples": [
+      "The witness later recanted her testimony.",
+      "Galileo was forced to recant his views."
+    ],
+    "quizCorrect": [
+      "He refused to recant his statement.",
+      "Under pressure, the scientist recanted.",
+      "The suspect recanted his confession."
+    ],
+    "quizWrong": [
+      "She recanted the story of her trip in great detail.",
+      "He recanted his testimony by repeating it word for word.",
+      "Let me recant what happened last night.",
+      "The officials recanted the votes.",
+      "She recanted her beliefs and held them firmly forever.",
+      "The teacher recanted the poem from memory.",
+      "The witness recanted and stood by every word.",
+      "Grandpa recanted his war stories.",
+      "They recanted the ballots three times."
+    ]
+  },
+  "ennui": {
+    "examples": [
+      "A sense of ennui settled over the long summer.",
+      "The novel captures the ennui of suburban life."
+    ],
+    "quizCorrect": [
+      "Retirement brought him unexpected ennui.",
+      "She fought the ennui of the long flight with books.",
+      "The ennui of the office made the days drag."
+    ],
+    "quizWrong": [
+      "The thrilling ride filled us with ennui and excitement.",
+      "The ennui is in the cupboard; pour me some cereal.",
+      "Her ennui showed in her wild enthusiasm.",
+      "The ennui attacked the cattle.",
+      "The party's ennui kept everyone dancing with joy.",
+      "The ennui grazed on the plains.",
+      "His ennui made him jump up eager to start.",
+      "The ennui is a type of antelope.",
+      "The exciting news filled the town with ennui."
+    ]
+  },
+  "ineffable": {
+    "examples": [
+      "She felt an ineffable joy holding her newborn.",
+      "The view had an ineffable beauty."
+    ],
+    "quizCorrect": [
+      "The music had an ineffable sadness.",
+      "Words fail to capture the ineffable mystery of the place.",
+      "There was an ineffable quality to her voice."
+    ],
+    "quizWrong": [
+      "The ineffable manager couldn't do anything right.",
+      "His ineffable joy was easy to describe in a word.",
+      "The ineffable medicine had no effect.",
+      "The ineffable worker was fired for incompetence.",
+      "She described the ineffable feeling in exact detail.",
+      "The ineffable plan failed completely.",
+      "The ineffable machine didn't work.",
+      "His ineffable sorrow was simple to put into words.",
+      "The ineffable leader got nothing done."
+    ]
+  }
+}

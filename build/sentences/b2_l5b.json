@@ -1,0 +1,72 @@
+{
+  "sophistry": {
+    "examples": ["The lawyer's argument was clever sophistry.", "Critics dismissed the report as sophistry dressed up as science."],
+    "quizCorrect": ["His defense relied on sophistry rather than facts.", "Students learned to spot sophistry in political ads.", "The essay is elegant, but it's sophistry."],
+    "quizWrong": ["The sophistry of her apartment impressed the guests.", "His sophistry was honest, sound reasoning.", "The wine's sophistry made it expensive.", "Sophistry students take introductory classes.", "The sophistry of the dinner party was elegant.", "Her sophistry year in college was her best.", "The airtight proof was pure sophistry.", "He admired the sophistry of the hotel's decor.", "The sophistry class went on a field trip."]
+  },
+  "pugnacious": {
+    "examples": ["The pugnacious senator picked fights with reporters.", "The bulldog has a pugnacious face."],
+    "quizCorrect": ["His pugnacious style made him a feared debater.", "The pugnacious manager argued with every umpire.", "She gave a pugnacious defense of her policy."],
+    "quizWrong": ["The pugnacious pug slept peacefully in its bed.", "The gentle, pugnacious diplomat avoided every conflict.", "The pugnacious smell of the cheese filled the room.", "Her pugnacious kindness calmed everyone down.", "The pugnacious odor came from the trash.", "He was pugnacious and backed down from every argument.", "The pugnacious peacemaker ended the feud.", "The fridge has a pugnacious stink.", "The meek, pugnacious child never argued."]
+  },
+  "garrulous": {
+    "examples": ["The garrulous cab driver talked the whole ride.", "She became garrulous after a glass of wine."],
+    "quizCorrect": ["The garrulous guest told stories until midnight.", "His garrulous emails could be cut in half.", "Our garrulous neighbor knows everyone's business."],
+    "quizWrong": ["The garrulous monk hadn't spoken in years.", "The garrulous lion roared at the crowd.", "She is garrulous and rarely says a word.", "The garrulous gorilla beat its chest.", "His garrulous silence lasted the whole dinner.", "The garrulous tiger stalked its prey.", "The shy, garrulous boy answered with nods.", "A garrulous bear came out of the woods.", "The garrulous mime made no sound."]
+  },
+  "impugn": {
+    "examples": ["The lawyer tried to impugn the witness's honesty.", "No one impugned her motives."],
+    "quizCorrect": ["The ad impugned his record as governor.", "Critics impugned the study's methods.", "He resented having his integrity impugned."],
+    "quizWrong": ["The lawyer impugned the witness's honesty by praising it.", "The knight impugned the dragon with his sword.", "She impugned his character with warm compliments.", "The soldier impugned the enemy with a spear.", "His supporters impugned his record by defending it.", "The bull impugned the matador.", "The review impugned the film as flawless.", "He impugned the target with an arrow.", "Her friends impugned her honesty by vouching for it."]
+  },
+  "solipsism": {
+    "examples": ["The memoir drifts into solipsism, ignoring everyone else.", "Social media can encourage a kind of solipsism."],
+    "quizCorrect": ["Critics accused the author of solipsism.", "His solipsism made him blind to others' needs.", "The film's solipsism annoyed reviewers."],
+    "quizWrong": ["Her solipsism showed in her selfless care for others.", "The solipsism of the eclipse lasted four minutes.", "He practiced solipsism by thinking only of his neighbors.", "The solipsism made the room bright and warm.", "Solipsism is a type of sunscreen.", "Her solipsism led her to volunteer for every cause.", "The solipsism of summer is the longest day.", "His solipsism made him a devoted, attentive friend.", "Solar panels capture solipsism."]
+  },
+  "abrogate": {
+    "examples": ["The new government abrogated the treaty.", "Leaders cannot abrogate citizens' basic rights."],
+    "quizCorrect": ["The court ruled that the law abrogated free speech.", "The company abrogated the contract without notice.", "Critics feared the decree would abrogate the constitution."],
+    "quizWrong": ["The council abrogated the law by enacting it.", "He abrogated the money from the bank.", "The two nations abrogated the treaty by signing it.", "She abrogated her old coat to charity.", "The parliament abrogated the bill into law.", "He abrogated the rules by obeying them.", "The company abrogated its profits to shareholders.", "The judge abrogated the contract by enforcing it.", "They abrogated funds for the new school."]
+  },
+  "ribald": {
+    "examples": ["The comedian told ribald jokes that shocked the audience.", "The play is full of ribald humor."],
+    "quizCorrect": ["Sailors sang ribald songs on the voyage.", "Her ribald stories made the guests blush.", "The novel's ribald scenes were cut for TV."],
+    "quizWrong": ["The ribald hymn was sung at the church service.", "She wore a ribald in her hair.", "The ribald nursery rhyme was gentle and innocent.", "The gift was tied with a red ribald.", "The ribald sermon was pure and holy.", "He won a blue ribald at the fair.", "The ribald children's book had no adult content.", "Cut the ribald to open the store.", "Her ribald, prim manner was very proper."]
+  },
+  "inundate": {
+    "examples": ["The office was inundated with complaints.", "Floodwaters inundated the town."],
+    "quizCorrect": ["Fans inundated the singer with messages.", "The hospital was inundated with patients.", "Rain inundated the low-lying fields."],
+    "quizWrong": ["The office was inundated with a single email.", "The desert was inundated with sand and no water.", "She inundated the meeting for next Tuesday.", "Only one letter came, so we were inundated with mail.", "The drought inundated the farms with dryness.", "He inundated the date on his calendar.", "The store was inundated with zero customers.", "The fire inundated the forest with flames.", "Inundate the meeting time, please."]
+  },
+  "mendacious": {
+    "examples": ["The ad made mendacious claims about the product.", "He was exposed as a mendacious witness."],
+    "quizCorrect": ["The report was full of mendacious statements.", "Voters grew tired of the mendacious campaign.", "Her mendacious excuse fooled no one."],
+    "quizWrong": ["The mendacious witness told the whole truth.", "The mendacious mender fixed our clothes.", "His mendacious honesty was admired.", "She is mendacious with a needle and thread.", "The mendacious report was accurate in every detail.", "The mendacious tailor repaired the coat.", "The mendacious saint never lied.", "He is mendacious at mending fences.", "Her mendacious testimony was completely true."]
+  },
+  "perfidy": {
+    "examples": ["The general's perfidy cost the city its freedom.", "She was stunned by her partner's perfidy."],
+    "quizCorrect": ["History remembers him for his perfidy.", "The spy's perfidy was exposed after the war.", "The novel is a tale of love and perfidy."],
+    "quizWrong": ["His perfidy to his friends made him the most loyal man in town.", "The perfidy of the diamond was flawless.", "Her perfidy showed in her lifelong faithfulness.", "The perfidy of the performance was flawless.", "The loyal knight was famous for his perfidy.", "The perfidy of the score earned top marks.", "His perfidy kept every promise.", "The perfidy of the music was beautiful.", "Her perfidy to the cause never wavered."]
+  },
+  "stolid": {
+    "examples": ["The stolid farmer showed no emotion at the news.", "He remained stolid throughout the trial."],
+    "quizCorrect": ["The stolid guard didn't react to the tourists.", "Her stolid expression gave nothing away.", "The team's stolid defense frustrated the attackers."],
+    "quizWrong": ["The stolid fan screamed and wept at every play.", "The table is made of stolid oak.", "Her stolid excitement was obvious to everyone.", "The bike was stolid from the garage.", "The stolid child burst into tears constantly.", "The car was stolid last night.", "His stolid, emotional outburst shocked the room.", "The stolid gold bar was heavy.", "Her stolid laughter filled the hall."]
+  },
+  "panegyric": {
+    "examples": ["The biography reads like a panegyric to the senator.", "He delivered a panegyric at the hero's funeral."],
+    "quizCorrect": ["The review was a panegyric, not a critique.", "The poet wrote a panegyric praising the emperor.", "Her speech was a panegyric to the city's founders."],
+    "quizWrong": ["The panegyric attack ruined his reputation.", "The panegyric spread across the world.", "His panegyric was a harsh, scathing review.", "The panegyric caused global panic.", "She wrote a panegyric condemning the king.", "Doctors feared a new panegyric flu.", "The panegyric tore the novel to pieces.", "The panegyric shut down schools for a year.", "His panegyric insulted the guest of honor."]
+  },
+  "calumny": {
+    "examples": ["The senator was the victim of calumny.", "Calumny spread through the village."],
+    "quizCorrect": ["She sued the newspaper for calumny.", "The campaign descended into calumny.", "He refused to answer such calumny."],
+    "quizWrong": ["The calumny of the storm destroyed the town.", "Her calumny was glowing praise.", "The calumny struck the island at night.", "His calumny of his rival was a warm tribute.", "The calumny left thousands homeless.", "Their calumny of the hero was full of honor.", "The calumny was the worst disaster in history.", "Her calumny praised him to the skies.", "The calumny caused floods and fires."]
+  },
+  "effrontery": {
+    "examples": ["He had the effrontery to ask for a raise after missing a week.", "Her effrontery shocked the board."],
+    "quizCorrect": ["The thief had the effrontery to return the next day.", "They were stunned by his effrontery.", "She had the effrontery to blame the victim."],
+    "quizWrong": ["The effrontery of the building faced the street.", "His effrontery was humble and polite.", "We met at the effrontery of the store.", "She had the effrontery to quietly apologize and leave.", "The effrontery door was locked.", "Her shy effrontery made her blush.", "The effrontery of the house was painted blue.", "His timid effrontery never offended anyone.", "Park in the effrontery lot."]
+  }
+}

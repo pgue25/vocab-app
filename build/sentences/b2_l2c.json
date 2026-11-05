@@ -1,0 +1,72 @@
+{
+  "impunity": {
+    "examples": ["Gangs operated with impunity in the neglected neighborhood.", "Hackers broke into the system with apparent impunity."],
+    "quizCorrect": ["Powerful officials acted with impunity for decades.", "The new law ends the impunity polluters have enjoyed.", "He ignored the rules with impunity because no one enforced them."],
+    "quizWrong": ["He acted with impunity and was punished harshly for it.", "The impunity of the water made it unsafe to drink.", "She was jailed for her impunity.", "Filters remove impunities from the air.", "With impunity, he faced severe consequences.", "The gold was tested for impunity.", "His impunity earned him ten years in prison.", "The impunity of her thoughts shocked the priest.", "The lab found impunities in the sample."]
+  },
+  "condone": {
+    "examples": ["The school does not condone cheating of any kind.", "Silence can look like condoning bad behavior."],
+    "quizCorrect": ["The company said it would never condone harassment.", "I understand why he did it, but I can't condone it.", "Leaders who condone corruption encourage more of it."],
+    "quizWrong": ["She sent a card to condone the family after the funeral.", "The principal condoned cheating by expelling every student involved.", "We condone you on your loss.", "The judge condoned the crime by handing down the maximum sentence.", "Friends came to condone the widow.", "He condones violence and has spoken against it his whole life.", "Let me condone with you over this tragedy.", "The city condoned the old building and tore it down.", "The council condoned the bridge as unsafe."]
+  },
+  "embody": {
+    "examples": ["She embodies the spirit of the company.", "The statue embodies the city's hopes."],
+    "quizCorrect": ["The new car embodies years of research.", "To many fans, he embodied American basketball.", "The law embodies the principle of equal treatment."],
+    "quizWrong": ["The lazy worker embodied hard work.", "The undertaker embodied the corpse for the funeral.", "She embodied the letters in the envelope.", "His cowardice embodied true courage.", "The museum embodied the mummy in resin.", "Please embody your passport in the bag.", "The liar embodied honesty.", "They embodied the soldier with honors.", "The jeweler embodied the diamond in gold."]
+  },
+  "pretentious": {
+    "examples": ["The restaurant's menu was pretentious and overpriced.", "He found the art critic's language pretentious."],
+    "quizCorrect": ["The film is a pretentious mess of symbols.", "She's smart but never pretentious.", "He used pretentious words to sound important."],
+    "quizWrong": ["The pretentious child pretended to be a pirate.", "The humble, pretentious diner served simple burgers.", "She made a pretentious claim to the throne.", "His pretentious friend played make-believe with him.", "The pretentious farmer wore overalls and spoke plainly.", "The pretentious sports fan is a pretender to the title.", "Her modest, pretentious home had no decorations.", "The kids played a pretentious game of house.", "His plain, pretentious speech used simple words."]
+  },
+  "rectify": {
+    "examples": ["The company promised to rectify the billing error.", "It took years to rectify the mistake."],
+    "quizCorrect": ["The new law aims to rectify past injustices.", "She called customer service to rectify the problem.", "We need to rectify this before the launch."],
+    "quizWrong": ["The doctor rectified the patient's temperature with a thermometer.", "His apology rectified the situation by making it worse.", "Congress rectified the treaty with a vote.", "The fix rectified nothing and broke two more things.", "The Senate rectified the agreement on Tuesday.", "She rectified the error by repeating it.", "The countries rectified the peace deal.", "The repairman rectified the leak by drilling another hole.", "All members must rectify the new bylaws."]
+  },
+  "rudimentary": {
+    "examples": ["He has only a rudimentary knowledge of French.", "The early computers were rudimentary by today's standards."],
+    "quizCorrect": ["The cabin had rudimentary plumbing.", "Students learn rudimentary coding in the first week.", "The robot can perform rudimentary tasks."],
+    "quizWrong": ["Her rudimentary physics knowledge won her a Nobel Prize.", "The rudimentary waiter insulted every customer.", "The advanced, rudimentary software ran the space station.", "Don't be so rudimentary to your grandmother.", "His rudimentary manners offended the host.", "The expert's rudimentary skills were the best in the world.", "She was rudimentary and slammed the door in my face.", "The rudimentary design was the most sophisticated ever made.", "It's rudimentary to interrupt someone."]
+  },
+  "stoic": {
+    "examples": ["He remained stoic throughout the trial.", "She bore the pain with stoic calm."],
+    "quizCorrect": ["The stoic farmer never complained about the drought.", "Even after the loss, the coach was stoic.", "Her stoic expression gave nothing away."],
+    "quizWrong": ["The stoic fan screamed and sobbed at every play.", "The store was fully stoic with winter coats.", "He threw a stoic tantrum when he lost.", "The shelves were stoic with canned food.", "The stoic patient wailed over a paper cut.", "We stoic up on supplies before the storm.", "Her stoic outbursts happened every day.", "The kitchen was stoic with fresh bread.", "The stoic child cried at the slightest thing."]
+  },
+  "impede": {
+    "examples": ["Fallen trees impeded the rescue crews.", "High taxes can impede economic growth."],
+    "quizCorrect": ["Language barriers impeded the investigation.", "Nothing will impede the project now.", "Thick fog impeded visibility on the highway."],
+    "quizWrong": ["The tailwind impeded the runner, helping him finish faster.", "The protesters were impeded for blocking the road.", "The mayor was impeded by the city council.", "The new highway impeded traffic by making it flow smoothly.", "The governor was impeded and removed from office.", "Good weather impeded the climbers to the summit quickly.", "Congress voted to impede the president.", "The help of volunteers impeded the cleanup, speeding it up.", "He was impeded for corruption."]
+  },
+  "refute": {
+    "examples": ["The scientist refuted the claim with new data.", "The company issued a statement refuting the allegations."],
+    "quizCorrect": ["The evidence completely refuted his alibi.", "She refuted every point her opponent made.", "No one has been able to refute the theory."],
+    "quizWrong": ["She refuted the invitation and stayed home.", "The new data refuted the theory by confirming it.", "He refuted to answer the question.", "The restaurant refuted to serve us.", "The study refuted the claim, proving it true.", "The trash is collected and refuted weekly.", "He refuted the gift politely.", "The test results refuted the idea by supporting it.", "She refuted the meal because she wasn't hungry."]
+  },
+  "steadfast": {
+    "examples": ["She remained steadfast in her support for the cause.", "He was a steadfast friend through hard times."],
+    "quizCorrect": ["The general was steadfast under fire.", "The town's steadfast volunteers rebuilt the church.", "He was steadfast in his refusal to resign."],
+    "quizWrong": ["The steadfast runner sped quickly through the race.", "His steadfast loyalty switched to the other side overnight.", "I ate a big steadfast of eggs and toast.", "The steadfast friend abandoned us at the first sign of trouble.", "He grabbed a quick steadfast before work.", "The steadfast car zoomed down the highway.", "Her steadfast views changed every week.", "The hotel serves a free steadfast buffet.", "His steadfast support faded after a day."]
+  },
+  "inept": {
+    "examples": ["The inept burglar locked himself out of the getaway car.", "Critics called the government's response inept."],
+    "quizCorrect": ["The team's inept defense gave up five goals.", "He was hopelessly inept at small talk.", "An inept manager can ruin a good company."],
+    "quizWrong": ["The inept surgeon performed flawless operations.", "She was inept to win, given her talent.", "His inept leadership turned the company into a huge success.", "We are inept to believe him.", "The inept chef earned three Michelin stars.", "Being inept, he was the best player on the team.", "They were inept to agree.", "Her inept handling of the crisis saved everyone.", "The inept pilot landed perfectly in a storm."]
+  },
+  "fickle": {
+    "examples": ["Fans can be fickle, cheering one week and booing the next.", "The weather in spring is fickle."],
+    "quizCorrect": ["Fashion is a fickle industry.", "Investors are fickle and quick to sell.", "His fickle friends disappeared when he lost his money."],
+    "quizWrong": ["Her fickle loyalty never wavered for fifty years.", "He put the cucumbers in a jar to fickle them.", "The fickle fan has supported the same team since birth.", "She bought a jar of fickles for the burgers.", "The fickle weather was the same every day.", "The fickle gave him a tummy ache.", "His fickle devotion lasted a lifetime without change.", "Dill fickles are my favorite snack.", "The fickle friend stood by her through everything."]
+  },
+  "relinquish": {
+    "examples": ["The dictator refused to relinquish power.", "She relinquished control of the company to her son."],
+    "quizCorrect": ["The team relinquished its lead in the final minutes.", "He relinquished his seat on the board.", "Parents often find it hard to relinquish control."],
+    "quizWrong": ["She relinquished the delicious meal, enjoying every bite.", "He relinquished power by holding onto it tightly.", "The chef relinquished the steak with a sauce.", "They relinquished the memory of their trip.", "She relinquished control and kept a firm grip on everything.", "We relinquished the dessert slowly.", "The king relinquished his crown and kept it.", "He relinquished in the warm bath.", "The fans relinquished the victory all night."]
+  },
+  "frugal": {
+    "examples": ["She lived a frugal life and saved most of her salary.", "They made a frugal dinner of rice and beans."],
+    "quizCorrect": ["Frugal shoppers clip coupons and buy in bulk.", "His frugal habits helped him retire early.", "The company has become more frugal since the downturn."],
+    "quizWrong": ["The frugal billionaire bought a third private jet on a whim.", "The frugal fruit was ripe and sweet.", "Her frugal spending emptied her bank account.", "The frugal tree produced a lot of apples.", "The frugal host served caviar and champagne all night.", "Eat plenty of fresh frugals.", "His frugal wedding cost a million dollars.", "The frugal garden was full of berries.", "She is frugal and spends every penny instantly."]
+  }
+}

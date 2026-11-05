@@ -1,0 +1,72 @@
+{
+  "fastidious": {
+    "examples": ["He is fastidious about keeping his desk clean.", "The fastidious editor checked every comma."],
+    "quizCorrect": ["She was fastidious about her diet and read every label.", "The restoration required fastidious attention to detail.", "The cat is a fastidious groomer."],
+    "quizWrong": ["The fastidious roommate left dirty dishes everywhere.", "The fastidious runner won the race easily.", "His fastidious, sloppy work was full of errors.", "She ate at a fastidious pace and finished first.", "The fastidious car broke the speed record.", "Fastidious and careless, he never checked anything.", "The fastidious food arrived in five minutes.", "The fastidious cleaner left the room filthy.", "We took the fastidious route home."]
+  },
+  "insipid": {
+    "examples": ["The soup was insipid and needed salt.", "Critics called the sequel insipid."],
+    "quizCorrect": ["The pop song had insipid lyrics.", "The hospital food was famously insipid.", "Their small talk was polite but insipid."],
+    "quizWrong": ["The insipid curry was so spicy it made us cry.", "The insipid stage of the disease showed no symptoms yet.", "Her insipid wit kept the audience roaring.", "The insipid mold grew on the bread.", "The bold, insipid flavor exploded on the tongue.", "He gave an insipid, brilliant speech that inspired the nation.", "The insipid storm was just beginning.", "The thrilling, insipid movie kept us on the edge of our seats.", "The insipid infection spread slowly."]
+  },
+  "polemic": {
+    "examples": ["The book is less a history than a polemic against the war.", "Her column was a fierce polemic on tax policy."],
+    "quizCorrect": ["He wrote a polemic attacking modern architecture.", "The documentary is pure polemic, not balanced reporting.", "The essay is a sharp polemic against censorship."],
+    "quizWrong": ["The polemic covered the whole globe.", "The neutral, balanced report was a fiery polemic.", "The disease became a polemic, spreading worldwide.", "The North polemic is covered in ice.", "Her calm polemic took no side at all.", "Polar bears live near the polemic.", "The polemic praised both sides equally.", "The polemic lasted two years and killed millions.", "The explorer reached the South polemic."]
+  },
+  "bombastic": {
+    "examples": ["The candidate's bombastic speech promised everything.", "He is known for his bombastic style."],
+    "quizCorrect": ["Critics mocked the general's bombastic claims.", "The movie's bombastic score drowned out the dialogue.", "His bombastic tweets made headlines."],
+    "quizWrong": ["The bombastic whisper was modest and quiet.", "The bombastic attack destroyed the bridge.", "Her bombastic speech was short and plain.", "The bombastic planes flew over the city.", "The bombastic librarian spoke softly.", "The bombastic raid lasted all night.", "His bombastic, humble words were simple.", "The army's bombastic shells hit the fort.", "Her bombastic note said only 'thanks.'"]
+  },
+  "coalesce": {
+    "examples": ["The protests coalesced into a national movement.", "Drops of oil coalesced on the surface of the water."],
+    "quizCorrect": ["Support began to coalesce around a single candidate.", "Her ideas coalesced into a business plan.", "Small groups coalesced into one large crowd."],
+    "quizWrong": ["The crowd coalesced, scattering in every direction.", "The miners coalesced the furnace all night.", "The party coalesced into ten rival factions.", "They coalesced the grill for the barbecue.", "The team coalesced and broke apart.", "He coalesced the stove before cooking.", "The ideas coalesced into chaos and confusion.", "Workers coalesced the steam engine.", "The clouds coalesced and vanished into blue sky."]
+  },
+  "permeate": {
+    "examples": ["The smell of coffee permeated the house.", "A sense of fear permeated the town."],
+    "quizCorrect": ["Corruption permeated every level of the agency.", "Water permeated the walls of the basement.", "Technology now permeates daily life."],
+    "quizWrong": ["The smell permeated the room and stayed in one corner.", "The hairdresser permeated her hair into curls.", "The idea permeated nowhere at all.", "She permeated her hair at the salon.", "The water permeated the wall without getting through.", "His hair was permeated for the wedding.", "The rumor permeated the town and no one heard it.", "The salon permeates hair on Tuesdays.", "Fear permeated the room but no one felt it."]
+  },
+  "vehement": {
+    "examples": ["She was vehement in her opposition to the plan.", "His vehement denial convinced no one."],
+    "quizCorrect": ["The proposal met vehement resistance.", "He is a vehement critic of the mayor.", "Residents made vehement complaints about the noise."],
+    "quizWrong": ["His vehement agreement was a mild shrug.", "The vehement crashed into the guardrail.", "She gave a vehement nod, barely moving her head.", "Park the vehement in the garage.", "The vehement protest was quiet and polite.", "The vehement was towed away.", "His vehement denial was a whisper of 'maybe.'", "The vehement had four new tires.", "Her vehement support was lukewarm at best."]
+  },
+  "cacophony": {
+    "examples": ["A cacophony of car horns filled the street.", "The debate became a cacophony of shouting."],
+    "quizCorrect": ["The orchestra warming up made a cacophony.", "The market was a cacophony of vendors and bells.", "A cacophony of alarms went off at once."],
+    "quizWrong": ["The cacophony of the violin solo was soft and sweet.", "The cacophony grew in the desert pot.", "The silent library was a cacophony.", "The symphony was a perfect cacophony of harmony.", "Water the cacophony once a month.", "Her lullaby was a gentle cacophony.", "The quiet cacophony made no sound.", "The cacophony bloomed with red flowers.", "The peaceful cacophony of silence filled the room."]
+  },
+  "implacable": {
+    "examples": ["He faced an implacable enemy.", "The critic was implacable in his hatred of the film."],
+    "quizCorrect": ["The implacable heat lasted all summer.", "She was implacable in her pursuit of justice.", "The implacable opposition blocked every bill."],
+    "quizWrong": ["The implacable child calmed down instantly.", "The implacable pin was stuck in the map.", "His implacable anger vanished after an apology.", "The implacable implant was removed.", "The implacable rival forgave him at once.", "The dentist placed an implacable in her jaw.", "The implacable critic was easily won over.", "The implacable was made of titanium.", "His implacable resolve broke at the first obstacle."]
+  },
+  "pithy": {
+    "examples": ["She is known for her pithy one-liners.", "The coach gave a pithy speech: 'Play hard.'"],
+    "quizCorrect": ["His pithy advice fit on a sticky note.", "The book is full of pithy observations.", "Twitter rewards pithy writing."],
+    "quizWrong": ["The pithy speech dragged on for three hours.", "I felt pithy for the poor stray dog.", "His pithy summary rambled for pages.", "Take pithy on him; he's had a hard year.", "Her pithy, long-winded answer never ended.", "What a pithy you couldn't come.", "The pithy report was enormous.", "She looked at him with pithy.", "It's a pithy that the store closed."]
+  },
+  "impetuous": {
+    "examples": ["His impetuous decision to quit surprised everyone.", "The impetuous young king started a war."],
+    "quizCorrect": ["She regretted her impetuous purchase.", "The impetuous rookie took too many risks.", "In an impetuous moment, they got married in Vegas."],
+    "quizWrong": ["The impetuous planner spent years on every choice.", "The impetuous for change came from the voters.", "His impetuous decision took months of careful thought.", "The impetuous of the project was a grant.", "The cautious, impetuous investor never took risks.", "The new law provided the impetuous for reform.", "Her impetuous patience was legendary.", "The impetuous behind the move was money.", "His impetuous, deliberate plan was perfectly timed."]
+  },
+  "levity": {
+    "examples": ["His joke brought some levity to the tense meeting.", "The funeral was no place for levity."],
+    "quizCorrect": ["She added a touch of levity to the serious speech.", "Moments of levity helped the crew through the long voyage.", "The judge did not appreciate his levity in court."],
+    "quizWrong": ["The levity of the situation made everyone grim.", "The magician used levity to float the woman in the air.", "His levity was so grave and somber that everyone cried.", "The balloon's levity carried it to the clouds.", "The levity of his crime earned him life in prison.", "She practiced levity to float above the floor.", "The levity of the news filled the room with dread.", "The yogi achieved levity off the ground.", "The levity of the matter called for a serious response."]
+  },
+  "prosaic": {
+    "examples": ["The truth was more prosaic: he had overslept.", "Her prosaic job involved filing paperwork."],
+    "quizCorrect": ["The film's ending was disappointingly prosaic.", "The explanation for the strange lights was prosaic.", "He wrote in a dry, prosaic style."],
+    "quizWrong": ["The prosaic poem soared with beautiful imagery.", "He played a prosaic violin solo.", "Her prosaic, magical story enchanted everyone.", "The prosaic tile floor was colorful and artistic.", "The thrilling, prosaic adventure was unforgettable.", "The prosaic of the bathroom was cracked.", "His prosaic life was full of wild excitement.", "She designed a prosaic for the church floor.", "The prosaic fantasy novel was full of dragons and wonder."]
+  },
+  "vicarious": {
+    "examples": ["She took vicarious pleasure in her daughter's success.", "Travel shows offer vicarious adventure."],
+    "quizCorrect": ["Fans enjoy a vicarious thrill when their team wins.", "He lived vicariously through his son's career.", "Reading gives a vicarious taste of other lives."],
+    "quizWrong": ["The vicarious lion devoured its prey.", "She felt vicarious pleasure from winning the race herself.", "The vicarious led the church service.", "His vicarious experience of the war came from fighting on the front lines.", "The vicarious appetite of the shark was terrifying.", "The vicarious gave a sermon on Sunday.", "She felt vicarious joy at her own birthday party.", "The vicarious wolf ate the whole deer.", "The vicarious blessed the couple."]
+  }
+}

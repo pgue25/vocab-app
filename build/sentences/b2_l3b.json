@@ -1,0 +1,72 @@
+{
+  "corroborate": {
+    "examples": ["Two witnesses corroborated her account.", "Police found evidence to corroborate the suspect's alibi."],
+    "quizCorrect": ["Security footage corroborated the driver's story.", "Scientists could not corroborate the findings.", "Bank records corroborate his claim that he was paid."],
+    "quizWrong": ["The two companies corroborated on a new product.", "The DNA corroborated his story by proving it false.", "The artists corroborated on a mural downtown.", "Rust corroborated the old pipes.", "The witness corroborated the alibi by contradicting it.", "Salt water corroborated the ship's hull.", "Let's corroborate on this project as a team.", "Acid will corroborate metal over time.", "Her lie corroborated nothing and disproved everything."]
+  },
+  "dearth": {
+    "examples": ["There is a dearth of affordable housing in the city.", "The dearth of evidence made the case hard to prove."],
+    "quizCorrect": ["Rural hospitals face a dearth of doctors.", "The team suffered from a dearth of good shooters.", "A dearth of rain ruined the harvest."],
+    "quizWrong": ["There was a dearth of food, with tables overflowing.", "The dearth of the king was announced at dawn.", "The store had a dearth of milk, stacked to the ceiling.", "His sudden dearth shocked the family.", "The dearth toll from the storm rose to twenty.", "A dearth of options meant we had too many to choose from.", "The dearth certificate was signed by the doctor.", "The dearth of volunteers filled every shift twice over.", "She mourned the dearth of her grandmother."]
+  },
+  "malevolent": {
+    "examples": ["The villain had a malevolent grin.", "Officials warned of malevolent hackers targeting hospitals."],
+    "quizCorrect": ["The story features a malevolent spirit haunting a house.", "He cast a malevolent glance at his rival.", "Malevolent actors spread false information online."],
+    "quizWrong": ["The malevolent donor gave millions to charity.", "Her malevolent smile warmed every heart.", "The malevolent nurse cared tenderly for the sick.", "The doctor said the growth was malevolent and harmless.", "The malevolent fairy granted three kind wishes.", "His malevolent gift was a thoughtful present.", "The malevolent saint fed the poor.", "The malevolent volunteer helped every neighbor.", "Their malevolent kindness was legendary."]
+  },
+  "onerous": {
+    "examples": ["The new rules place an onerous burden on small businesses.", "Paying back the loan proved onerous."],
+    "quizCorrect": ["The onerous paperwork discouraged many applicants.", "Critics called the terms of the deal onerous.", "Caring for her sick father became an onerous task."],
+    "quizWrong": ["The onerous task took only a minute and was easy.", "The judge praised him for his onerous character.", "It was an onerous honor to receive the award.", "Her onerous reputation made her the most trusted person in town.", "The onerous medal was given for bravery.", "The light, onerous duty was a pleasure to perform.", "He was known as an onerous and upright man.", "We had the onerous of meeting the president.", "The onerous job was effortless."]
+  },
+  "prodigious": {
+    "examples": ["She has a prodigious memory for names.", "The company spends prodigious sums on advertising."],
+    "quizCorrect": ["The young pianist showed prodigious talent.", "He ate a prodigious amount of pasta.", "The dam is a prodigious feat of engineering."],
+    "quizWrong": ["The prodigious son returned home after wasting his money.", "Her prodigious talent was barely noticeable.", "The prodigious amount of food was a single bite.", "He was a prodigious, spending his fortune on parties.", "The prodigious effort required almost no work.", "His prodigious wealth was a few coins.", "The prodigious son repented and came back.", "A prodigious crowd of three people gathered.", "The prodigious memory forgot everything."]
+  },
+  "opulent": {
+    "examples": ["The hotel lobby was opulent, with marble floors and chandeliers.", "They lived an opulent life in a mansion by the sea."],
+    "quizCorrect": ["The palace's opulent rooms drew millions of visitors.", "The wedding was an opulent affair.", "She wore an opulent gown covered in pearls."],
+    "quizWrong": ["The opulent cabin had no electricity or furniture.", "The opulent student got straight A's.", "Their opulent home was a tiny, bare room.", "The opulent wolf hunted alone.", "He gave an opulent answer that was simple and plain.", "The opulent opossum hung from a branch.", "The bare, opulent cell had only a cot.", "Her opulent outfit was plain and cheap.", "The opulent shack leaked when it rained."]
+  },
+  "unequivocal": {
+    "examples": ["The answer was an unequivocal no.", "The study offers unequivocal evidence that smoking causes cancer."],
+    "quizCorrect": ["She gave her unequivocal support to the plan.", "The court's ruling was unequivocal.", "His apology was clear and unequivocal."],
+    "quizWrong": ["His unequivocal answer was vague and confusing.", "The two teams were unequivocal, with very different scores.", "The unequivocal statement could mean anything.", "The amounts were unequivocal, so we split them unevenly.", "Her unequivocal reply was a 'maybe.'", "The unequivocal shares were divided unfairly.", "The evidence was unequivocal and highly uncertain.", "His unequivocal shrug said nothing.", "The unequivocal message was full of hidden meanings."]
+  },
+  "amenable": {
+    "examples": ["The landlord was amenable to lowering the rent.", "She is amenable to changing the date if needed."],
+    "quizCorrect": ["Both sides seemed amenable to a compromise.", "The disease is amenable to treatment if caught early.", "He was amenable to most of our suggestions."],
+    "quizWrong": ["The amenable boss refused every request.", "The hotel offers many amenables, like a pool and spa.", "She was amenable to the idea and rejected it flatly.", "The apartment's amenables include a gym.", "The amenable negotiator would not budge on anything.", "List the amenables in the ad.", "He was amenable to change and refused to try anything new.", "The resort's amenables were excellent.", "The stubborn, amenable child said no to everything."]
+  },
+  "impervious": {
+    "examples": ["The coat is impervious to rain.", "He seemed impervious to criticism."],
+    "quizCorrect": ["The new material is impervious to heat.", "The leader appeared impervious to public pressure.", "The vault is impervious to fire and flood."],
+    "quizWrong": ["The impervious sponge soaked up all the water.", "She was impervious to criticism and cried at every comment.", "His impervious attitude bossed everyone around.", "The thin paper was impervious and leaked everywhere.", "The impervious king demanded total obedience.", "He was impervious to the cold and shivered all night.", "Her impervious tone was rude and commanding.", "The impervious roof leaked in every storm.", "The impervious general shouted orders."]
+  },
+  "virulent": {
+    "examples": ["A virulent strain of flu spread through the city.", "The campaign included virulent attacks on the opponent."],
+    "quizCorrect": ["The bacteria became more virulent over time.", "He was a virulent critic of the war.", "Online forums filled with virulent abuse."],
+    "quizWrong": ["The virulent young man lifted weights every day.", "The virulent virus caused only a mild sniffle.", "Her virulent praise was gentle and kind.", "The virulent athlete was strong and manly.", "The virulent disease was completely harmless.", "His virulent good health kept him active at ninety.", "The virulent compliment made her blush.", "The virulent bull was strong and fertile.", "The virulent, harmless bug did nothing."]
+  },
+  "pernicious": {
+    "examples": ["Misinformation has a pernicious effect on democracy.", "Gambling can become a pernicious habit."],
+    "quizCorrect": ["The pernicious myth has misled people for decades.", "Doctors warned about the pernicious effects of vaping.", "Inflation's pernicious effects hurt the poor most."],
+    "quizWrong": ["The pernicious vitamins kept her healthy.", "His pernicious advice saved the company.", "The pernicious hug made her feel better.", "Exercise has pernicious effects, like a stronger heart.", "The pernicious medicine cured him overnight.", "Her pernicious kindness helped everyone.", "The pernicious fruit was full of nutrients.", "Sleep has a pernicious effect on memory, improving it.", "The pernicious gift brought her joy."]
+  },
+  "rescind": {
+    "examples": ["The university rescinded his admission after the scandal.", "The city rescinded the new parking rules."],
+    "quizCorrect": ["The company rescinded the job offer.", "Congress voted to rescind the tax cut.", "The award was rescinded when the fraud came to light."],
+    "quizWrong": ["The school rescinded her admission and welcomed her warmly.", "The smell rescinded from the room.", "He rescinded the old couch to the curb.", "The floodwaters rescinded after a week.", "The government rescinded the law by passing it.", "His hairline rescinded over the years.", "The tide rescinded from the beach.", "She rescinded the offer and kept it on the table.", "The rescinding glacier revealed rocks."]
+  },
+  "vitriol": {
+    "examples": ["The debate was full of vitriol.", "She faced a wave of online vitriol after her post."],
+    "quizCorrect": ["The critic aimed his vitriol at the director.", "Political vitriol has made compromise harder.", "His letter was dripping with vitriol."],
+    "quizWrong": ["The vitriol of the patient was strong after the transfusion.", "The speech was full of vitriol, kind and gentle words.", "The doctor measured his vitriol signs.", "She greeted her friends with warm vitriol.", "Eat your vegetables for more vitriol.", "His vitriol praise lifted everyone's spirits.", "The patient's vitriol organs were healthy.", "The letter was full of loving vitriol.", "The athlete was full of energy and vitriol."]
+  },
+  "coerce": {
+    "examples": ["The suspect said he was coerced into confessing.", "Workers claimed they were coerced into signing the contract."],
+    "quizCorrect": ["You can't coerce someone into loving you.", "The regime coerced citizens into voting.", "She refused to be coerced by threats."],
+    "quizWrong": ["The fabric was coerce and itchy.", "He coerced her gently by letting her choose freely.", "The sand was coerce under our feet.", "His coerce voice was rough from yelling.", "They coerced him by asking politely and accepting no.", "Use coerce salt for the steak.", "The coerce texture of the wool scratched my skin.", "She coerced him by giving him complete freedom.", "The coerce sandpaper smoothed the wood."]
+  }
+}

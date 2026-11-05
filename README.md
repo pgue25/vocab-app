@@ -14,7 +14,7 @@ Each level's words are walked in a fixed shuffled order, so a word won't repeat 
 
 - **Today**: the word of the day, with a 🔊 pronunciation button.
 - **Learn**: 25 words a day (5 per level, from `pickDailySet`), studied as flashcards or a 25-question quiz.
-  No word appears two days in a row. Progress through today's session is saved.
+  A word won't come back for about two weeks (400-word bank). Progress through today's session is saved.
 - **Quiz**: endless review of every word you've studied (missed words come up more), with stats below.
 - **Settings**: theme, export/import progress.
 
@@ -37,7 +37,7 @@ Still learning / Know it, Enter confirm. Score and "all done" screens: Enter = m
 ## Adding words
 
 1. Add words to `build/candidates.txt`.
-2. `python3 build/build_words.py --per-level 40` (or omit `--per-level` to use every candidate).
+2. `python3 build/build_words.py --per-level 80` (or omit `--per-level` to use every candidate).
    This fetches definitions (Merriam-Webster if `MW_API_KEY` is set, else dictionaryapi.dev, else Wiktionary)
    and lists words still missing sentences.
 3. Ask Claude to write sentences for the missing words into a new `build/sentences/*.json`

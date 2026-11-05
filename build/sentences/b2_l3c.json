@@ -1,0 +1,72 @@
+{
+  "nadir": {
+    "examples": ["The company's stock hit its nadir in March.", "The breakup was the nadir of a terrible year."],
+    "quizCorrect": ["Relations between the two countries reached a nadir after the scandal.", "The team's 0-10 start was the nadir of the franchise's history.", "Public trust in the agency fell to a nadir."],
+    "quizWrong": ["Winning the championship was the nadir of her career.", "The climbers celebrated at the nadir of the mountain's peak.", "His promotion marked the nadir of his success, the very best moment.", "The sun reached its nadir at noon, high overhead.", "They planted a flag at the nadir of the summit.", "The nadir of the party was when everyone cheered the happy news.", "Her gold medal was the nadir of a brilliant season.", "The plane climbed to its nadir of 40,000 feet.", "The wedding was the nadir of her happiest year."]
+  },
+  "paltry": {
+    "examples": ["Workers were offered a paltry raise of one percent.", "The fine was paltry compared to the profits."],
+    "quizCorrect": ["The charity raised a paltry sum this year.", "Savings accounts pay paltry interest.", "Only a paltry crowd showed up for the game."],
+    "quizWrong": ["The farmer raised paltry in the barn.", "He won a paltry fortune of fifty million dollars.", "We ate roast paltry for dinner.", "The paltry crowd of a hundred thousand filled the stadium.", "Chickens and ducks are types of paltry.", "Her paltry salary made her the richest woman in town.", "The paltry farm sells fresh eggs.", "The paltry donation built a whole hospital.", "Cook the paltry until it's no longer pink."]
+  },
+  "wanton": {
+    "examples": ["The report condemned the wanton destruction of the forest.", "It was an act of wanton cruelty."],
+    "quizCorrect": ["Vandals caused wanton damage to the park.", "Critics attacked the government's wanton spending.", "The judge described the attack as wanton and unprovoked."],
+    "quizWrong": ["I'm wanton a new bike for my birthday.", "The wanton damage was carefully planned and justified.", "We ordered wanton soup at the Chinese restaurant.", "The wanton act was a careful, reasoned decision.", "Fried wantons are my favorite appetizer.", "She was wanton to leave but stayed.", "The wanton destruction was minor and accidental.", "He's wanton more attention from his boss.", "Add wantons to the broth."]
+  },
+  "amiable": {
+    "examples": ["The new neighbor was amiable and easy to talk to.", "The two leaders had an amiable meeting."],
+    "quizCorrect": ["He's an amiable host who makes everyone feel welcome.", "Their divorce was surprisingly amiable.", "The amiable waiter remembered our names."],
+    "quizWrong": ["The amiable bear attacked the campers.", "Frogs are amiable creatures that live on land and in water.", "The amiable clerk snapped at every customer.", "The amiable salamander hid under a log.", "His amiable greeting was a cold glare.", "The amiable dog bit everyone who came near.", "Toads are amiables, like frogs.", "The amiable, grumpy old man yelled at the kids.", "Her amiable manner made enemies everywhere."]
+  },
+  "wane": {
+    "examples": ["Interest in the show began to wane after the first season.", "The moon is on the wane."],
+    "quizCorrect": ["Her enthusiasm waned as the project dragged on.", "Public support for the war waned.", "The storm's strength waned overnight."],
+    "quizWrong": ["His popularity waned, rising to an all-time high.", "The child waned for more candy.", "The moon waned until it was full and bright.", "The puppy waned at the door to go outside.", "Their love waned and grew stronger every day.", "Stop waning and do your homework.", "Interest waned, and ticket sales soared.", "The baby waned until she got her bottle.", "The fire waned into a roaring blaze."]
+  },
+  "constrain": {
+    "examples": ["A tight budget constrained the project.", "The law constrains how much candidates can spend."],
+    "quizCorrect": ["Limited space constrains what the museum can display.", "Rising costs constrained the company's growth.", "She felt constrained by the strict rules."],
+    "quizWrong": ["The cook constrained the pasta in a colander.", "Unlimited funding constrained the project, letting it grow freely.", "He constrained his ankle playing soccer.", "Constrain the noodles before adding sauce.", "The new freedom constrained her, removing all limits.", "She constrained a muscle lifting boxes.", "The lack of rules constrained everyone tightly.", "Constrain the vegetables and pat them dry.", "He constrained his back moving the couch."]
+  },
+  "irreverent": {
+    "examples": ["The magazine is known for its irreverent humor.", "He gave an irreverent speech that poked fun at the guests."],
+    "quizCorrect": ["Her irreverent jokes about the royal family drew complaints.", "The show takes an irreverent look at politics.", "Fans love the band's irreverent attitude."],
+    "quizWrong": ["His comment was irreverent to the topic and off-subject.", "The irreverent priest bowed with deep respect.", "That detail is irreverent; ignore it.", "Her solemn, irreverent prayer showed great respect.", "The irreverent information was left out of the report.", "The irreverent student bowed politely to the teacher.", "Stick to the point and avoid irreverent details.", "His irreverent awe at the cathedral was moving.", "The question was irreverent to the case."]
+  },
+  "candor": {
+    "examples": ["She spoke with surprising candor about her failures.", "I appreciate your candor."],
+    "quizCorrect": ["The CEO's candor about the losses impressed investors.", "In a moment of candor, he admitted he was scared.", "The memoir is praised for its candor."],
+    "quizWrong": ["The room was decorated with great candor and gold.", "His candor was obvious when he lied about everything.", "The palace's candor dazzled the tourists.", "She hid the truth with remarkable candor.", "The candor of the ballroom took our breath away.", "His candor showed in how secretive he was.", "The castle's candor was its golden throne.", "With total candor, she concealed her real feelings.", "The candor of the sunset lit up the sky."]
+  },
+  "anathema": {
+    "examples": ["Tax increases are anathema to the party.", "Waste was anathema to her frugal grandmother."],
+    "quizCorrect": ["The idea of a merger was anathema to the founders.", "Censorship is anathema to journalists.", "For him, being late was anathema."],
+    "quizWrong": ["The national anathema was played before the game.", "Chocolate is anathema to her; she loves it more than anything.", "The choir sang a beautiful anathema in church.", "Everyone stood for the anathema.", "Freedom is anathema to the activists who fight for it.", "The anathema of the patient was quickly treated.", "She sang the anathema at the Super Bowl.", "Kindness is anathema to the generous nurse.", "The school anathema was sung at graduation."]
+  },
+  "capricious": {
+    "examples": ["The weather in the mountains is capricious.", "Employees feared the capricious decisions of their boss."],
+    "quizCorrect": ["The ruling seemed arbitrary and capricious.", "Fame is capricious and can vanish overnight.", "The capricious king changed laws on a whim."],
+    "quizWrong": ["The capricious goat climbed the rocky hill.", "His capricious habits never changed in forty years.", "Her capricious schedule was the same every day.", "The capricious pasta was topped with capers.", "He is capricious and completely predictable.", "We ate a capricious salad with tomatoes and mozzarella.", "The capricious law stayed the same for a century.", "Capricious is the zodiac sign of the goat.", "The steady, capricious routine never varied."]
+  },
+  "inadvertent": {
+    "examples": ["The leak was inadvertent, according to the company.", "She made an inadvertent error on the form."],
+    "quizCorrect": ["He apologized for the inadvertent insult.", "The inadvertent release of data affected millions.", "Her inadvertent comment revealed the secret."],
+    "quizWrong": ["The inadvertent insult was carefully planned for weeks.", "The inadvertent explorer sailed to unknown lands.", "His inadvertent move was a deliberate strategy.", "The movie was an inadvertent thriller full of action.", "She inadvertently planned every step on purpose.", "They went on an inadvertent in the jungle.", "The inadvertent crime was meticulously plotted.", "The inadvertent park has great rides.", "His inadvertent choice was made after long thought."]
+  },
+  "forthright": {
+    "examples": ["She was forthright about the risks of the surgery.", "He gave a forthright answer to every question."],
+    "quizCorrect": ["The coach was forthright about the team's weaknesses.", "Voters appreciated her forthright style.", "He was forthright in admitting his mistake."],
+    "quizWrong": ["The forthright witness dodged every question.", "Turn forthright at the second light.", "Her forthright answer was evasive and vague.", "He was forthright with his money, refusing to share it.", "Go forthright down the road for a mile.", "The forthright politician hid the truth.", "She refused forthright and then agreed.", "The forthright speaker never gave a straight answer.", "Walk forthright until you see the bank."]
+  },
+  "haphazard": {
+    "examples": ["The books were stacked in a haphazard way.", "The rollout of the new system was haphazard."],
+    "quizCorrect": ["The city's haphazard planning led to traffic jams.", "Her notes were haphazard and hard to follow.", "The investigation was criticized as haphazard."],
+    "quizWrong": ["The haphazard plan was carefully organized step by step.", "Smoking is a haphazard to your health.", "The neat, haphazard shelves were perfectly sorted.", "Ice on the road is a driving haphazard.", "The fire was a haphazard to the whole building.", "His haphazard system was methodical and precise.", "Watch for haphazards on the trail.", "The haphazard filing was in strict alphabetical order.", "Loose wires are a safety haphazard."]
+  },
+  "voracious": {
+    "examples": ["She is a voracious reader who finishes a book a day.", "The voracious caterpillars stripped the trees."],
+    "quizCorrect": ["Teenagers often have voracious appetites.", "The market has a voracious demand for chips.", "He has a voracious curiosity about history."],
+    "quizWrong": ["The voracious eater barely touched his food.", "The witness gave a voracious account that was completely true.", "Her voracious appetite was satisfied by a single grape.", "We need voracious information before we decide.", "The voracious reader hasn't opened a book in years.", "His voracious testimony was accurate in every detail.", "The voracious shark ignored the food.", "The report was voracious and checked by experts.", "Her voracious hunger disappeared after one bite."]
+  }
+}
